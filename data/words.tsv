@@ -1,0 +1,454 @@
+# Sanasto. Muoto: ukraina<TAB>suomi<TAB>(valinnainen huomio)
+# Rivi "@id<TAB>otsikko" aloittaa uuden osion. Sanan tunniste on ukrainankielinen teksti, joten älä muuta sitä turhaan (edistyminen on sidottu siihen).
+
+@L0	Perusteet: päivät, kuukaudet, numerot
+сьогодні	tänään
+вчора	eilen
+завтра	huomenna
+понеділок	maanantai
+вівторок	tiistai
+середа	keskiviikko
+четвер	torstai
+п'ятниця	perjantai
+субота	lauantai
+неділя	sunnuntai
+січень	tammikuu
+лютий	helmikuu
+березень	maaliskuu
+квітень	huhtikuu
+травень	toukokuu
+червень	kesäkuu
+липень	heinäkuu
+серпень	elokuu
+вересень	syyskuu
+жовтень	lokakuu
+листопад	marraskuu
+грудень	joulukuu
+Яке сьогодні число?	Monesko päivä tänään on?
+Який сьогодні день?	Mikä viikonpäivä tänään on?
+три	kolme
+двадцять чотири	kaksikymmentäneljä (24)
+сто	sata
+сто п'ять	sataviisi (105)
+тисяча	tuhat
+
+@L1	1 · 18.9 · Tervehdys, mieliala, sää
+Як ваші справи?	Mitä teille kuuluu?
+Ласкаво просимо!	Tervetuloa!
+настрій	mieliala
+чудовий	loistava, upea
+гарний	hyvä, kaunis
+нормальний	tavallinen, normaali
+втомлений	väsynyt	nainen: втомлена
+схвильований	jännittynyt, huolestunut	nainen: схвильована
+спокійний	rauhallinen	nainen: спокійна
+радий	iloinen	nainen: рада
+Я почуваюся не дуже добре.	En voi kovin hyvin.
+погода	sää
+Дує вітер.	Tuulee.
+Іде дощ.	Sataa vettä.
+хмарно	pilvistä
+Світить сонце.	Aurinko paistaa.
+тепло	lämmintä
+осінь	syksy
+літо	kesä
+зима	talvi
+весна	kevät
+пори року	vuodenajat
+вже	jo	myös: уже
+ще	vielä
+Мені подобається…	Pidän (jostakin)…	+ nominatiivi: Мені подобається осінь
+вивчати	opiskella (jotakin)
+пити каву	juoda kahvia
+гуляти	kävellä, ulkoilla
+їздити на авто	ajaa autolla
+кататися на велосипеді	pyöräillä
+обід	lounas
+тиждень	viikko
+фотограф	valokuvaaja	nainen: фотографиня
+фотографувати	valokuvata
+свіжий сік	tuore mehu
+планувати	suunnitella, aikoa
+свято	juhla
+День народження	syntymäpäivä
+зустрічатися з друзями	tavata ystäviä
+вихідні дні	vapaapäivät
+архітектор	arkkitehti
+будівельна компанія	rakennusyhtiö
+вдома	kotona
+разом	yhdessä
+займатися йогою	harrastaa joogaa
+професія	ammatti
+Скільки тобі років?	Kuinka vanha olet?
+
+@L3	3 · 2.10 · Oudot talot, стояти/лежати/висіти
+стояти	seistä, olla pystyssä	стоїть, стоять
+лежати	maata, olla vaakatasossa	лежить, лежать
+висіти	riippua	висить, висять
+рушник	pyyhe
+дзеркало	peili
+крісло	nojatuoli
+зубна паста	hammastahna
+зубна щітка	hammasharja
+полиця	hylly
+кошик	kori
+ліжко	sänky
+килим	matto, ryijy
+подушка	tyyny
+монітор	näyttö
+люстра	kattokruunu
+штори	verhot
+вазон	ruukkukasvi
+журнальний столик	sohvapöytä
+книжкова шафа	kirjahylly, kirjakaappi
+мікрохвильова піч	mikroaaltouuni
+кухонні шафки	keittiön kaapit
+ванна кімната	kylpyhuone
+вітальня	olohuone
+спальня	makuuhuone
+кухня	keittiö
+одяг	vaatteet
+шафа	kaappi
+плита	liesi
+чайник	vedenkeitin
+посуд	astiat
+балкон	parveke
+газета	sanomalehti
+стеля	sisäkatto
+підлога	lattia
+стіна	seinä
+вікно	ikkuna
+коли-небудь	koskaan, joskus
+мабуть	luultavasti, ehkä
+потім	myöhemmin, sitten
+зрозуміти	ymmärtää
+точно	tarkasti
+називати	kutsua, nimittää
+дуже дивний	todella outo
+Його будували…	Sitä rakennettiin…
+стоїть на землі	seisoo maassa
+кажуть	sanotaan
+навіть	jopa
+насправді	oikeastaan, todellisuudessa
+почуватися дивно	tuntea olonsa oudoksi
+декоративний	koristeellinen
+знову	taas, uudelleen
+знизу вгору	alhaalta ylöspäin
+звичайно	tietenkin, tietysti
+ніби	ikään kuin
+всередині	sisällä
+
+@L4	4 · 9.10 · Pyhän Nikolauksen talo
+казка	satu
+як у казці	kuin sadussa
+дарувати подарунки	antaa lahjoja
+отримувати подарунки	saada lahjoja
+десь	jossain
+за три тижні до Різдва	kolme viikkoa ennen joulua
+доба	vuorokausi
+цілодобово	ympäri vuorokauden
+без вихідних	ilman vapaapäiviä
+побачити	nähdä
+різні папки	erilaiset kansiot
+новорічні іграшки	joulukoristeet
+наступний	seuraava
+своїми руками	omin käsin
+пластилін	muovailuvaha
+тканина	kangas
+майстерня	työpaja
+ножиці	sakset
+глобус	karttapallo
+шукати	etsiä
+мішок	säkki
+загадувати бажання	toivoa jotain, esittää toivomus
+виконувати бажання	toteuttaa toiveita
+почуватися	tuntea olonsa	я почуваюся, ти почуваєшся
+фігурка	hahmo, figuuri
+казкові герої	satuhahmot
+простий	yksinkertainen
+Різдво	joulu
+диво	ihme	mon. gen. див: час див = ihmeiden aika
+традиція	perinne
+приносити	tuoda
+вночі	yöllä
+село	kylä
+область	alue (hallinnollinen)
+гості	vieraat
+дерев'яний	puinen
+поверх	kerros
+пошта	posti
+лист	kirje
+валіза	matkalaukku
+малюнок	piirustus
+ялинка	joulukuusi
+поштівка	postikortti
+сучасний	nykyaikainen, moderni
+лавка	penkki
+папір	paperi
+клей	liima
+фарби	maalit
+кольорові олівці	värikynät
+радісно	iloisesti
+допомагати	auttaa
+рослини	kasvit
+тварини	eläimet
+приватний	yksityinen
+кабінет	työhuone
+відповідь	vastaus
+перо	sulkakynä
+чорнило	muste
+колір	väri
+залежати від	riippua jostakin	+ genetiivi
+мапа	kartta
+куток	nurkka	у кутку = nurkassa
+добрий	kiltti, hyvä
+чемний	tottelevainen, kohtelias
+неслухняний	tuhma
+відпочивати	levätä
+вишитий	kirjailtu
+розмовляти	puhua, keskustella
+вміти	osata	вони вміють = he osaavat
+доторкнутися до	koskettaa jotakin	+ genetiivi
+обов'язково	varmasti, ehdottomasti
+стати реальністю	toteutua
+ковдра	peitto
+простирадло	lakana
+блакитний	vaaleansininen
+сніг	lumi
+ікона	ikoni
+капці	tossut
+подвір'я	piha
+будиночок	pikkutalo
+народні казки	kansansadut
+дізнатися	saada selville
+дорослі	aikuiset
+різдвяний	joulu-, jouluinen	Різдво → різдвяний
+новорічний	uudenvuoden-	Новий рік → новорічний
+зимовий	talvinen, talvi-	зима → зимовий
+літній	kesäinen, kesä-	літо → літній
+кольоровий	värillinen, väri-	колір → кольоровий
+карпатський	karpaattilainen	Карпати → карпатський
+український	ukrainalainen	Україна → український
+народний	kansan-, kansallinen	народ → народний
+дитячий	lasten-	дитина → дитячий
+домашній	koti-, kotoinen	дім → домашній
+казковий	satumainen	казка → казковий
+гостинний	vieraanvarainen
+
+@L5	5 · 23.10 · Paikan prepositiot, keittiö
+біля	vieressä, lähellä	+ genetiivi
+коло	vieressä, lähellä	+ genetiivi
+праворуч від	oikealla puolella	+ genetiivi; myös справа від
+ліворуч від	vasemmalla puolella	+ genetiivi; myös зліва від
+навпроти	vastapäätä	+ genetiivi
+недалеко від	lähellä, ei kaukana	+ genetiivi
+далеко від	kaukana	+ genetiivi
+навколо	ympärillä	+ genetiivi
+під	alla	+ instrumentaali
+над	yläpuolella	+ instrumentaali
+перед	edessä	+ instrumentaali
+за	takana	+ instrumentaali
+між	välissä	+ instrumentaali: між диваном і кріслом
+поруч з	vieressä	+ instrumentaali; myös поряд з
+на	päällä, -lla	+ lokatiivi
+у	sisällä, -ssa	+ lokatiivi; myös в
+тумбочка	yöpöytä
+комод	lipasto
+вішалка	naulakko
+табурет	jakkara
+письмовий стіл	kirjoituspöytä
+обідній стіл	ruokapöytä
+комп'ютерний стіл	tietokonepöytä
+мийка	tiskiallas
+годинник	kello
+рюкзак	reppu
+лампа	lamppu
+екран	näyttö, ruutu
+камін	takka
+меблі	huonekalut
+диван	sohva
+стілець	tuoli	instr. стільцем
+стіл	pöytä	gen. столу/стола, lok. столі
+картина	taulu, maalaus
+холодильник	jääkaappi
+морозильник	pakastin
+духовка	uuni
+посудомийна машина	astianpesukone
+кавоварка	kahvinkeitin
+пляшка молока	maitopullo
+ложка	lusikka
+виделка	haarukka
+каструля	kattila
+сковорідка	paistinpannu
+тарілка	lautanen
+чашка	kuppi
+поставити	laittaa (pystyyn)	→ стоїть
+покласти	laittaa (makaamaan)	→ лежить
+повісити	ripustaa	→ висить
+сусід	naapuri
+вхідні двері	ulko-ovi	двері on vain monikossa
+круглий	pyöreä
+зручний	mukava
+м'який	pehmeä
+піаніно	piano	ei taivu
+ваза з квітами	maljakko, jossa on kukkia
+Телефон лежить переді мною.	Puhelin on edessäni.
+З вікна видно море.	Ikkunasta näkyy meri.
+У моїй квартирі немає сауни.	Asunnossani ei ole saunaa.	немає + genetiivi
+Наша кухня поєднана з вітальнею.	Keittiömme on yhdistetty olohuoneeseen.
+
+@L6	6 · 30.10 · Tämä outo maailma (kirja s. 108–109)
+На колір і смак товариш не всяк.	Makuasioista ei voi kiistellä.
+список	lista
+ручки кошика	korin kahvat
+штучне озеро	tekojärvi
+поняття краси	käsitys kauneudesta
+приватність	yksityisyys
+неправильна форма	epäsäännöllinen muoto
+платформа	tasanne
+перетворити на	muuttaa joksikin
+жук-сонечко	leppäkerttu
+трава	ruoho
+радіостудія	radiostudio
+рот із зубами	hampaallinen suu
+вирішити	päättää
+віднедавна	vähän aikaa sitten alkaen
+талановиті люди	lahjakkaat ihmiset
+асиметричний інтер'єр	epäsymmetrinen sisustus
+радіатор	lämpöpatteri
+сміливий	rohkea
+приблизно	noin, suunnilleen
+складатися	taittua kokoon
+перевернути на бік	kääntää kyljelleen
+не дивно	ei ihme
+смак	maku
+краса	kauneus
+нестандартний	epätavallinen
+змінити	muuttaa, vaihtaa
+равлик	etana
+столиця	pääkaupunki
+смішний	hauska
+побудувати	rakentaa
+відкрити	avata
+прямий	suora
+кут	kulma
+дах	katto (ulkokatto)
+розташований	sijaitseva
+димар	savupiippu
+схожий на	samannäköinen kuin	+ akkusatiivi
+вхід	sisäänkäynti
+у формі	jonkin muotoinen	+ genetiivi
+суміш	sekoitus
+антикварний	antiikkinen
+овочі	vihannekset
+прозорий	läpinäkyvä
+світлий	valoisa
+відчувати	tuntea, aistia
+скляний	lasinen
+ванна	kylpyamme
+господар	isäntä, omistaja
+хоча б	edes
+сходи	portaat
+боятися	pelätä
+увесь час	koko ajan
+штат	osavaltio
+офісний центр	toimistokeskus
+справжній	oikea, aito
+покупки	ostokset
+гриб	sieni
+ягода	marja
+площа	pinta-ala; aukio
+квадратний метр	neliömetri
+проте	kuitenkin
+головне	tärkeintä
+безкоштовно	ilmaiseksi
+свобода	vapaus
+у будь-якому місці	missä tahansa
+річка	joki
+споруда	rakennelma, rakennus
+спочатку	aluksi
+відомий	tunnettu
+танцівник	tanssija (mies)	nainen: танцівниця
+вежа	torni
+пара	pari
+кам'яний	kivinen
+під землею	maan alla
+звідси	täältä
+замок	linna
+камінь	kivi
+гори	vuoret
+здається	näyttää siltä
+мультик	piirretty
+на жаль	valitettavasti
+кривий	vino
+торговий центр	kauppakeskus
+внизу	alhaalla
+нагорі	ylhäällä
+рости	kasvaa
+кущі	pensaat
+квартира	asunto
+гараж	autotalli
+гармонія з природою	sopusointu luonnon kanssa
+індивідуальний	yksilöllinen
+горизонтальний	vaakasuora
+рівень	taso
+сад	puutarha
+ліс	metsä
+божевільний	hullu
+незвичний	epätavallinen
+гігантський	jättimäinen
+печера	luola
+коридор	käytävä
+затишний	kodikas
+квиток	lippu
+
+@L6B	6 · Työkirja 20 · Joulupukki Rovaniemellä
+далекий	kaukainen
+холодний	kylmä
+частина	osa
+гора	vuori
+вухо	korva	mon. вуха
+дружина	vaimo
+ельф	tonttu
+чути	kuulla
+секретний	salainen
+знайти	löytää
+небезпека	vaara
+з усього світу	kaikkialta maailmasta
+Поїдемо і ми!	Lähdetään mekin!
+Полярне коло	napapiiri
+взимку	talvella
+окремий	erillinen, oma
+штамп	leima
+іноді	joskus
+свічка	kynttilä
+дошка	taulu
+отримати	saada
+зазвичай	tavallisesti
+зустрічати гостей	ottaa vieraita vastaan
+чекати	odottaa
+батьки	vanhemmat
+сумка	laukku
+виставка	näyttely
+прикраси	koristeet
+заховатися	piiloutua
+секрет	salaisuus
+підземний	maanalainen
+покататися на поїзді	ajella junalla
+показувати	näyttää
+парта	pulpetti
+вчитися	opiskella, oppia
+вчитель	opettaja	працювати вчителем = toimia opettajana
+навчити	opettaa
+хвилина	minuutti
+імбирні пряники	piparkakut
+смачний	herkullinen
+прикрашати	koristella
+тістечка	leivokset
+з'їсти	syödä (loppuun)
+льодяний	jäinen, jää-
+статуя	patsas
+лід	jää	з льоду = jäästä
+пригощати	tarjota (vieraalle)
+напій	juoma
+склянка	juomalasi
