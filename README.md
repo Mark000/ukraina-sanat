@@ -21,3 +21,8 @@ python3 tools/analyze.py
 ```
 
 Hakee tulokset Gististä `gh`-komennolla ja tulostaa yhteenvedon (päivät, osiot, vaikeimmat sanat).
+
+## Työkalut
+
+- `tools/merge_words.py lisäykset.tsv` lisää sanoja ilman kaksoiskappaleita (`SECTION<TAB>uk<TAB>fi<TAB>huomio`).
+- `tools/sort_by_freq.py` järjestää osioiden sanat yleisyyden mukaan (`data/freq.tsv`; pymorphy3 parantaa tarkkuutta, jos asennettu).

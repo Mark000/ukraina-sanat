@@ -2,9 +2,14 @@
 # Rivi "@id<TAB>otsikko" aloittaa uuden osion. Sanan tunniste on ukrainankielinen teksti, joten älä muuta sitä turhaan (edistyminen on sidottu siihen).
 
 @L0	Perusteet: päivät, kuukaudet, numerot
+три	kolme
 сьогодні	tänään
-вчора	eilen
+Який сьогодні день?	Mikä viikonpäivä tänään on?
 завтра	huomenna
+вчора	eilen
+сто	sata
+сто п'ять	sataviisi (105)
+тисяча	tuhat
 понеділок	maanantai
 вівторок	tiistai
 середа	keskiviikko
@@ -12,6 +17,7 @@
 п'ятниця	perjantai
 субота	lauantai
 неділя	sunnuntai
+двадцять чотири	kaksikymmentäneljä (24)
 січень	tammikuu
 лютий	helmikuu
 березень	maaliskuu
@@ -25,748 +31,744 @@
 листопад	marraskuu
 грудень	joulukuu
 Яке сьогодні число?	Monesko päivä tänään on?
-Який сьогодні день?	Mikä viikonpäivä tänään on?
-три	kolme
-двадцять чотири	kaksikymmentäneljä (24)
-сто	sata
-сто п'ять	sataviisi (105)
-тисяча	tuhat
 
 @L1	1 · 18.9 · Tervehdys, mieliala, sää
+говорити	puhua
+ще	vielä
+вже	jo	myös: уже
 Як ваші справи?	Mitä teille kuuluu?
-Ласкаво просимо!	Tervetuloa!
-настрій	mieliala
-чудовий	loistava, upea
+трохи	vähän
+Де ти живеш?	Missä asut?
 гарний	hyvä, kaunis
-нормальний	tavallinen, normaali
-втомлений	väsynyt	nainen: втомлена
-схвильований	jännittynyt, huolestunut	nainen: схвильована
-спокійний	rauhallinen	nainen: спокійна
+разом	yhdessä
+дівчина	tyttö; tyttöystävä
+вдома	kotona
+тиждень	viikko
+Як тебе звати?	Mikä sinun nimesi on?
 радий	iloinen	nainen: рада
-Я почуваюся не дуже добре.	En voi kovin hyvin.
+обід	lounas
+пити каву	juoda kahvia
+чудовий	loistava, upea
 погода	sää
-Дує вітер.	Tuulee.
-Іде дощ.	Sataa vettä.
-хмарно	pilvistä
-Світить сонце.	Aurinko paistaa.
 тепло	lämmintä
-осінь	syksy
-літо	kesä
+Іде дощ.	Sataa vettä.
 зима	talvi
 весна	kevät
-пори року	vuodenajat
-вже	jo	myös: уже
-ще	vielä
-Мені подобається…	Pidän (jostakin)…	+ nominatiivi: Мені подобається осінь
-вивчати	opiskella (jotakin)
-пити каву	juoda kahvia
-гуляти	kävellä, ulkoilla
-їздити на авто	ajaa autolla
-кататися на велосипеді	pyöräillä
-обід	lounas
-тиждень	viikko
-фотограф	valokuvaaja	nainen: фотографиня
-фотографувати	valokuvata
-свіжий сік	tuore mehu
-планувати	suunnitella, aikoa
-свято	juhla
-День народження	syntymäpäivä
-зустрічатися з друзями	tavata ystäviä
-вихідні дні	vapaapäivät
-архітектор	arkkitehti
-будівельна компанія	rakennusyhtiö
-вдома	kotona
-разом	yhdessä
-займатися йогою	harrastaa joogaa
-професія	ammatti
-Скільки тобі років?	Kuinka vanha olet?
-Розповідаємо про себе.	Kerromme itsestämme.
-Як тебе звати?	Mikä sinun nimesi on?
-Мене звати…	Nimeni on…
-Де ти живеш?	Missä asut?
-Що ти робиш у вільний час?	Mitä teet vapaa-ajallasi?
-вільний час	vapaa-aika
-будні дні	arkipäivät
-говорити	puhua
-трохи	vähän
-рис	riisi
-дівчина	tyttö; tyttöystävä
-студентка	opiskelija (nainen)	mies: студент
+літо	kesä
+осінь	syksy
+Я почуваюся не дуже добре.	En voi kovin hyvin.
 ресторан	ravintola
 парк	puisto
+гуляти	kävellä, ulkoilla
+зустрічатися з друзями	tavata ystäviä
+Розповідаємо про себе.	Kerromme itsestämme.
+свято	juhla
+вихідні дні	vapaapäivät
+втомлений	väsynyt	nainen: втомлена
+Що ти робиш у вільний час?	Mitä teet vapaa-ajallasi?
+вільний час	vapaa-aika
+вивчати	opiskella (jotakin)
+свіжий сік	tuore mehu
+Мені подобається…	Pidän (jostakin)…	+ nominatiivi: Мені подобається осінь
+Мене звати…	Nimeni on…
+займатися йогою	harrastaa joogaa
+Скільки тобі років?	Kuinka vanha olet?
+пори року	vuodenajat
+День народження	syntymäpäivä
+їздити на авто	ajaa autolla
+Ласкаво просимо!	Tervetuloa!
+нормальний	tavallinen, normaali
+планувати	suunnitella, aikoa
+настрій	mieliala
+спокійний	rauhallinen	nainen: спокійна
+рис	riisi
+схвильований	jännittynyt, huolestunut	nainen: схвильована
+студентка	opiskelija (nainen)	mies: студент
+Світить сонце.	Aurinko paistaa.
+професія	ammatti
+фотограф	valokuvaaja	nainen: фотографиня
+архітектор	arkkitehti
+кататися на велосипеді	pyöräillä
+Дує вітер.	Tuulee.
 грати в хокей	pelata jääkiekkoa
+будівельна компанія	rakennusyhtiö
+хмарно	pilvistä
+фотографувати	valokuvata
+будні дні	arkipäivät
 пляжний волейбол	rantalentopallo
 вареники зі сметаною	varenykit smetanan kanssa
 апельсиновий сік	appelsiinimehu
 
 @L2	2 · 25.9 · Minun kotini (huoneet, värit, kerrokset)
-Сподіваюся, тобі стане краще.	Toivottavasti voit pian paremmin.
 проблема	ongelma
-вирішувати проблему	ratkaista ongelma	myös: усувати проблему
-розташовуватися	sijaita	Де розташований комод?
-Запитай, будь ласка…	Kysy, ole hyvä…	+ akkusatiivi: Запитай Леену
-Скажи, будь ласка…	Sano, ole hyvä…
-мікрохвильовка	mikro (puhek.)	= мікрохвильова піч
-духова піч	uuni	= духовка
-рідний дім	koti, lapsuudenkoti	рідний = oma, synnyin-
-особняк	omakotitalo, huvila
-кімната	huone
 двері	ovi	vain monikossa: gen. дверей
-підвал	kellari	у підвалі
-горище	ullakko	на горищі
+кімната	huone
+подруга	ystävä (nainen)	mies: друг
+білий	valkoinen
+чорний	musta
+червоний	punainen
+синій	sininen	pehmeä: синя, синє, сині
+зелений	vihreä
+жовтий	keltainen
+сірий	harmaa
+коричневий	ruskea
+рожевий	vaaleanpunainen
+туалет	vessa, WC
+рідний дім	koti, lapsuudenkoti	рідний = oma, synnyin-
+рідний	oma, synnyin-, rakas (рідне місто = kotikaupunki)
+комп'ютер	tietokone
+Якого кольору…?	Minkä värinen…?	колір → gen. кольору
 перший поверх	ensimmäinen kerros
 другий поверх	toinen kerros
 На якому поверсі ти живеш?	Missä kerroksessa asut?
 Я живу на третьому поверсі.	Asun kolmannessa kerroksessa.
-Якого кольору…?	Minkä värinen…?	колір → gen. кольору
-білий	valkoinen
-чорний	musta
-сірий	harmaa
-зелений	vihreä
-синій	sininen	pehmeä: синя, синє, сині
-жовтий	keltainen
-коричневий	ruskea
-рожевий	vaaleanpunainen
-червоний	punainen
+Запитай, будь ласка…	Kysy, ole hyvä…	+ akkusatiivi: Запитай Леену
+Скажи, будь ласка…	Sano, ole hyvä…
+Сподіваюся, тобі стане краще.	Toivottavasti voit pian paremmin.
+мило	saippua
+душ	suihku
+город	kasvimaa
+телевізор	televisio
+вирішувати проблему	ratkaista ongelma	myös: усувати проблему
+підвал	kellari	у підвалі
+Батьківщина	kotimaa, isänmaa
+горище	ullakko	на горищі
+особняк	omakotitalo, huvila
+унітаз	WC-istuin
+розташовуватися	sijaita	Де розташований комод?
+мікрохвильовка	mikro (puhek.)	= мікрохвильова піч
+духова піч	uuni	= духовка
 оранжевий	oranssi	myös: помаранчевий
 бежевий	beige
-телевізор	televisio
-комп'ютер	tietokone
-душ	suihku
-унітаз	WC-istuin
-туалет	vessa, WC
 умивальник	pesuallas, lavuaari
-мило	saippua
-подруга	ystävä (nainen)	mies: друг
-город	kasvimaa
-Батьківщина	kotimaa, isänmaa
-рідний	oma, synnyin-, rakas (рідне місто = kotikaupunki)
 
 @L3	3 · 2.10 · Oudot talot, стояти/лежати/висіти
-стояти	seistä, olla pystyssä	стоїть, стоять
-лежати	maata, olla vaakatasossa	лежить, лежать
-висіти	riippua	висить, висять
-рушник	pyyhe
-дзеркало	peili
-крісло	nojatuoli
-зубна паста	hammastahna
-зубна щітка	hammasharja
-полиця	hylly
-кошик	kori
-ліжко	sänky
-килим	matto, ryijy
-подушка	tyyny
-монітор	näyttö
-люстра	kattokruunu
-штори	verhot
-вазон	ruukkukasvi
-журнальний столик	sohvapöytä
-книжкова шафа	kirjahylly, kirjakaappi
-мікрохвильова піч	mikroaaltouuni
-кухонні шафки	keittiön kaapit
-ванна кімната	kylpyhuone
-вітальня	olohuone
-спальня	makuuhuone
-кухня	keittiö
-одяг	vaatteet
-шафа	kaappi
-плита	liesi
-чайник	vedenkeitin
-посуд	astiat
-балкон	parveke
-газета	sanomalehti
-стеля	sisäkatto
-підлога	lattia
-стіна	seinä
-вікно	ikkuna
-коли-небудь	koskaan, joskus
-мабуть	luultavasti, ehkä
-потім	myöhemmin, sitten
-зрозуміти	ymmärtää
-точно	tarkasti
-називати	kutsua, nimittää
-дуже дивний	todella outo
-Його будували…	Sitä rakennettiin…
-стоїть на землі	seisoo maassa
+Чи хотіли б ви…?	Haluaisitteko…?
+скільки часу	kuinka kauan
 кажуть	sanotaan
+правда	totuus; totta
+бо	koska, sillä
+лише	vain
 навіть	jopa
-насправді	oikeastaan, todellisuudessa
-почуватися дивно	tuntea olonsa oudoksi
-декоративний	koristeellinen
+такий самий	samanlainen
+зрозуміти	ymmärtää
+вибачте	anteeksi
+машина	auto
+завжди	aina
+точно	tarkasti
+потрібний	tarpeellinen, tarvittava
+ніж	veitsi; kuin (vertailussa)	veitsi: gen. ножа, mon. ножі; vertailu: більше, ніж… = enemmän kuin…
 знову	taas, uudelleen
-знизу вгору	alhaalta ylöspäin
+потім	myöhemmin, sitten
+стояти	seistä, olla pystyssä	стоїть, стоять
+можливо	ehkä; mahdollista
 звичайно	tietenkin, tietysti
+справді	todella, tosiaan
+мабуть	luultavasti, ehkä
+стоїть на землі	seisoo maassa
+скоро	pian
+план	suunnitelma
+їсти	syödä	їм, їси, їсть
+вода	vesi
+світ	maailma
+насправді	oikeastaan, todellisuudessa
+тому що	koska
 ніби	ikään kuin, aivan kuin
+сніданок	aamiainen
+лежати	maata, olla vaakatasossa	лежить, лежать
+ліжко	sänky
+цікавий	kiinnostava
+вікно	ikkuna
+називати	kutsua, nimittää
+суп	keitto
+фрукти	hedelmät	yks. фрукт
+кухня	keittiö
+обіцяти	luvata
 всередині	sisällä, sisäpuolella
 особливий	erityinen
-догори ногами	ylösalaisin
+дуже дивний	todella outo
+використовувати	käyttää
+газета	sanomalehti
+одяг	vaatteet
+стіна	seinä
 ходити по стінах	kävellä seiniä pitkin
-вниз дахом	katto alaspäin
-можливо	ehkä; mahdollista
-неможливо	mahdotonta
-точніше	tarkemmin sanottuna
-німець	saksalainen (mies)	mon. німці
-правда	totuus; totta
-адже	sillä, -han/-hän
-лише	vain
-справді	todella, tosiaan
-бо	koska, sillä
-тому що	koska
-інтер'єр	sisustus
-класичний	klassinen
-зручно	mukavaa, kätevää
-завжди	aina
-сніданок	aamiainen
-фрукти	hedelmät	yks. фрукт
-вибачте	anteeksi
-ніж	veitsi; kuin (vertailussa)	veitsi: gen. ножа, mon. ножі; vertailu: більше, ніж… = enemmän kuin…
+шафа	kaappi
+підлога	lattia
+небо	taivas
 пляшка	pullo
-цікавий	kiinnostava
-потрібний	tarpeellinen, tarvittava
+почуватися дивно	tuntea olonsa oudoksi
+варити	keittää	варю, варять
+Його будували…	Sitä rakennettiin…
+адже	sillä, -han/-hän
+неможливо	mahdotonta
+ванна кімната	kylpyhuone
+зал	sali
+вниз дахом	katto alaspäin
+німець	saksalainen (mies)	mon. німці
 автор	tekijä
-обіцяти	luvata
-скоро	pian
-текти	virrata, valua	тече
-вода	vesi
-план	suunnitelma
-машина	auto
+дзеркало	peili
+крісло	nojatuoli
+коли-небудь	koskaan, joskus
+подушка	tyyny
+зручно	mukavaa, kätevää
+спальня	makuuhuone
+дивувати	hämmästyttää
+балкон	parveke
+вживати	käyttää (sanaa, ruokaa)
+точніше	tarkemmin sanottuna
+посуд	astiat
+намалювати	piirtää, maalata
+рушник	pyyhe
+плита	liesi
+класичний	klassinen
+миска	kulho
+дизайнер	suunnittelija
+знизу вгору	alhaalta ylöspäin
+кошик	kori
+зубна паста	hammastahna
+догори ногами	ylösalaisin
+килим	matto, ryijy
+зубна щітка	hammasharja
 незвичайний	epätavallinen
 дизайн	design, muotoilu
-дизайнер	suunnittelija
-зал	sali
-небо	taivas
-намальований	maalattu, piirretty
-дивувати	hämmästyttää
-світ	maailma
-скільки часу	kuinka kauan
-такий самий	samanlainen
-миска	kulho
-тертка	raastin
-використовувати	käyttää
-вживати	käyttää (sanaa, ruokaa)
-їсти	syödä	їм, їси, їсть
-суп	keitto
-варити	keittää	варю, варять
-намалювати	piirtää, maalata
-проєкт	projekti, suunnitelma	kirjassa: проект
-Чи хотіли б ви…?	Haluaisitteko…?
+вітальня	olohuone
+чайник	vedenkeitin
+полиця	hylly
+монітор	näyttö
+штори	verhot
+стеля	sisäkatto
+книжкова шафа	kirjahylly, kirjakaappi
+текти	virrata, valua	тече
 традиційний	perinteinen
+висіти	riippua	висить, висять
+люстра	kattokruunu
+вазон	ruukkukasvi
+журнальний столик	sohvapöytä
+мікрохвильова піч	mikroaaltouuni
+кухонні шафки	keittiön kaapit
+декоративний	koristeellinen
+інтер'єр	sisustus
+намальований	maalattu, piirretty
+тертка	raastin
+проєкт	projekti, suunnitelma	kirjassa: проект
 
 @L4	4 · 9.10 · Pyhän Nikolauksen talo
-казка	satu
-як у казці	kuin sadussa
-дарувати подарунки	antaa lahjoja
-отримувати подарунки	saada lahjoja
-десь	jossain
-за три тижні до Різдва	kolme viikkoa ennen joulua
-доба	vuorokausi
-цілодобово	ympäri vuorokauden
-без вихідних	ilman vapaapäiviä
-побачити	nähdä
-різні папки	erilaiset kansiot
-новорічні іграшки	joulukoristeet
-наступний	seuraava
-своїми руками	omin käsin
-пластилін	muovailuvaha
-тканина	kangas
-майстерня	työpaja
-ножиці	sakset
-глобус	karttapallo
+хотіти	haluta	хочу, хоче
+якщо	jos
+чому	miksi
+зробити	tehdä (valmiiksi)	imperf. робити
+добрий	kiltti, hyvä
+інший	toinen, muu
+взяти з собою	ottaa mukaan
 шукати	etsiä
-мішок	säkki
-загадувати бажання	toivoa jotain, esittää toivomus
-виконувати бажання	toteuttaa toiveita
+Бог	Jumala
+своїми руками	omin käsin
+допомагати	auttaa
+приходити	tulla (paikalle)
+хтось	joku
+потрібно	tarvitaan, pitää
+побачити	nähdä
+слухати	kuunnella
+річ	tavara, esine	fem.; mon. речі
+кожен	jokainen	myös: кожний
+сидіти	istua	сиджу, сидиш
+подумати	ajatella	подумати про щось
+вечір	ilta
+купити	ostaa
+година	tunti
+останній	viimeinen
+їжа	ruoka
+наступний	seuraava
+дізнатися	saada selville
+відповідь	vastaus
+тобто	eli, toisin sanoen
+залежати від	riippua jostakin	+ genetiivi
+бачити сни	nähdä unia
+сон	uni	mon. сни; gen. сну (printed Р.в. -у)
+десь	jossain
+тому	siksi
+готувати	valmistaa ruokaa
+народ	kansa
+розмовляти	puhua, keskustella
+магазин	kauppa
+часто	usein
+цілий	koko, kokonainen	з цілої України
+лист	kirje	mon. листи; (puun) lehti = листок
+вміти	osata	вони вміють = he osaavat
+вночі	yöllä
+сніг	lumi
+блакитний	vaaleansininen
 почуватися	tuntea olonsa	я почуваюся, ти почуваєшся
-фігурка	hahmo, figuuri
-казкові герої	satuhahmot
+пошта	posti
+село	kylä
+музей	museo
+відпочивати	levätä
+продавати	myydä	продають
+приносити	tuoda
+подорожувати	matkustaa	подорожування = matkustaminen
+отримувати подарунки	saada lahjoja
+довгий	pitkä
+високий	korkea; pitkä
 простий	yksinkertainen
+український	ukrainalainen	Україна → український
+дерево	puu	з дерева = puusta
+дорослі	aikuiset
+улюблений	lempi-, suosikki-
+центр	keskusta, keskikohta	у центрі кімнати = huoneen keskellä
+ручка	kynä
+папір	paperi
+взуття	jalkineet, kengät	kollektiivi, neutri
+костюм	asu, puku
+квітка	kukka	mon. квіти
+тварини	eläimet
+колір	väri
+приємно	mukavaa
+носити	pitää yllä; kantaa	ношу, носять
+поверх	kerros
+дарувати подарунки	antaa lahjoja
+герой	sankari; (sadun) hahmo	gen. героя;  казкові герої
+бажання	toive	mon. бажання
+доба	vuorokausi
+без вихідних	ilman vapaapäiviä
+виконувати бажання	toteuttaa toiveita
+за три тижні до Різдва	kolme viikkoa ennen joulua
 Різдво	joulu
 диво	ihme	mon. gen. див: час див = ihmeiden aika
-традиція	perinne
-приносити	tuoda
-вночі	yöllä
-село	kylä
-область	alue (hallinnollinen)
 гості	vieraat
-дерев'яний	puinen
-поверх	kerros
-пошта	posti
-лист	kirje	mon. листи; (puun) lehti = листок
-валіза	matkalaukku
-малюнок	piirustus
-ялинка	joulukuusi
-поштівка	postikortti
-сучасний	nykyaikainen, moderni
-лавка	penkki
-папір	paperi
-клей	liima
-фарби	maalit
-кольорові олівці	värikynät
-радісно	iloisesti
-допомагати	auttaa
-рослини	kasvit
-тварини	eläimet
-приватний	yksityinen
-кабінет	työhuone
-відповідь	vastaus
-перо	sulkakynä
-чорнило	muste
-колір	väri
-залежати від	riippua jostakin	+ genetiivi
-мапа	kartta
-куток	nurkka	у кутку = nurkassa
-добрий	kiltti, hyvä
-чемний	tottelevainen, kohtelias
-неслухняний	tuhma
-відпочивати	levätä
-вишитий	kirjailtu
-розмовляти	puhua, keskustella
-вміти	osata	вони вміють = he osaavat
-доторкнутися до	koskettaa jotakin	+ genetiivi
-обов'язково	varmasti, ehdottomasti
-стати реальністю	toteutua
-ковдра	peitto
-простирадло	lakana
-блакитний	vaaleansininen
-сніг	lumi
-ікона	ikoni
-капці	tossut
-подвір'я	piha
-будиночок	pikkutalo
-народні казки	kansansadut
-дізнатися	saada selville
-дорослі	aikuiset
-різдвяний	joulu-, jouluinen	Різдво → різдвяний
-новорічний	uudenvuoden-	Новий рік → новорічний
-зимовий	talvinen, talvi-	зима → зимовий
-літній	kesäinen, kesä-	літо → літній
-кольоровий	värillinen, väri-	колір → кольоровий
-карпатський	karpaattilainen	Карпати → карпатський
-український	ukrainalainen	Україна → український
-народний	kansan-, kansallinen	народ → народний
+іграшка	lelu; joulukoriste
+територія	alue
 дитячий	lasten-	дитина → дитячий
 домашній	koti-, kotoinen	дім → домашній
-казковий	satumainen	казка → казковий
-гостинний	vieraanvarainen
-кожен	jokainen	myös: кожний
-іграшка	lelu; joulukoriste
-музей	museo
-сувенір	matkamuisto
-зробити	tehdä (valmiiksi)	imperf. робити
-довгий	pitkä
-вата	vanu
-територія	alue
-інший	toinen, muu
-центр	keskusta, keskikohta	у центрі кімнати = huoneen keskellä
-останній	viimeinen
-Бог	Jumala
-слухати	kuunnella
-бажання	toive	mon. бажання
-якщо	jos
-подумати	ajatella	подумати про щось
-хотіти	haluta	хочу, хоче
-квітка	kukka	mon. квіти
-костюм	asu, puku
-бачити сни	nähdä unia
-дерево	puu	з дерева = puusta
-народ	kansa
-улюблений	lempi-, suosikki-
-високий	korkea; pitkä
-сидіти	istua	сиджу, сидиш
-канцтовари	paperitavarat	vain monikko
-продавати	myydä	продають
-магазин	kauppa
-потрібно	tarvitaan, pitää
-малювати	piirtää
-річ	tavara, esine	fem.; mon. речі
-ручка	kynä
-фломастер	tussi
-олівець	lyijykynä	mon. олівці
-папка	kansio
-тому	siksi
-приходити	tulla (paikalle)
-тобто	eli, toisin sanoen
-година	tunti
-часто	usein
-приїжджати	saapua (kulkuneuvolla)
-цілий	koko, kokonainen	з цілої України
+кабінет	työhuone
 стиль	tyyli
-їжа	ruoka
-готувати	valmistaa ruokaa
-взяти з собою	ottaa mukaan
-приємно	mukavaa
-купити	ostaa
-вечір	ilta
-хтось	joku
-чому	miksi
-взуття	jalkineet, kengät	kollektiivi, neutri
-носити	pitää yllä; kantaa	ношу, носять
-подорожувати	matkustaa	подорожування = matkustaminen
+стати реальністю	toteutua
+приватний	yksityinen
+малювати	piirtää
+малюнок	piirustus
+казка	satu
+як у казці	kuin sadussa
+область	alue (hallinnollinen)
+рослини	kasvit
+приїжджати	saapua (kulkuneuvolla)
+сучасний	nykyaikainen, moderni
+мішок	säkki
+валіза	matkalaukku
+традиція	perinne
+ковдра	peitto
 Біблія	Raamattu
-герой	sankari; (sadun) hahmo	gen. героя;  казкові герої
-сон	uni	mon. сни; gen. сну (printed Р.в. -у)
+чорнило	muste
+народний	kansan-, kansallinen	народ → народний
+капці	tossut
+клей	liima
+мапа	kartta
+тканина	kangas
+фарби	maalit
+будиночок	pikkutalo
+куток	nurkka	у кутку = nurkassa
+перо	sulkakynä
+лавка	penkki
+літній	kesäinen, kesä-	літо → літній
+олівець	lyijykynä	mon. олівці
+ялинка	joulukuusi
+ножиці	sakset
+різдвяний	joulu-, jouluinen	Різдво → різдвяний
+доторкнутися до	koskettaa jotakin	+ genetiivi
+чемний	tottelevainen, kohtelias
+простирадло	lakana
+кольорові олівці	värikynät
+кольоровий	värillinen, väri-	колір → кольоровий
+цілодобово	ympäri vuorokauden
+сувенір	matkamuisto
+фігурка	hahmo, figuuri
+казкові герої	satuhahmot
+казковий	satumainen	казка → казковий
+неслухняний	tuhma
+майстерня	työpaja
+вата	vanu
+різні папки	erilaiset kansiot
+новорічні іграшки	joulukoristeet
+пластилін	muovailuvaha
+глобус	karttapallo
+загадувати бажання	toivoa jotain, esittää toivomus
+дерев'яний	puinen
+поштівка	postikortti
+радісно	iloisesti
+вишитий	kirjailtu
+обов'язково	varmasti, ehdottomasti
+ікона	ikoni
+подвір'я	piha
+народні казки	kansansadut
+новорічний	uudenvuoden-	Новий рік → новорічний
+зимовий	talvinen, talvi-	зима → зимовий
+карпатський	karpaattilainen	Карпати → карпатський
+гостинний	vieraanvarainen
+канцтовари	paperitavarat	vain monikko
+фломастер	tussi
+папка	kansio
 
 @L5	5 · 23.10 · Paikan prepositiot, keittiö
-біля	vieressä, lähellä	+ genetiivi
-коло	vieressä, lähellä	+ genetiivi
-праворуч від	oikealla puolella	+ genetiivi; myös справа від
-ліворуч від	vasemmalla puolella	+ genetiivi; myös зліва від
-навпроти	vastapäätä	+ genetiivi
-недалеко від	lähellä, ei kaukana	+ genetiivi
-далеко від	kaukana	+ genetiivi
-навколо	ympärillä	+ genetiivi
-під	alla	+ instrumentaali
-над	yläpuolella	+ instrumentaali
-перед	edessä	+ instrumentaali
-за	takana	+ instrumentaali
-між	välissä	+ instrumentaali: між диваном і кріслом
-поруч з	vieressä	+ instrumentaali; myös поряд з, поруч із
-на	päällä, -lla	+ lokatiivi
 у	sisällä, -ssa	+ lokatiivi; myös в
-тумбочка	yöpöytä
+на	päällä, -lla	+ lokatiivi
+за	takana	+ instrumentaali
+ось	tässä, tuossa	Ось наша вітальня.
+тепер	nyt
+друг	ystävä	mon. друзі
+дивитися на	katsoa jotakin	+ akkusatiivi
+під	alla	+ instrumentaali
+перед	edessä	+ instrumentaali
+над	yläpuolella	+ instrumentaali
+між	välissä	+ instrumentaali: між диваном і кріслом
+біля	vieressä, lähellä	+ genetiivi
+далеко від	kaukana	+ genetiivi
+вогонь	tuli	gen. вогню
+стіл	pöytä	gen. столу/стола, lok. столі
+сім'я	perhe
+поставити	laittaa (pystyyn)	→ стоїть
+Телефон лежить переді мною.	Puhelin on edessäni.
+ввечері	illalla	myös: увечері
+яйце	kananmuna	mon. яйця
+покласти	laittaa (makaamaan)	→ лежить
+ставити	laittaa (pystyyn)	ставлю, ставлять; perf. поставити
+ліворуч від	vasemmalla puolella	+ genetiivi; myös зліва від
+праворуч від	oikealla puolella	+ genetiivi; myös справа від
+поруч з	vieressä	+ instrumentaali; myös поряд з, поруч із
+навколо	ympärillä	+ genetiivi
+дивний	outo
+сусід	naapuri
+тарілка	lautanen
+чашка	kuppi
+ложка	lusikka
+виделка	haarukka
+стілець	tuoli	instr. стільцем
+пляшка молока	maitopullo
+зручний	mukava
+проводити час	viettää aikaa
+З вікна видно море.	Ikkunasta näkyy meri.
+картина	taulu, maalaus
+книжка	kirja
+коло	vieressä, lähellä	+ genetiivi
+повісити	ripustaa	→ висить
+позаду	takana	+ genetiivi: позаду дивана
+фотографія	valokuva
+годинник	kello
+диван	sohva
+недалеко від	lähellä, ei kaukana	+ genetiivi
+холодильник	jääkaappi
+класти	laittaa (makaamaan)	кладу, кладуть; perf. покласти
+гарячий шоколад	kuuma kaakao
+лампа	lamppu
+екран	näyttö, ruutu
+навпроти	vastapäätä	+ genetiivi
+меблі	huonekalut
+рюкзак	reppu
+піаніно	piano	ei taivu
+ваза з квітами	maljakko, jossa on kukkia
+ваза	maljakko
+вхідні двері	ulko-ovi	двері on vain monikossa
+У моїй квартирі немає сауни.	Asunnossani ei ole saunaa.	немає + genetiivi
+камін	takka
+навпроти каміна	takkaa vastapäätä
+духовка	uuni
+круглий	pyöreä
+Наша кухня поєднана з вітальнею.	Keittiömme on yhdistetty olohuoneeseen.
 комод	lipasto
+тумбочка	yöpöytä
 вішалка	naulakko
 табурет	jakkara
 письмовий стіл	kirjoituspöytä
 обідній стіл	ruokapöytä
 комп'ютерний стіл	tietokonepöytä
 мийка	tiskiallas
-годинник	kello
-рюкзак	reppu
-лампа	lamppu
-екран	näyttö, ruutu
-камін	takka
-меблі	huonekalut
-диван	sohva
-стілець	tuoli	instr. стільцем
-стіл	pöytä	gen. столу/стола, lok. столі
-картина	taulu, maalaus
-холодильник	jääkaappi
 морозильник	pakastin
-духовка	uuni
 посудомийна машина	astianpesukone
 кавоварка	kahvinkeitin
-пляшка молока	maitopullo
-ложка	lusikka
-виделка	haarukka
 каструля	kattila
 сковорідка	paistinpannu
-тарілка	lautanen
-чашка	kuppi
-поставити	laittaa (pystyyn)	→ стоїть
-покласти	laittaa (makaamaan)	→ лежить
-повісити	ripustaa	→ висить
-сусід	naapuri
-вхідні двері	ulko-ovi	двері on vain monikossa
-круглий	pyöreä
-зручний	mukava
 м'який	pehmeä
-піаніно	piano	ei taivu
-ваза з квітами	maljakko, jossa on kukkia
-Телефон лежить переді мною.	Puhelin on edessäni.
-З вікна видно море.	Ikkunasta näkyy meri.
-У моїй квартирі немає сауни.	Asunnossani ei ole saunaa.	немає + genetiivi
-Наша кухня поєднана з вітальнею.	Keittiömme on yhdistetty olohuoneeseen.
-позаду	takana	+ genetiivi: позаду дивана
-фотографія	valokuva
-проводити час	viettää aikaa
-сім'я	perhe
-друг	ystävä	mon. друзі
-ввечері	illalla	myös: увечері
-вогонь	tuli	gen. вогню
-дивитися на	katsoa jotakin	+ akkusatiivi
-гарячий шоколад	kuuma kaakao
-навпроти каміна	takkaa vastapäätä
-книжка	kirja
-яйце	kananmuna	mon. яйця
-ваза	maljakko
-ось	tässä, tuossa	Ось наша вітальня.
-тепер	nyt
 горизонтально	vaakasuoraan
 вертикально	pystysuoraan
-дивний	outo
-класти	laittaa (makaamaan)	кладу, кладуть; perf. покласти
-ставити	laittaa (pystyyn)	ставлю, ставлять; perf. поставити
 м'яке крісло	pehmeä nojatuoli
 
 @L6	6 · 30.10 · Tämä outo maailma (kirja s. 108–109)
-На колір і смак товариш не всяк.	Makuasioista ei voi kiistellä.
-список	lista
-ручки кошика	korin kahvat
-штучне озеро	tekojärvi
-поняття краси	käsitys kauneudesta, kauneuskäsitys
-приватність	yksityisyys
-неправильна форма	epäsäännöllinen muoto
-платформа	tasanne
-перетворити на	muuttaa joksikin
-жук-сонечко	leppäkerttu
-трава	ruoho
-радіостудія	radiostudio
-рот із зубами	hampaallinen suu
-вирішити	päättää, ratkaista
-віднедавна	hiljattain, viime aikoina
-талановиті люди	lahjakkaat ihmiset
-асиметричний інтер'єр	epäsymmetrinen sisustus
-радіатор	lämpöpatteri
-сміливий	rohkea
-приблизно	noin, suunnilleen
-перевернути на бік	kääntää kyljelleen	myös: перевертати на бік
-не дивно	ei ihme
-смак	maku
-краса	kauneus
-нестандартний	epätavallinen
-змінити	muuttaa, vaihtaa
-равлик	etana
-столиця	pääkaupunki
-смішний	hauska
-побудувати	rakentaa
-відкрити	avata
-прямий	suora
-кут	kulma
-дах	katto (ulkokatto)
-розташований	sijaitseva
-димар	savupiippu
-схожий на	samannäköinen kuin	+ akkusatiivi
-вхід	sisäänkäynti
-у формі	jonkin muotoinen	+ genetiivi
-суміш	sekoitus, seos
-антикварний	antiikkinen
-овочі	vihannekset
-прозорий	läpinäkyvä
-світлий	valoisa
-відчувати	tuntea, aistia
-скляний	lasinen
-ванна	kylpyamme
-господар	isäntä, omistaja
-хоча б	edes
-сходи	portaat
-боятися	pelätä
-увесь час	koko ajan
-штат	osavaltio
-офісний центр	toimistokeskus
-справжній	oikea, aito
-покупки	ostokset
-гриб	sieni
-ягода	marja
-площа	pinta-ala; aukio
-квадратний метр	neliömetri
-проте	kuitenkin
-головне	tärkeintä
-безкоштовно	ilmaiseksi, maksutta
-свобода	vapaus
+сам	itse
 у будь-якому місці	missä tahansa
-річка	joki
-споруда	rakennelma, rakennus
-спочатку	aluksi
-відомий	tunnettu
-танцівник	tanssija (mies)	nainen: танцівниця
-вежа	torni
-пара	pari
-кам'яний	kivinen
-під землею	maan alla
-звідси	täältä
-замок	linna
-камінь	kivi
-гори	vuoret
+кожний	jokainen	myös кожен
+боятися	pelätä
 здається	näyttää siltä
-мультик	piirretty
-на жаль	valitettavasti
-кривий	vino
-торговий центр	kauppakeskus
+звідси	täältä
+під землею	maan alla
+виглядати	näyttää (joltakin)	I konj.: виглядаю, виглядають
+вирішити	päättää, ratkaista
+відчувати	tuntea, aistia
+хоча б	edes
+бувати	olla (toistuvasti), käydä	I konj.: буваю, бувають
+головне	tärkeintä
+відкрити	avata
+справжній	oikea, aito
+змінити	muuttaa, vaihtaa
+квартира	asunto
+пропонувати	tarjota, ehdottaa	I konj.: пропоную, пропонують
+спочатку	aluksi
+квиток	lippu
+зуб	hammas	gen. зуба;  рот із зубами
+овочі	vihannekset
+площа	pinta-ala; aukio
 внизу	alhaalla
 нагорі	ylhäällä
-рости	kasvaa
-кущі	pensaat
-квартира	asunto
+світлий	valoisa
+схожий на	samannäköinen kuin	+ akkusatiivi
+свобода	vapaus
+ліс	metsä
+річка	joki
+не дивно	ei ihme
+смішний	hauska
+сад	puutarha
+сходи	portaat
+вхід	sisäänkäynti
+ягода	marja
+гриб	sieni
+пара	pari
+увесь час	koko ajan
+на жаль	valitettavasti
+список	lista
+божевільний	hullu
+у формі	jonkin muotoinen	+ genetiivi
+замок	linna
+штат	osavaltio
+гори	vuoret
+ванна	kylpyamme
+рух	liike	gen. руху
+камінь	kivi
+рот із зубами	hampaallinen suu
+проте	kuitenkin
+відомий	tunnettu
+дах	katto (ulkokatto)
+принцеса	prinsessa
+смак	maku
+рівень	taso
+трава	ruoho
+приблизно	noin, suunnilleen
 гараж	autotalli
+коридор	käytävä
+господар	isäntä, omistaja
+печера	luola
+прямий	suora
+перетворити на	muuttaa joksikin
+побудувати	rakentaa
+поняття краси	käsitys kauneudesta, kauneuskäsitys
+краса	kauneus
+копія	kopio
+рости	kasvaa
+покупки	ostokset
+кут	kulma
+складати	taittaa kokoon, koota	складатися = taittua kokoon; myös: koostua
+організувати	järjestää	I konj.
+вежа	torni
+На колір і смак товариш не всяк.	Makuasioista ei voi kiistellä.
+столиця	pääkaupunki
+безкоштовно	ilmaiseksi, maksutta
+неправильна форма	epäsäännöllinen muoto
+платформа	tasanne
+штучне озеро	tekojärvi
+гігантський	jättimäinen
+виконувати функцію	toimia jonakin, hoitaa tehtävää	I konj.: виконую, виконують
+жук-сонечко	leppäkerttu
+ручки кошика	korin kahvat
+кошик для покупок	ostoskori
+сміливий	rohkea
+талановиті люди	lahjakkaat ihmiset
+перевернути на бік	kääntää kyljelleen	myös: перевертати на бік
+кущі	pensaat
+суміш	sekoitus, seos
+мультик	piirretty
+торговий центр	kauppakeskus
 гармонія з природою	sopusointu luonnon kanssa
+історичний	historiallinen
+акваріум	akvaario	gen. акваріума
+розташований	sijaitseva
+квадратний метр	neliömetri
+незвичний	epätavallinen
+споруда	rakennelma, rakennus
+скляний	lasinen
+приватність	yksityisyys
+радіостудія	radiostudio
+віднедавна	hiljattain, viime aikoina
+асиметричний інтер'єр	epäsymmetrinen sisustus
+радіатор	lämpöpatteri
+нестандартний	epätavallinen
+равлик	etana
+димар	savupiippu
+антикварний	antiikkinen
+прозорий	läpinäkyvä
+офісний центр	toimistokeskus
+танцівник	tanssija (mies)	nainen: танцівниця
+кам'яний	kivinen
+кривий	vino
 індивідуальний	yksilöllinen
 горизонтальний	vaakasuora
-рівень	taso
-сад	puutarha
-ліс	metsä
-божевільний	hullu
-незвичний	epätavallinen
-гігантський	jättimäinen
-печера	luola
-коридор	käytävä
 затишний	kodikas
-квиток	lippu
-складати	taittaa kokoon, koota	складатися = taittua kokoon; myös: koostua
-акваріум	akvaario	gen. акваріума
-бувати	olla (toistuvasti), käydä	I konj.: буваю, бувають
-виглядати	näyttää (joltakin)	I konj.: виглядаю, виглядають
-виконувати функцію	toimia jonakin, hoitaa tehtävää	I konj.: виконую, виконують
-зуб	hammas	gen. зуба;  рот із зубами
-історичний	historiallinen
-кожний	jokainen	myös кожен
-копія	kopio
-кошик для покупок	ostoskori
-організувати	järjestää	I konj.
-принцеса	prinsessa
-пропонувати	tarjota, ehdottaa	I konj.: пропоную, пропонують
-рух	liike	gen. руху
-сам	itse
 
 @L6B	6 · Työkirja 20 · Joulupukki Rovaniemellä
-далекий	kaukainen
-холодний	kylmä
-частина	osa
-гора	vuori
-вухо	korva	mon. вуха
-дружина	vaimo
-ельф	tonttu
-чути	kuulla
-секретний	salainen
-знайти	löytää
-небезпека	vaara
-з усього світу	kaikkialta maailmasta
+зараз	nyt
 Поїдемо і ми!	Lähdetään mekin!
-Полярне коло	napapiiri
-взимку	talvella
-окремий	erillinen, oma
-штамп	leima
-іноді	joskus
-свічка	kynttilä
-дошка	taulu
-отримати	saada
-зазвичай	tavallisesti
-зустрічати гостей	ottaa vieraita vastaan
+знайти	löytää
+сюди	tänne
+чути	kuulla
 чекати	odottaa
+отримати	saada
+хвилина	minuutti
+дружина	vaimo
+… років тому	… vuotta sitten	100 років тому
+частина	osa
+головний	pää-, tärkein	Головна пошта = pääposti
+фільм	elokuva
+країна	maa, valtio
+іноді	joskus
+ім'я	nimi	neutri; mon. імена
 батьки	vanhemmat
-сумка	laukku
-виставка	näyttely
-прикраси	koristeet
-заховатися	piiloutua
-секрет	salaisuus
-підземний	maanalainen
-покататися на поїзді	ajella junalla
-показувати	näyttää
-парта	pulpetti
 вчитися	opiskella, oppia
 вчитель	opettaja	працювати вчителем = toimia opettajana
-навчити	opettaa
-хвилина	minuutti
-імбирні пряники	piparkakut
+вухо	korva	mon. вуха
+вино	viini
 смачний	herkullinen
-прикрашати	koristella
+офіс	toimisto
+холодний	kylmä
+веселий	iloinen, hauska
+далекий	kaukainen
+сумка	laukku
+склянка	juomalasi
+гора	vuori
+показувати	näyttää
+клас	luokka
+прекрасний	ihana, upea
+бар	baari
+шоу	show, esitys	ei taivu
+секрет	salaisuus
+навчити	opettaa
+зазвичай	tavallisesti
+природа	luonto
+небезпека	vaara
+з усього світу	kaikkialta maailmasta
+журнал	aikakauslehti	столик для журналів
+зустрічати гостей	ottaa vieraita vastaan
+отож	siis
+секретний	salainen
+спеціальний	erityinen
+ельф	tonttu
+лід	jää	з льоду = jäästä
+напій	juoma
+офіційний	virallinen
+дошка	taulu
+окремий	erillinen, oma
+свічка	kynttilä
+статуя	patsas
+відіслати	lähettää	відішлють
 тістечка	leivokset
+виставка	näyttely
+покататися на поїзді	ajella junalla
+пригощати	tarjota (vieraalle)
+прикраси	koristeet
+взимку	talvella
+підземний	maanalainen
+галерея	galleria
+резиденція	residenssi, virka-asunto
+нечемний	tottelematon
+штамп	leima
+заховатися	piiloutua
+Полярне коло	napapiiri
+парта	pulpetti
+імбирні пряники	piparkakut
+прикрашати	koristella
 з'їсти	syödä (loppuun)
 льодяний	jäinen, jää-
-статуя	patsas
-лід	jää	з льоду = jäästä
-пригощати	tarjota (vieraalle)
-напій	juoma
-склянка	juomalasi
-… років тому	… vuotta sitten	100 років тому
-офіційний	virallinen
-резиденція	residenssi, virka-asunto
-зараз	nyt
-сюди	tänne
-отож	siis
-головний	pää-, tärkein	Головна пошта = pääposti
-країна	maa, valtio
-спеціальний	erityinen
-відіслати	lähettää	відішлють
 адресат	vastaanottaja
-офіс	toimisto
-ім'я	nimi	neutri; mon. імена
-нечемний	tottelematon
-фільм	elokuva
-природа	luonto
-веселий	iloinen, hauska
-шоу	show, esitys	ei taivu
-клас	luokka
-вино	viini
-прекрасний	ihana, upea
-галерея	galleria
-бар	baari
 імбир	inkivääri
-журнал	aikakauslehti	столик для журналів
 
 @L7	Kirja 7.6–7.7 · Asunnon vuokraus, hotelli (tulossa)
+збиратися	kokoontua; aikoa	I konj.: збираюся, збираються
 виходити	antaa jonnekin (esim. parveke antaa pihalle)	II konj.: виходжу, виходять; виходити на + akk.
 власний	oma
-газ	kaasu	gen. газу
-електрика	sähkö
-здавати квартиру	vuokrata asunto (vuokralle antaa)	I konj.: здаю, здають
-ідеальний	ihanteellinen
-кабельне телебачення	kaapelitelevisio
-комунальні послуги	asumiskulut (vesi, sähkö, lämpö)	vain monikko tässä merkityksessä
-ліфт	hissi	gen. ліфта
-оголошення	ilmoitus
-опалення	lämmitys
-оплата	maksu
-орендувати	vuokrata (vuokralle ottaa)	I konj.: орендую, орендують
-підходити	sopia (jollekin); lähestyä	II konj.: підходжу, підходять
-проживання	asuminen, majoitus
-район	kaupunginosa, alue	gen. району
-романтично	romanttisesti, romanttista
-аквапарк	vesipuisto	lok. в аквапарку; gen. аквапарку
-берег	ranta	lok. на березі; gen. берега
-вибирати	valita	I konj.: вибираю, вибирають; impf.
-відвідати	vierailla, käydä	I konj.; perf.
+номер (у готелі)	hotellihuone	gen. номера
 відпочинок	lepo, loma	gen. відпочинку
-водоспад	vesiputous	gen. водоспаду
-гарантувати	taata	I konj.: гарантую, гарантують
-джакузі	poreallas	ei taivu (= джакузі)
-додатковий	lisä-, ylimääräinen
+відвідати	vierailla, käydä	I konj.; perf.
+ліфт	hissi	gen. ліфта
+підходити	sopia (jollekin); lähestyä	II konj.: підходжу, підходять
+особа	henkilö
+район	kaupunginosa, alue	gen. району
 збирати	kerätä	I konj.: збираю, збирають
-збиратися	kokoontua; aikoa	I konj.: збираюся, збираються
+послуга	palvelu
+берег	ranta	lok. на березі; gen. берега
+газ	kaasu	gen. газу
+ідеальний	ihanteellinen
+реклама	mainos
+вибирати	valita	I konj.: вибираю, вибирають; impf.
+додатковий	lisä-, ylimääräinen
+гарантувати	taata	I konj.: гарантую, гарантують
+оголошення	ilmoitus
+електрика	sähkö
+оплата	maksu
+романтично	romanttisesti, romanttista
+проживання	asuminen, majoitus
+здавати квартиру	vuokrata asunto (vuokralle antaa)	I konj.: здаю, здають
 комплекс	kompleksi, keskus	gen. комплексу
 купатися	uida, kylpeä	I konj.: купаюся, купаються
 масаж	hieronta	gen. масажу
-номер (у готелі)	hotellihuone	gen. номера
+джакузі	poreallas	ei taivu (= джакузі)
+сауна	sauna
+орендувати	vuokrata (vuokralle ottaa)	I konj.: орендую, орендують
 номер люкс	sviitti
+опалення	lämmitys
+кабельне телебачення	kaapelitelevisio
+комунальні послуги	asumiskulut (vesi, sähkö, lämpö)	vain monikko tässä merkityksessä
+аквапарк	vesipuisto	lok. в аквапарку; gen. аквапарку
+водоспад	vesiputous	gen. водоспаду
 номер напівлюкс	juniorsviitti
 організовувати	järjestää	I konj.: організовую, організовують; impf.
-особа	henkilö
-послуга	palvelu
-реклама	mainos
 санки	pulkka, kelkka	vain monikko
-сауна	sauna
 солярій	solarium	gen. солярію
 тенісний корт	tenniskenttä	gen. тенісного корту
 тренажерний зал	kuntosali	gen. тренажерного залу
 шашлик	grillivarras, šašlik	gen. шашлику
 
 @OHJ	Tehtävänannot ja kielioppitermit
-вправа	harjoitus
-наприклад	esimerkiksi
-Увага!	Huomio!
-Прочитайте текст.	Lukekaa teksti.
-Напишіть…	Kirjoittakaa…	inf. написати
-Впишіть…	Kirjoittakaa (aukkoon)…	inf. вписати
-Заповніть пропуски.	Täyttäkää aukot.
-Допишіть закінчення.	Kirjoittakaa päätteet.
-Подивіться на малюнок.	Katsokaa kuvaa.
-Запам'ятайте.	Painakaa mieleen.
-Визначте…	Määrittäkää…
-Послухайте і перевірте.	Kuunnelkaa ja tarkistakaa.
 Скажіть…	Sanokaa…
-Дайте відповіді на питання.	Vastatkaa kysymyksiin.
+Увага!	Huomio!
+Напишіть…	Kirjoittakaa…	inf. написати
 питання	kysymys	ei muutu monikossa
-речення	lause
-Доповніть таблицю.	Täydentäkää taulukko.
-таблиця	taulukko
-Складіть речення.	Muodostakaa lauseita.
-Опишіть…	Kuvailkaa…	inf. описати
-Перефразуйте.	Muotoilkaa toisin.
+Дайте відповіді на питання.	Vastatkaa kysymyksiin.
+наприклад	esimerkiksi
+До зустрічі!	Nähdään!
+за допомогою	jonkin avulla	+ genetiivi
+помилка	virhe
+Послухайте і перевірте.	Kuunnelkaa ja tarkistakaa.
 Поставте у форму…	Laittakaa muotoon…
-Утворіть…	Muodostakaa…	inf. утворити
+правильна форма	oikea muoto
 Виберіть потрібне слово.	Valitkaa oikea sana.
 Знайдіть і виправте помилку.	Etsikää ja korjatkaa virhe.
-помилка	virhe
-Позначте…	Merkitkää…	inf. позначити
-у дужках	sulkeissa
-за допомогою	jonkin avulla	+ genetiivi
-виділений	korostettu
-правильна форма	oikea muoto
-Читаємо та обговорюємо.	Luemme ja keskustelemme.
-Перевірка домашнього завдання	Läksyjen tarkistus
+Опишіть…	Kuvailkaa…	inf. описати
 Домашнє завдання	Kotitehtävä, läksy
 Перерва	Tauko
-До зустрічі!	Nähdään!
+Читаємо та обговорюємо.	Luemme ja keskustelemme.
+Перевірка домашнього завдання	Läksyjen tarkistus
+Подивіться на малюнок.	Katsokaa kuvaa.
+Прочитайте текст.	Lukekaa teksti.
+Визначте…	Määrittäkää…
+рід	suku (kieliopillinen)	чоловічий / жіночий / середній рід
+вправа	harjoitus
+закінчення	pääte
+Заповніть пропуски.	Täyttäkää aukot.
+речення	lause
+Складіть речення.	Muodostakaa lauseita.
+таблиця	taulukko
+Утворіть…	Muodostakaa…	inf. утворити
+Впишіть…	Kirjoittakaa (aukkoon)…	inf. вписати
+Допишіть закінчення.	Kirjoittakaa päätteet.
+Запам'ятайте.	Painakaa mieleen.
+Доповніть таблицю.	Täydentäkää taulukko.
+Перефразуйте.	Muotoilkaa toisin.
+Позначте…	Merkitkää…	inf. позначити
+у дужках	sulkeissa
+виділений	korostettu
 іменник	substantiivi
 прикметник	adjektiivi
 дієслово	verbi
@@ -774,7 +776,6 @@
 числівник	numeraali
 однина	yksikkö
 множина	monikko
-рід	suku (kieliopillinen)	чоловічий / жіночий / середній рід
 називний відмінок	nominatiivi
 родовий відмінок	genetiivi
 давальний відмінок	datiivi
@@ -782,7 +783,6 @@
 орудний відмінок	instrumentaali
 місцевий відмінок	lokatiivi
 кличний відмінок	vokatiivi
-закінчення	pääte
 
 @P1	Perussanasto 1–250 (yleisimmät sanat)
 я	minä	gen./akk. мене, dat. мені
@@ -1519,392 +1519,392 @@
 вареник	varenyk (täytetty taikinanyytti)	usein mon. вареники
 
 @DUO	Duolingo-kurssin muut sanat
+ще не	ei vielä	я ще не знаю = en vielä tiedä
+нічого	ei mitään	kaksoiskielto: я нічого не знаю; myös: ei se mitään
+дякую	kiitos	verbi дякувати + datiivi
+англійська	englanti (kieli)	= англійська мова; говорити англійською
+онука	lapsenlapsi (tyttö)	myös онучка
+дуже приємно	hauska tutustua
+мені теж	samoin, minullekin	vastaus: Дуже приємно! – Мені теж.
+у мене є	minulla on	у тебе є = sinulla on; у вас є = teillä on
+немає	ei ole	+ genetiivi: немає часу
+у мене немає	minulla ei ole	+ genetiivi: у мене немає часу
+так собі	niin ja näin
+рок	rock(musiikki)
+корабель	laiva	gen. корабля
+надто	liian
+вечірка	juhlat, bileet
+пізніше	myöhemmin
+захід	länsi; tilaisuus	на заході = lännessä
+дух	henki
+обидва	molemmat	fem. обидві
+боліти	sattua, särkeä	yl. 3. pers.: у мене болить голова = päätäni särkee
+недавно	äskettäin, vähän aikaa sitten
+подія	tapahtuma
+партнер	kumppani
+нікуди	ei minnekään	kaksoiskielto: я нікуди не йду
+віра	usko
+роман	romaani; romanssi, suhde
+привид	aave, kummitus
+молитися	rukoilla	молюся, молишся
+бізнес	liiketoiminta, bisnes
+американський	amerikkalainen
+приготувати	valmistaa, laittaa (ruokaa)	imperf. готувати
+чоловічий	mies-, miesten
+щодня	joka päivä
+південь	etelä	на півдні = etelässä; gen. півдня
+менеджер	esimies, päällikkö, manageri
+кудись	jonnekin
+горло	kurkku
+розмір	koko
+озеро	järvi
+концерт	konsertti
+радіо	radio	ei taivu
+рейс	lento, vuoro
+табір	leiri	gen. табору
+досвід роботи	työkokemus
+канал	kanava
+північ	pohjoinen; keskiyö	на півночі = pohjoisessa; fem., gen. півночі
+режисер	ohjaaja
+молодший	nuorempi	молодший брат = pikkuveli
+мільярд	miljardi
+актор	näyttelijä (mies)
+інколи	joskus, toisinaan	synonyymi іноді
+завод	tehdas
+дід	isoisä, vaari; ukko	hellittelevä: дідусь
+однак	kuitenkin
+сайт	verkkosivusto
+свиня	sika
+храм	temppeli, kirkko
+медсестра	sairaanhoitaja
+символ	symboli
+вірш	runo
+організація	järjestö, organisaatio
+гурт	yhtye, bändi
+футбол	jalkapallo
+програти	hävitä	imperf. програвати
+цирк	sirkus	у цирку = sirkuksessa
+слон	norsu
+шостий	kuudes
+окуляри	silmälasit	vain monikko
+студія	studio
+нудно	tylsää	мені нудно = minulla on tylsää
+художник	taiteilija, taidemaalari
+файл	tiedosto
+сумно	surullista	мені сумно = minulla on surullinen olo
+технологія	teknologia
+де-небудь	missä tahansa, missään	kysymyksissä: missään
+куди-небудь	minne tahansa, mihinkään
+хто-небудь	kuka tahansa, kukaan	kysymyksissä: kukaan
+що-небудь	mitä tahansa, mitään	kysymyksissä: mitään
+гравець	pelaaja	gen. гравця
+актриса	näyttelijä (nainen)	myös акторка
+дружба	ystävyys
+дорого	kalliisti, kallista
+учень	oppilas	gen. учня
+футболка	T-paita
+хмара	pilvi
+сьомий	seitsemäs
+мода	muoti
+призначити	määrätä, sopia (ajasta), nimittää	imperf. призначати
+збори	kokous	vain monikko
+туфлі	kengät (avokkaat)	monikko; yks. туфля
+схід	itä	на сході = idässä; gen. сходу
+передзвонити	soittaa takaisin	imperf. передзвонювати
+персонал	henkilökunta
+жіночий	nais-, naisten
+транспорт	liikenne, kulkuneuvot	громадський транспорт = julkinen liikenne
+ведмідь	karhu	gen. ведмедя
+письменник	kirjailija (mies)
+інженер	insinööri
+птах	lintu	myös птиця
+миша	hiiri
+десерт	jälkiruoka
+мобільний	matkapuhelin; mobiili-	мобільний (телефон) = kännykkä
+стаття	artikkeli
+багаж	matkatavarat	yksikkö suomen monikkoa vastaan
+туман	sumu
+павук	hämähäkki
 євро	euro	ei taivu
+пасувати	sopia (jollekulle)	+ datiivi: тобі пасує ця сукня
+секретар	sihteeri (mies)
+восьмий	kahdeksas
+тренування	harjoitus, treeni
+блискавка	salama; vetoketju
+журналіст	toimittaja (mies)
+хобі	harrastus	neutri; ei taivu
+вуса	viikset	yl. monikkona
+релігія	uskonto
+борода	parta
+підліток	teini, nuori	gen. підлітка
+населення	väestö, asukasluku
+посольство	suurlähetystö
+басейн	uima-allas, uimahalli
+композитор	säveltäjä
+бейсбол	baseball, pesäpallo
+фестиваль	festivaali
+зоопарк	eläintarha	у зоопарку = eläintarhassa
+скасувати	peruuttaa, perua	imperf. скасовувати
+бутерброд	voileipä
+екзамен	tentti, koe	myös іспит
+освіта	koulutus
+десятий	kymmenes
+каса	kassa, lippumyymälä
+блог	blogi
+джаз	jazz
+страйк	lakko
+піца	pizza
+ресурс	resurssi, voimavara	yl. mon. ресурси
+розклад	aikataulu, lukujärjestys
+спортивний	urheilu-, urheilullinen
+грім	ukkonen	gen. грому
+бюджет	budjetti
+пасажир	matkustaja
+післязавтра	ylihuomenna
+візит	vierailu, käynti
+популярний	suosittu
+українська	ukraina (kieli)	= українська мова; говорити українською
+чоботи	saappaat	monikko; yks. чобіт
+вагон	(junan) vaunu
+шахи	shakki	vain monikko
+психолог	psykologi
+конференція	konferenssi
+влітку	kesällä
+література	kirjallisuus
+факультет	tiedekunta
+самотньо	yksinäistä	мені самотньо = tunnen oloni yksinäiseksi
+сосиска	nakki	mon. сосиски
+коментар	kommentti
+фарба	maali, väri(aine)
+парад	paraati
+романтичний	romanttinen
+офіціантка	tarjoilija (nainen)
+триста	kolmesataa
+поет	runoilija
+банджо	banjo	ei taivu
+офіціант	tarjoilija (mies)
+за професією	ammatiltaan
+резюме	ansioluettelo, CV	neutri; ei taivu
+стадіон	stadion
+турист	turisti
+лимон	sitruuna	з лимоном = sitruunan kanssa
+навчатися	opiskella	+ lok.: навчатися в університеті
+релігійний	uskonnollinen
+молодь	nuoriso, nuoret	fem.; yksikkö
+светр	villapaita, neulepusero
+семестр	lukukausi
+незалежність	itsenäisyys	fem.
+дешево	halvalla, halpaa
+баскетбол	koripallo
+спідниця	hame
+безробітний	työtön
+купе	makuuvaunun hytti	neutri; ei taivu
+християнин	kristitty	mon. християни
+секретарка	sihteeri (nainen)
+щоночі	joka yö
+перекладач	kääntäjä, tulkki
+щовечора	joka ilta
+завантажити	ladata (netistä)	imperf. завантажувати
+програміст	ohjelmoija
+диплом	tutkintotodistus, diplomi
+рудий	punatukkainen, punertava	рудий кіт = punainen kissa
+кінотеатр	elokuvateatteri
+фонтан	suihkulähde
+критик	kriitikko
+шарф	kaulahuivi
+шорти	shortsit	vain monikko
+мороз	pakkanen
+незалежний	itsenäinen, riippumaton
+котлета	kotletti, jauhelihapihvi
+позавчора	toissapäivänä
+бізнесмен	liikemies
+кетчуп	ketsuppi	з кетчупом = ketsupin kanssa
+уранці	aamulla	myös вранці
+щоранку	joka aamu
+презентація	esitys, esittely
+урядовий	hallituksen, hallitus-
+класика	klassikko, klassikot
+довідка	neuvonta, info(piste); todistus
+дванадцятий	kahdestoista
+племінник	veljenpoika, sisarenpoika
+проїзд	matkalippu, kyyti(maksu)	оплатити проїзд = maksaa matka
+алея	puistokatu, kuja
+кросівки	lenkkarit	monikko; yks. кросівка
+хокей	jääkiekko
+читач	lukija
+восени	syksyllä
+чотириста	neljäsataa
+заєць	jänis	gen. зайця
+племінниця	veljentytär, sisarentytär
+банкомат	pankkiautomaatti
+мечеть	moskeija	fem.
+марафон	maraton
+двоюрідний	serkku-	двоюрідний брат / двоюрідна сестра = serkku
+прохолодно	viileää
+навесні	keväällä
+викладач	(korkeakoulun) opettaja, lehtori
+удень	päivällä	myös вдень
+виноград	viinirypäleet	kollektiivinen yksikkö
+провідник	(junan) konduktööri; opas
+персик	persikka
+усміхатися	hymyillä	+ datiivi: усміхатися комусь
+модний	muodikas
+собор	katedraali, tuomiokirkko
+морква	porkkana	з морквою = porkkanan kanssa
+оповідання	novelli, kertomus
+магістр	maisteri
+забобон	taikausko
+теніс	tennis
+майонез	majoneesi
+словник	sanakirja; sanasto
+візитка	käyntikortti
+пенсіонер	eläkeläinen (mies)
+вісімсот	kahdeksansataa
+карий	ruskea (silmistä)	карі очі = ruskeat silmät
+елегантний	tyylikäs, elegantti
+лазня	sauna, kylpylä
+страйкувати	lakkoilla	страйкую, страйкуєш
+обміняти	vaihtaa (rahaa)	imperf. обмінювати
+медитація	meditaatio
 ідеаліст	idealisti
 імейл	sähköposti(viesti)	myös е-мейл; virallisemmin електронна пошта
-інженер	insinööri
-інколи	joskus, toisinaan	synonyymi іноді
 інтерв'ю	haastattelu	neutri; ei taivu
 іудейський	juutalainen (uskonnosta)	nyk. myös юдейський
 автостанція	linja-autoasema
-актор	näyttelijä (mies)
-актриса	näyttelijä (nainen)	myös акторка
-алея	puistokatu, kuja
-американський	amerikkalainen
-англійська	englanti (kieli)	= англійська мова; говорити англійською
 атеїст	ateisti
-бізнес	liiketoiminta, bisnes
-бізнесмен	liikemies
-багаж	matkatavarat	yksikkö suomen monikkoa vastaan
 бакалавр	kandidaatti (tutkinto)
-банджо	banjo	ei taivu
-банкомат	pankkiautomaatti
-басейн	uima-allas, uimahalli
-баскетбол	koripallo
-безробітний	työtön
-бейсбол	baseball, pesäpallo
-блискавка	salama; vetoketju
-блог	blogi
 блондин	vaaleatukkainen mies	nainen: блондинка
-боліти	sattua, särkeä	yl. 3. pers.: у мене болить голова = päätäni särkee
-борода	parta
 брюнет	tummatukkainen mies	nainen: брюнетка
 буддійський	buddhalainen (adj.)
 буддист	buddhalainen (ihminen)
-бутерброд	voileipä
-бюджет	budjetti
-візит	vierailu, käynti
-візитка	käyntikortti
-віра	usko
-вірш	runo
-вісімсот	kahdeksansataa
-вагон	(junan) vaunu
 валюта	valuutta
 вебдизайн	verkkosivusuunnittelu
 вегетаріанець	kasvissyöjä (mies)	mon. вегетаріанці
 вегетаріанка	kasvissyöjä (nainen)
-ведмідь	karhu	gen. ведмедя
 веселка	sateenkaari
-вечірка	juhlat, bileet
-викладач	(korkeakoulun) opettaja, lehtori
-виноград	viinirypäleet	kollektiivinen yksikkö
-влітку	kesällä
-восени	syksyllä
-восьмий	kahdeksas
-вуса	viikset	yl. monikkona
-горло	kurkku
-грім	ukkonen	gen. грому
-гравець	pelaaja	gen. гравця
 гумористичний	humoristinen
-гурт	yhtye, bändi
-дід	isoisä, vaari; ukko	hellittelevä: дідусь
-дванадцятий	kahdestoista
-двоюрідний	serkku-	двоюрідний брат / двоюрідна сестра = serkku
-де-небудь	missä tahansa, missään	kysymyksissä: missään
 дев'ятсот	yhdeksänsataa
-десерт	jälkiruoka
-десятий	kymmenes
-дешево	halvalla, halpaa
-джаз	jazz
-диплом	tutkintotodistus, diplomi
-довідка	neuvonta, info(piste); todistus
-дорого	kalliisti, kallista
-досвід роботи	työkokemus
-дружба	ystävyys
-дуже приємно	hauska tutustua
-дух	henki
-дякую	kiitos	verbi дякувати + datiivi
-екзамен	tentti, koe	myös іспит
-елегантний	tyylikäs, elegantti
-жіночий	nais-, naisten
-журналіст	toimittaja (mies)
 журналістка	toimittaja (nainen)
-кетчуп	ketsuppi	з кетчупом = ketsupin kanssa
-котлета	kotletti, jauhelihapihvi
-морква	porkkana	з морквою = porkkanan kanssa
-за професією	ammatiltaan
-заєць	jänis	gen. зайця
-забобон	taikausko
-завантажити	ladata (netistä)	imperf. завантажувати
-завод	tehdas
-захід	länsi; tilaisuus	на заході = lännessä
-збори	kokous	vain monikko
 зошит	vihko
-кінотеатр	elokuvateatteri
-канал	kanava
-карий	ruskea (silmistä)	карі очі = ruskeat silmät
 Карпати	Karpaatit	vain monikko; в Карпатах
-каса	kassa, lippumyymälä
-класика	klassikko, klassikot
-коментар	kommentti
-композитор	säveltäjä
-конференція	konferenssi
-концерт	konsertti
-корабель	laiva	gen. корабля
-критик	kriitikko
-кросівки	lenkkarit	monikko; yks. кросівка
-куди-небудь	minne tahansa, mihinkään
-кудись	jonnekin
-купе	makuuvaunun hytti	neutri; ei taivu
-література	kirjallisuus
-лазня	sauna, kylpylä
-лимон	sitruuna	з лимоном = sitruunan kanssa
 м'яч	pallo	gen. м'яча
 мітинг	mielenosoitus, joukkokokous
-магістр	maisteri
-майонез	majoneesi
-марафон	maraton
 маршрутка	reittitaksi, pikkubussi	на маршрутці = reittitaksilla
-медитація	meditaatio
 медитувати	meditoida	медитую, медитуєш
-медсестра	sairaanhoitaja
-мені теж	samoin, minullekin	vastaus: Дуже приємно! – Мені теж.
-менеджер	esimies, päällikkö, manageri
-мечеть	moskeija	fem.
-миша	hiiri
-мобільний	matkapuhelin; mobiili-	мобільний (телефон) = kännykkä
-мода	muoti
-модний	muodikas
-молитися	rukoilla	молюся, молишся
-молодший	nuorempi	молодший брат = pikkuveli
-молодь	nuoriso, nuoret	fem.; yksikkö
-мороз	pakkanen
 мусульманин	muslimi	mon. мусульмани
 мусульманський	muslimi- (adj.)
 мюслі	mysli	ei taivu
-нікуди	ei minnekään	kaksoiskielto: я нікуди не йду
-нічого	ei mitään	kaksoiskielto: я нічого не знаю; myös: ei se mitään
-південь	etelä	на півдні = etelässä; gen. півдня
-північ	pohjoinen; keskiyö	на півночі = pohjoisessa; fem., gen. півночі
-схід	itä	на сході = idässä; gen. сходу
 тролейбус	johdinauto	на тролейбусі = johdinautolla
-навесні	keväällä
-навчатися	opiskella	+ lok.: навчатися в університеті
-надто	liian
-населення	väestö, asukasluku
-недавно	äskettäin, vähän aikaa sitten
-незалежність	itsenäisyys	fem.
-незалежний	itsenäinen, riippumaton
-немає	ei ole	+ genetiivi: немає часу
-нудно	tylsää	мені нудно = minulla on tylsää
-обидва	molemmat	fem. обидві
-обміняти	vaihtaa (rahaa)	imperf. обмінювати
-мільярд	miljardi
 одинадцятий	yhdestoista
-однак	kuitenkin
-озеро	järvi
-окуляри	silmälasit	vain monikko
-онука	lapsenlapsi (tyttö)	myös онучка
-оповідання	novelli, kertomus
 оптиміст	optimisti
-організація	järjestö, organisaatio
-освіта	koulutus
-офіціант	tarjoilija (mies)
-офіціантка	tarjoilija (nainen)
 п'ятсот	viisisataa
-підліток	teini, nuori	gen. підлітка
-пізніше	myöhemmin
-післязавтра	ylihuomenna
-піца	pizza
 піцерія	pizzeria
-павук	hämähäkki
-парад	paraati
 парасоля	sateenvarjo
-партнер	kumppani
-пасажир	matkustaja
-пасувати	sopia (jollekulle)	+ datiivi: тобі пасує ця сукня
-пенсіонер	eläkeläinen (mies)
 пенсіонерка	eläkeläinen (nainen)
-передзвонити	soittaa takaisin	imperf. передзвонювати
-перекладач	kääntäjä, tulkki
-персик	persikka
-персонал	henkilökunta
 песиміст	pessimisti
-письменник	kirjailija (mies)
 письменниця	kirjailija (nainen)
 планшет	tabletti(tietokone)
-племінник	veljenpoika, sisarenpoika
-племінниця	veljentytär, sisarentytär
-подія	tapahtuma
-поет	runoilija
-позавчора	toissapäivänä
 поміряти	sovittaa (vaatetta)	imperf. міряти
-популярний	suosittu
-посольство	suurlähetystö
 постмодернізм	postmodernismi	lähteessä väärin kirjoitettu постмодернизм
-презентація	esitys, esittely
-привид	aave, kummitus
-приготувати	valmistaa, laittaa (ruokaa)	imperf. готувати
-призначити	määrätä, sopia (ajasta), nimittää	imperf. призначати
-проїзд	matkalippu, kyyti(maksu)	оплатити проїзд = maksaa matka
-провідник	(junan) konduktööri; opas
-програміст	ohjelmoija
-програти	hävitä	imperf. програвати
-прохолодно	viileää
-психолог	psykologi
-птах	lintu	myös птиця
-радіо	radio	ei taivu
-режисер	ohjaaja
-резюме	ansioluettelo, CV	neutri; ei taivu
-рейс	lento, vuoro
 рекламувати	mainostaa
-релігійний	uskonnollinen
-релігія	uskonto
-ресурс	resurssi, voimavara	yl. mon. ресурси
-розклад	aikataulu, lukujärjestys
-розмір	koko
-рок	rock(musiikki)
-роман	romaani; romanssi, suhde
-романтичний	romanttinen
-рудий	punatukkainen, punertava	рудий кіт = punainen kissa
 сімсот	seitsemänsataa
-сайт	verkkosivusto
-самотньо	yksinäistä	мені самотньо = tunnen oloni yksinäiseksi
-светр	villapaita, neulepusero
-свиня	sika
-секретар	sihteeri (mies)
-секретарка	sihteeri (nainen)
-семестр	lukukausi
 сивий	harmaa (hiuksista)	сиве волосся = harmaat hiukset
-символ	symboli
 синагога	synagoga
-скасувати	peruuttaa, perua	imperf. скасовувати
 скептик	skeptikko
-словник	sanakirja; sanasto
-слон	norsu
 смартфон	älypuhelin
-собор	katedraali, tuomiokirkko
-сосиска	nakki	mon. сосиски
-спідниця	hame
-спортивний	urheilu-, urheilullinen
-стадіон	stadion
-стаття	artikkeli
-страйк	lakko
-страйкувати	lakkoilla	страйкую, страйкуєш
-студія	studio
-сумно	surullista	мені сумно = minulla on surullinen olo
-сьомий	seitsemäs
-табір	leiri	gen. табору
-так собі	niin ja näin
-теніс	tennis
-технологія	teknologia
-транспорт	liikenne, kulkuneuvot	громадський транспорт = julkinen liikenne
-тренування	harjoitus, treeni
-триста	kolmesataa
-туман	sumu
-турист	turisti
-туфлі	kengät (avokkaat)	monikko; yks. туфля
-у мене є	minulla on	у тебе є = sinulla on; у вас є = teillä on
-у мене немає	minulla ei ole	+ genetiivi: у мене немає часу
-зоопарк	eläintarha	у зоопарку = eläintarhassa
-цирк	sirkus	у цирку = sirkuksessa
-удень	päivällä	myös вдень
-українська	ukraina (kieli)	= українська мова; говорити українською
-уранці	aamulla	myös вранці
-урядовий	hallituksen, hallitus-
-усміхатися	hymyillä	+ datiivi: усміхатися комусь
-учень	oppilas	gen. учня
 фіолетовий	violetti
 фітнес-зал	kuntosali
-файл	tiedosto
-факультет	tiedekunta
-фарба	maali, väri(aine)
 фентезі	fantasia (lajityyppi)	ei taivu
-фестиваль	festivaali
-фонтан	suihkulähde
-футбол	jalkapallo
-футболка	T-paita
-хмара	pilvi
-хобі	harrastus	neutri; ei taivu
-хокей	jääkiekko
 хор	kuoro
-храм	temppeli, kirkko
-християнин	kristitty	mon. християни
 християнський	kristillinen
-хто-небудь	kuka tahansa, kukaan	kysymyksissä: kukaan
-художник	taiteilija, taidemaalari
-читач	lukija
-чоботи	saappaat	monikko; yks. чобіт
-чоловічий	mies-, miesten
-чотириста	neljäsataa
 шістсот	kuusisataa
-шарф	kaulahuivi
-шахи	shakki	vain monikko
-шорти	shortsit	vain monikko
-шостий	kuudes
-ще не	ei vielä	я ще не знаю = en vielä tiedä
-що-небудь	mitä tahansa, mitään	kysymyksissä: mitään
-щовечора	joka ilta
-щодня	joka päivä
-щоночі	joka yö
-щоранку	joka aamu
 
 @S6	Kirjan sanasto, luku 6: ruoka ja juhlat (kertaus)	off
-алергія на	allergia jollekin	+ akkusatiivi
-безпечний	turvallinen
+познайомитися з	tutustua johonkin	+ instrumentaali
+Свят-вечір	jouluaatto
+меню	ruokalista	ei taivu
+Я б хотів…	Haluaisin…	nainen: Я б хотіла…
+душа	sielu
+святий	pyhä
+Почекай хвилинку!	Odota hetki!
+мрія	unelma
+зірка	tähti
 небезпечний	vaarallinen
+більшість	enemmistö, useimmat	feminiini
+клієнт	asiakas
+мак	unikko; unikonsiemenet
+втомитися	väsyä
+замовити	tilata
+готуватися до	valmistautua johonkin	+ genetiivi
+мистецтво	taide
+запрошувати	kutsua
+мріяти	unelmoida
+швидка їжа	pikaruoka
+замовити столик	varata pöytä
+обожнювати	rakastaa kovasti, jumaloida
+безпечний	turvallinen
+рецепт	resepti
+соус	kastike
+цікавитися	olla kiinnostunut jostakin	+ instrumentaali
+священик	pappi
+страва	ruokalaji
+святкувати	juhlia
+чистити	kuoria, puhdistaa	чищу, чистять
+несподівано	yllättäen
+Хто пізно приходить, той сам собі шкодить.	Joka myöhään tulee, se itseään vahingoittaa.	sananlasku
+канікули	loma (koulu-)	vain monikko
+захоплюватися	olla innostunut jostakin	+ instrumentaali
+кориця	kaneli
+зелень	yrtit, vihreät
+додавати	lisätä
+алергія на	allergia jollekin	+ akkusatiivi
+закуска	alkupala
+Христос народився! – Славімо Його!	Kristus on syntynyt! – Ylistäkäämme häntä!	joulutervehdys
+сіно	heinä
+паска	pääsiäisleipä
+шинка	kinkku
+цибуля	sipuli
+гамбургер	hampurilainen
+яблучний пиріг	omenapiirakka
+Великдень	pääsiäinen	gen. Великодня
+Христос воскрес! – Воістину воскрес!	Kristus nousi kuolleista! – Totisesti nousi!	pääsiäistervehdys
+горох	herneet
+макарони	pasta	monikko
+варення	hillo
+дієта	dieetti, ruokavalio
+сідати на дієту	aloittaa dieetti
 борошно	jauhot	vain yksikössä
 буряк	punajuuri
 вишня	kirsikka
 газований напій	hiilihapollinen juoma
 негазована вода	hiilihapoton vesi
-гамбургер	hampurilainen
 гарнір	lisuke
 горіхове масло	pähkinävoi
-горох	herneet
-дієта	dieetti, ruokavalio
-сідати на дієту	aloittaa dieetti
-закуска	alkupala
-зелень	yrtit, vihreät
 картопляне пюре	perunamuusi
 ківі	kiivi	ei taivu
 компот	kompotti (hedelmäjuoma)
 шкідливий	haitallinen, epäterveellinen
-макарони	pasta	monikko
-меню	ruokalista	ei taivu
 оливка	oliivi
 полуниця	mansikka
 сметана	smetana, hapankerma
-цибуля	sipuli
-швидка їжа	pikaruoka
 бульйон	liemi
-варення	hillo
-замовити	tilata
-замовити столик	varata pöytä
-запрошувати	kutsua
 гречка	tattari
-кориця	kaneli
-несподівано	yllättäen
-обожнювати	rakastaa kovasti, jumaloida
 родзинка	rusina
-Хто пізно приходить, той сам собі шкодить.	Joka myöhään tulee, se itseään vahingoittaa.	sananlasku
 голубець	kaalikääryle	gen. голубця
-Великдень	pääsiäinen	gen. Великодня
-паска	pääsiäisleipä
 писанка	koristeltu pääsiäismuna
-Христос воскрес! – Воістину воскрес!	Kristus nousi kuolleista! – Totisesti nousi!	pääsiäistervehdys
-Христос народився! – Славімо Його!	Kristus on syntynyt! – Ylistäkäämme häntä!	joulutervehdys
-Свят-вечір	jouluaatto
 кутя	kutja (jouluaaton vehnäpuuro)
 узвар	uzvar (kuivahedelmäjuoma)
 колядка	joululaulu
 колядувати	laulaa joululauluja talosta taloon
-святий	pyhä
-святкувати	juhlia
-священик	pappi
-сіно	heinä
-зірка	tähti
 дріжджі	hiiva	vain monikko
-мак	unikko; unikonsiemenet
-соус	kastike
-страва	ruokalaji
 сушений	kuivattu
 чорниця	mustikka
-шинка	kinkku
-душа	sielu
-захоплюватися	olla innostunut jostakin	+ instrumentaali
-цікавитися	olla kiinnostunut jostakin	+ instrumentaali
-мрія	unelma
-мріяти	unelmoida
 кар'єра	ura
-мистецтво	taide
-познайомитися з	tutustua johonkin	+ instrumentaali
-Почекай хвилинку!	Odota hetki!
 сирник	syrnyk (rahkaletty)
-більшість	enemmistö, useimmat	feminiini
-канікули	loma (koulu-)	vain monikko
 гарбуз	kurpitsa
-готуватися до	valmistautua johonkin	+ genetiivi
 індичка	kalkkuna
 смажити	paistaa
 сонцезахисні окуляри	aurinkolasit	vain monikko
-яблучний пиріг	omenapiirakka
-втомитися	väsyä
-клієнт	asiakas
 порекомендувати	suositella
-Я б хотів…	Haluaisin…	nainen: Я б хотіла…
-додавати	lisätä
 мішати	sekoittaa
 нарізати	leikata, pilkkoa
-рецепт	resepti
-чистити	kuoria, puhdistaa	чищу, чистять
