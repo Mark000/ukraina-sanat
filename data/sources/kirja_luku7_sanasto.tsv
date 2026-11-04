@@ -1,0 +1,286 @@
+7.1	балкон	parveke	gen. балкона	have
+7.1	ванна	kylpyhuone; kylpyamme		have
+7.1	вітальня	olohuone		have
+7.1	вхід	sisäänkäynti	mon. входи; gen. входу	have
+7.1	горище	ullakko		new
+7.1	дах	katto (ulkokatto)	lok. на даху; gen. даху	have
+7.1	двері	ovi	vain monikko; gen. дверей; file has only вхідні двері	new
+7.1	дзеркало	peili		have
+7.1	диван	sohva	gen. дивана	have
+7.1	другий поверх	toinen kerros	gen. другого поверху; поверх in file	new
+7.1	духовка	uuni	lok. у духовці	have
+7.1	душ	suihku	gen. душу	new
+7.1	журнальний столик	sohvapöytä	gen. журнального столика	have
+7.1	зубна паста	hammastahna		have
+7.1	зубна щітка	hammasharja		have
+7.1	кабінет	työhuone	gen. кабінету	have
+7.1	камін	takka	gen. каміна	have
+7.1	квартира	asunto		have
+7.1	килим	matto	gen. килима	have
+7.1	кімната	huone	file has only ванна кімната	new
+7.1	книжкова шафа	kirjahylly, kirjakaappi		have
+7.1	ковдра	peitto		have
+7.1	комод	lipasto	gen. комода	have
+7.1	комп'ютерний стіл	tietokonepöytä	gen. комп'ютерного стола	have
+7.1	коридор	käytävä	gen. коридору	have
+7.1	крісло	nojatuoli		have
+7.1	кухня	keittiö		have
+7.1	кухонні шафки	keittiön kaapit		have
+7.1	меблі	huonekalut	vain monikko	have
+7.1	мийка	tiskiallas		have
+7.1	мило	saippua		new
+7.1	мікрохвильова піч	mikroaaltouuni	піч on feminiini; lok. у мікрохвильовій печі	have
+7.1	монітор	näyttö	gen. монітора	have
+7.1	особняк	omakotitalo, huvila (erillinen ylellinen talo)	gen. особняку	new
+7.1	перший поверх	ensimmäinen kerros, pohjakerros	gen. першого поверху; поверх in file	new
+7.1	плита	liesi		have
+7.1	подушка	tyyny		have
+7.1	посуд	astiat	vain yksikkö (одн.) ukrainassa; gen. посуду	have
+7.1	рідний	oma, synnyin-, rakas (рідне місто = kotikaupunki)		new
+7.1	спальня	makuuhuone		have
+7.1	сходи	portaat	vain monikko	have
+7.1	телевізор	televisio	gen. телевізора	new
+7.1	умивальник	pesuallas, käsienpesuallas	gen. умивальника	new
+7.1	унітаз	WC-istuin, vessanpönttö	gen. унітаза	new
+7.1	холодильник	jääkaappi	gen. холодильника	have
+7.1	шафа	kaappi		have
+7.2	вазон	ruukkukasvi	gen. вазона	have
+7.2	висіти	riippua	II konj.: вишу, висиш, висять	have
+7.2	високий	korkea		new
+7.2	годинник	kello	lok. на годиннику; gen. годинника	have
+7.2	картина	taulu, maalaus		have
+7.2	куток	nurkka	lok. у кутку; gen. кутка	have
+7.2	лежати	maata, olla vaakatasossa	II konj.: лежу, лежать	have
+7.2	люстра	kattokruunu		have
+7.2	підлога	lattia	lok. на підлозі	have
+7.2	стеля	sisäkatto		have
+7.2	стіна	seinä		have
+7.2	стояти	seistä, olla pystyssä	II konj.: стою, стоять	have
+7.2	тумбочка	yöpöytä	lok. на тумбочці	have
+7.2	штора	verho	file has plural штори	have
+7.3	Біблія	Raamattu		new
+7.3	божевільний	hullu		have
+7.3	ваза	maljakko	file: ваза з квітами	have
+7.3	валіза	matkalaukku		have
+7.3	виделка	haarukka		have
+7.3	вишитий	kirjailtu		have
+7.3	герой	sankari; (sadun) hahmo	gen. героя; file only казкові герої	new
+7.3	глобус	karttapallo	gen. глобуса	have
+7.3	гостинний	vieraanvarainen		have
+7.3	дарувати	lahjoittaa, antaa lahjaksi	I konj.: дарую, дарують	have
+7.3	диво	ihme		have
+7.3	дизайн	muotoilu, design	gen. дизайну	new
+7.3	дізнатися	saada selville	I konj.	have
+7.3	доба	vuorokausi		have
+7.3	догори ногами	ylösalaisin		new
+7.3	домашній	koti-, kotoinen		have
+7.3	зал	sali	gen. залу	new
+7.3	залежати від	riippua jostakin	II konj.: залежу, залежать; + genetiivi	have
+7.3	земля	maa	file: стоїть на землі	have
+7.3	зимовий	talvinen, talvi-		have
+7.3	ікона	ikoni		have
+7.3	інтер'єр	sisustus	gen. інтер'єру	have
+7.3	казка	satu	lok. у казці	have
+7.3	казковий	satumainen		have
+7.3	канцтовари	toimistotarvikkeet, paperitavarat	vain monikko	new
+7.3	капець	tossu	gen. капця; file has plural капці	have
+7.3	класичний	klassinen		new
+7.3	клей	liima	gen. клею	have
+7.3	коли-небудь	koskaan, joskus		have
+7.3	кольоровий	värillinen, väri-		have
+7.3	костюм	puku, asu	gen. костюма	new
+7.3	лавка	penkki	lok. на лавці	have
+7.3	літній	kesäinen, kesä-		have
+7.3	ложка	lusikka	lok. у ложці	have
+7.3	майстерня	työpaja		have
+7.3	мапа	kartta		have
+7.3	мішок	säkki	lok. у мішку	have
+7.3	народний	kansan-, kansallinen		have
+7.3	настрій	mieliala	gen. настрою	have
+7.3	наступний	seuraava		have
+7.3	небо	taivas		new
+7.3	незвичайний	epätavallinen, erikoinen		new
+7.3	незвичний	epätavallinen, outo		have
+7.3	неслухняний	tuhma		have
+7.3	новорічний	uudenvuoden-		have
+7.3	ножиці	sakset	vain monikko	have
+7.3	папір	paperi	gen. паперу	have
+7.3	папка	kansio	lok. у папці	have
+7.3	перо	sulkakynä		have
+7.3	пластилін	muovailuvaha	gen. пластиліну	have
+7.3	пляшка	pullo	file: пляшка молока	have
+7.3	подвір'я	piha	neutri (с.р.)	have
+7.3	полиця	hylly		have
+7.3	почуватися	tuntea olonsa	I konj.: почуваюся, почуваються	have
+7.3	простирадло	lakana		have
+7.3	рослина	kasvi	file has plural рослини	have
+7.3	склянка	juomalasi	lok. у склянці	have
+7.3	сон	uni	mon. сни; gen. сну (printed Р.в. -у)	new
+7.3	сучасний	nykyaikainen, moderni		have
+7.3	тарілка	lautanen	lok. у тарілці	have
+7.3	тепло	lämpö; lämpimästi		have
+7.3	тиждень	viikko	gen. тижня	have
+7.3	тканина	kangas		have
+7.3	традиційний	perinteinen		new
+7.3	цілодобово	ympäri vuorokauden		have
+7.3	чайник	vedenkeitin	gen. чайника	have
+7.3	чашка	kuppi	lok. у чашці	have
+7.3	чемний	kohtelias, tottelevainen		have
+7.3	чорнило	muste		have
+7.4	біля	vieressä, lähellä	+ genetiivi	have
+7.4	вогонь	tuli	gen. вогню	new
+7.4	вхідні двері	ulko-ovi	vain monikko; gen. вхідних дверей	have
+7.4	далеко від	kaukana jostakin	+ genetiivi	have
+7.4	за	takana	+ instrumentaali	have
+7.4	затишний	kodikas		have
+7.4	зліва від	vasemmalla puolella	+ genetiivi	have
+7.4	зручний	mukava		have
+7.4	коло	vieressä, lähellä	+ genetiivi	have
+7.4	круглий	pyöreä		have
+7.4	ліворуч від	vasemmalla puolella	+ genetiivi	have
+7.4	м'яке крісло	pehmeä nojatuoli	крісло and м'який in file	new
+7.4	м'який	pehmeä		have
+7.4	між	välissä	+ instrumentaali	have
+7.4	навпроти	vastapäätä	+ genetiivi	have
+7.4	над	yläpuolella	+ instrumentaali	have
+7.4	перед	edessä	+ instrumentaali	have
+7.4	під	alla	+ instrumentaali	have
+7.4	покласти	laittaa (makaamaan)	I konj.; perf.	have
+7.4	полиця	hylly		have
+7.4	поруч з	vieressä	+ instrumentaali	have
+7.4	поряд з	vieressä	+ instrumentaali	have
+7.4	поставити	laittaa (pystyyn)	II konj.; perf.	have
+7.4	праворуч від	oikealla puolella	+ genetiivi	have
+7.4	проводити час	viettää aikaa	II konj.: проводжу, проводять	new
+7.4	світлий	valoisa		have
+7.4	справа від	oikealla puolella	+ genetiivi	have
+7.5	адресат	vastaanottaja	gen. адресата	new
+7.5	акваріум	akvaario	gen. акваріума	new
+7.5	антикварний	antiikkinen		have
+7.5	бажання	toive	file: загадувати/виконувати бажання	have
+7.5	бувати	olla (toistuvasti), käydä	I konj.: буваю, бувають	new
+7.5	вежа	torni		have
+7.5	виглядати	näyttää (joltakin)	I konj.: виглядаю, виглядають	new
+7.5	виконувати функцію	toimia jonakin, hoitaa tehtävää	I konj.: виконую, виконують	new
+7.5	вирішити	päättää	II konj.; perf.	have
+7.5	відкрити	avata	I konj.; perf.	have
+7.5	відчувати	tuntea, aistia	I konj.: відчуваю, відчувають	have
+7.5	вухо	korva		have
+7.5	господар	isäntä, omistaja	gen. господаря	have
+7.5	дерев'яний	puinen		have
+7.5	димар	savupiippu	gen. димаря	have
+7.5	дорослий	aikuinen		have
+7.5	дошка	taulu	lok. на дошці	have
+7.5	ельф	tonttu	gen. ельфа	have
+7.5	жук-сонечко	leppäkerttu		have
+7.5	змінити	muuttaa, vaihtaa	II konj.; perf.	have
+7.5	знайти	löytää	I konj.; perf.	have
+7.5	зуб	hammas	gen. зуба; file only рот із зубами	new
+7.5	історичний	historiallinen		new
+7.5	кам'яний	kivinen, kivi-		have
+7.5	квадратний метр	neliömetri	gen. квадратного метра	have
+7.5	кожний	jokainen	myös кожен	new
+7.5	копія	kopio		new
+7.5	кошик для покупок	ostoskori	кошик in file	new
+7.5	краса	kauneus		have
+7.5	льодяний	jäinen, jää-		have
+7.5	майстерня	työpaja		have
+7.5	небезпека	vaara	lok. у небезпеці	have
+7.5	організувати	järjestää	I konj.	new
+7.5	отримати	saada	I konj.; perf.	have
+7.5	офіційний	virallinen		new
+7.5	підземний	maanalainen		have
+7.5	площа	pinta-ala	площа (кв. метрів)	have
+7.5	полиця	hylly		have
+7.5	Полярне коло	napapiiri		have
+7.5	поставити	laittaa (pystyyn)	II konj.; perf.	have
+7.5	приблизно	noin, suunnilleen		have
+7.5	приїжджати	saapua (kulkuneuvolla)	I konj.; impf.	new
+7.5	прикраса	koriste	file has plural прикраси	have
+7.5	прикрашати	koristella	I konj.: прикрашаю, прикрашають	have
+7.5	принцеса	prinsessa		new
+7.5	прозорий	läpinäkyvä		have
+7.5	пропонувати	tarjota, ehdottaa	I konj.: пропоную, пропонують	new
+7.5	прямий	suora		have
+7.5	пряник	piparkakku	gen. пряника; file: імбирні пряники	have
+7.5	резиденція	residenssi, asuinpaikka		new
+7.5	різний	erilainen		have
+7.5	розташований	sijaitseva		have
+7.5	рот	suu	gen. рота	have
+7.5	рух	liike	gen. руху	new
+7.5	ручка (кошика)	(korin) kahva		have
+7.5	сам	itse		new
+7.5	свічка	kynttilä	lok. на свічці	have
+7.5	свобода	vapaus		have
+7.5	секрет	salaisuus	gen. секрету	have
+7.5	секретний	salainen		have
+7.5	складатися	taittua kokoon; koostua	I konj.: складаюся, складаються	have
+7.5	скляний	lasinen		have
+7.5	склянка	juomalasi	lok. у склянці	have
+7.5	смак	maku	gen. смаку	have
+7.5	сміливий	rohkea		have
+7.5	смішний	hauska		have
+7.5	спочатку	aluksi		have
+7.5	суміш	sekoitus	feminiini; instr. сумішшю	have
+7.5	сумка	laukku	lok. у сумці	have
+7.5	сучасний	nykyaikainen, moderni		have
+7.5	талановитий	lahjakas		have
+7.5	танцівник	tanssija (mies)	gen. танцівника	have
+7.5	танцівниця	tanssija (nainen)		have
+7.5	тістечко	leivos		have
+7.5	чути	kuulla	I konj.: чую, чують	have
+7.5	шоу	show, esitys	ei taivu (= шоу)	new
+7.5	штамп	leima	gen. штампа	have
+7.6	виходити	antaa jonnekin (esim. parveke antaa pihalle)	II konj.: виходжу, виходять; виходити на + akk.	new
+7.6	власний	oma		new
+7.6	газ	kaasu	gen. газу	new
+7.6	електрика	sähkö		new
+7.6	здавати квартиру	vuokrata asunto (vuokralle antaa)	I konj.: здаю, здають	new
+7.6	ідеальний	ihanteellinen		new
+7.6	кабельне телебачення	kaapelitelevisio		new
+7.6	комунальні послуги	asumiskulut (vesi, sähkö, lämpö)	vain monikko tässä merkityksessä	new
+7.6	ліфт	hissi	gen. ліфта	new
+7.6	оголошення	ilmoitus		new
+7.6	окремий	erillinen, oma		have
+7.6	опалення	lämmitys		new
+7.6	оплата	maksu		new
+7.6	орендувати	vuokrata (vuokralle ottaa)	I konj.: орендую, орендують	new
+7.6	підходити	sopia (jollekin); lähestyä	II konj.: підходжу, підходять	new
+7.6	проживання	asuminen, majoitus		new
+7.6	район	kaupunginosa, alue	gen. району	new
+7.6	романтично	romanttisesti, romanttista		new
+7.7	аквапарк	vesipuisto	lok. в аквапарку; gen. аквапарку	new
+7.7	берег	ranta	lok. на березі; gen. берега	new
+7.7	вибирати	valita	I konj.: вибираю, вибирають; impf.	new
+7.7	відвідати	vierailla, käydä	I konj.; perf.	new
+7.7	відпочинок	lepo, loma	gen. відпочинку	new
+7.7	власний	oma		new
+7.7	водоспад	vesiputous	gen. водоспаду	new
+7.7	гарантувати	taata	I konj.: гарантую, гарантують	new
+7.7	джакузі	poreallas	ei taivu (= джакузі)	new
+7.7	додатковий	lisä-, ylimääräinen		new
+7.7	запрошувати	kutsua	I konj.: запрошую, запрошують; impf.	new
+7.7	збирати	kerätä	I konj.: збираю, збирають	new
+7.7	збиратися	kokoontua; aikoa	I konj.: збираюся, збираються	new
+7.7	комплекс	kompleksi, keskus	gen. комплексу	new
+7.7	купатися	uida, kylpeä	I konj.: купаюся, купаються	new
+7.7	масаж	hieronta	gen. масажу	new
+7.7	номер (у готелі)	hotellihuone	gen. номера	new
+7.7	номер люкс	sviitti		new
+7.7	номер напівлюкс	juniorsviitti		new
+7.7	обіцяти	luvata	I konj.: обіцяю, обіцяють	new
+7.7	організовувати	järjestää	I konj.: організовую, організовують; impf.	new
+7.7	особа	henkilö		new
+7.7	послуга	palvelu		new
+7.7	пропонувати	tarjota, ehdottaa	I konj.: пропоную, пропонують	new
+7.7	реклама	mainos		new
+7.7	річ	tavara, asia	feminiini; mon. речі; instr. річчю	new
+7.7	санки	pulkka, kelkka	vain monikko	new
+7.7	сауна	sauna	file only in sentence У моїй квартирі немає сауни	new
+7.7	солярій	solarium	gen. солярію	new
+7.7	тенісний корт	tenniskenttä	gen. тенісного корту	new
+7.7	територія	alue		new
+7.7	тренажерний зал	kuntosali	gen. тренажерного залу	new
+7.7	цілий	koko, kokonainen		new
+7.7	шашлик	grillivarras, šašlik	gen. шашлику	new
+7.7	ягода	marja		have
