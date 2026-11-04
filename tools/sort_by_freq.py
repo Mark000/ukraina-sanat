@@ -42,7 +42,7 @@ def entry_rank(uk):
 def main():
     header, sections = load()
     for s in sections:
-        if s["id"].startswith("P"):
+        if s["id"].startswith("P") or s["id"] in ("OHJ", "KT"):
             continue
         s["rows"].sort(key=lambda r: entry_rank(r[0]))  # stable: samanarvoiset pysyvät alkuperäisessä järjestyksessä
     save(header, sections)

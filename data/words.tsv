@@ -730,45 +730,211 @@
 тренажерний зал	kuntosali	gen. тренажерного залу
 шашлик	grillivarras, šašlik	gen. шашлику
 
-@OHJ	Tehtävänannot ja kielioppitermit
-Скажіть…	Sanokaa…
-Увага!	Huomio!
+@OHJ	Tehtävänannot ja kirjan rakenne
 Напишіть…	Kirjoittakaa…	inf. написати
-питання	kysymys	ei muutu monikossa
+Напишіть відповіді на питання.	Kirjoittakaa vastaukset kysymyksiin.
+Напишіть подібну розповідь.	Kirjoittakaa samanlainen kertomus.
+Напишіть … у відповідні колонки.	Kirjoittakaa … oikeisiin sarakkeisiin.
+Напишіть форми дієслів у теперішньому часі.	Kirjoittakaa verbien preesensmuodot.
+Напишіть, який це відмінок.	Kirjoittakaa, mikä sijamuoto tämä on.
+Напишіть номери відповідних фотографій поруч із текстами.	Kirjoittakaa vastaavien kuvien numerot tekstien viereen.
+Напишіть, що це.	Kirjoittakaa, mikä tämä on.
+Напишіть, хто це або що це.	Kirjoittakaa, kuka tai mikä tämä on.
+Напишіть цифрами.	Kirjoittakaa numeroin.
+Напишіть словами числа.	Kirjoittakaa luvut sanoin.
+Заповніть пропуски.	Täyttäkää aukot.
+Заповніть таблицю.	Täyttäkää taulukko.
+Заповніть пропуски в таблиці.	Täyttäkää taulukon aukot.
+Заповніть пропуски потрібними формами.	Täyttäkää aukot oikeilla muodoilla.	myös: правильними формами
+Заповніть пропуски правильною формою дієслова.	Täyttäkää aukot verbin oikealla muodolla.
+Заповніть пропуски словами з вправи 5.	Täyttäkää aukot harjoituksen 5 sanoilla.
+Прочитайте текст.	Lukekaa teksti.
+Прочитайте решту текстів.	Lukekaa loput tekstit.
+Прочитайте лист.	Lukekaa kirje.
+Прочитайте текст. Допишіть закінчення слів, де потрібно.	Lukekaa teksti. Kirjoittakaa sanojen päätteet tarvittaessa.
+Послухайте і перевірте.	Kuunnelkaa ja tarkistakaa.
+Послухайте та повторіть.	Kuunnelkaa ja toistakaa.
+Послухайте та запишіть слова.	Kuunnelkaa ja kirjoittakaa sanat muistiin.
+Послухайте та прочитайте діалог.	Kuunnelkaa ja lukekaa dialogi.	myös: Прочитайте та послухайте діалог.
+Послухайте текст.	Kuunnelkaa teksti.
+Послухайте діалог.	Kuunnelkaa dialogi.
+Послухайте текст і заповніть таблицю.	Kuunnelkaa teksti ja täyttäkää taulukko.
+Слухайте і повторюйте.	Kuunnelkaa ja toistakaa (samalla).	vaillinainen aspekti: слухайте, повторюйте
+Слухайте та читайте.	Kuunnelkaa ja lukekaa.
 Дайте відповіді на питання.	Vastatkaa kysymyksiin.
+Дайте відповіді на питання до тексту.	Vastatkaa tekstiä koskeviin kysymyksiin.
+Дайте відповіді на питання, вживаючи прийменники в дужках.	Vastatkaa kysymyksiin käyttäen sulkeissa olevia prepositioita.
+Складіть речення.	Muodostakaa lauseita.
+Складіть діалоги.	Laatikaa dialogeja.	inf. скласти
+Складіть подібні діалоги.	Laatikaa samanlaisia dialogeja.
+Складіть фрази з…	Muodostakaa fraaseja (sanalla)…	esim. Складіть фрази з без.
+Складіть речення, вживаючи слова…	Muodostakaa lauseita käyttäen sanoja…
+Подивіться на малюнок.	Katsokaa kuvaa.
+Подивіться на малюнки та підберіть до них фрази.	Katsokaa kuvia ja valitkaa niihin sopivat fraasit.
+Подивіться на фотографію.	Katsokaa valokuvaa.
+Скажіть…	Sanokaa…
+Скажіть, у якому відмінку стоять іменники.	Sanokaa, missä sijamuodossa substantiivit ovat.
+Поставте у форму…	Laittakaa muotoon…
+Поставте наголоси, де потрібно.	Merkitkää painot tarvittaessa.
+Поставте питання до речень.	Muodostakaa kysymykset lauseisiin.
+Поставте репліки в правильному порядку.	Järjestäkää repliikit oikeaan järjestykseen.
+Поставте фрази в родовий відмінок.	Laittakaa fraasit genetiiviin.	myös: в орудному відмінку, у форму місцевого відмінка
+Поставте іменник у відповідну форму.	Laittakaa substantiivi oikeaan muotoon.
+Знайдіть і виправте помилку.	Etsikää ja korjatkaa virhe.
+Знайдіть у тексті слова, які означають…	Etsikää tekstistä sanat, jotka tarkoittavat…
+Знайдіть виділені слова в тексті до наступних визначень.	Etsikää tekstin korostetut sanat seuraaville määritelmille.
+Знайдіть у текстах виділені слова, які мають такі значення:	Etsikää teksteistä korostetut sanat, joilla on seuraavat merkitykset:
+Зробіть вправу з Додатка.	Tehkää harjoitus liitteestä.	esim. Зробіть вправу 7.4 з Додатка.
+Перевірте з партнером.	Tarkistakaa parinne kanssa.
+Перевірте себе	Testatkaa itsenne	kirjan loppuosio
+Запам'ятайте.	Painakaa mieleen.
+Випишіть з тексту іменники.	Poimikaa tekstistä substantiivit.	inf. виписати
+Випишіть із тексту прикметники до іменників.	Poimikaa tekstistä substantiiveihin kuuluvat adjektiivit.
+Розкажіть.	Kertokaa.	inf. розказати / розповісти
+Виберіть потрібне слово.	Valitkaa oikea sana.
+Виберіть правильний варіант.	Valitkaa oikea vaihtoehto.
+Утворіть…	Muodostakaa…	inf. утворити
+Утворіть множину іменників.	Muodostakaa substantiivien monikko.
+Утворіть прикметники.	Muodostakaa adjektiiveja.
+Утворіть форми однини і множини іменників.	Muodostakaa substantiivien yksikkö- ja monikkomuodot.
+Опишіть…	Kuvailkaa…	inf. описати
+Опишіть кухню, вживаючи прийменники…	Kuvailkaa keittiö käyttäen prepositioita…
+Запитайте партнера…	Kysykää pariltanne…	myös: Запитайте в партнера про…
+Допишіть закінчення.	Kirjoittakaa päätteet.
+Допишіть пропущені букви.	Kirjoittakaa puuttuvat kirjaimet.	inf. дописати
+Увага!	Huomio!
+вправа	harjoitus
+Домашнє завдання	Kotitehtävä, läksy
+Перерва	Tauko
+питання	kysymys	ei muutu monikossa
 наприклад	esimerkiksi
 До зустрічі!	Nähdään!
 за допомогою	jonkin avulla	+ genetiivi
 помилка	virhe
-Послухайте і перевірте.	Kuunnelkaa ja tarkistakaa.
-Поставте у форму…	Laittakaa muotoon…
 правильна форма	oikea muoto
-Виберіть потрібне слово.	Valitkaa oikea sana.
-Знайдіть і виправте помилку.	Etsikää ja korjatkaa virhe.
-Опишіть…	Kuvailkaa…	inf. описати
-Домашнє завдання	Kotitehtävä, läksy
-Перерва	Tauko
 Читаємо та обговорюємо.	Luemme ja keskustelemme.
 Перевірка домашнього завдання	Läksyjen tarkistus
-Подивіться на малюнок.	Katsokaa kuvaa.
-Прочитайте текст.	Lukekaa teksti.
 Визначте…	Määrittäkää…
-рід	suku (kieliopillinen)	чоловічий / жіночий / середній рід
-вправа	harjoitus
-закінчення	pääte
-Заповніть пропуски.	Täyttäkää aukot.
 речення	lause
-Складіть речення.	Muodostakaa lauseita.
 таблиця	taulukko
-Утворіть…	Muodostakaa…	inf. утворити
 Впишіть…	Kirjoittakaa (aukkoon)…	inf. вписати
-Допишіть закінчення.	Kirjoittakaa päätteet.
-Запам'ятайте.	Painakaa mieleen.
 Доповніть таблицю.	Täydentäkää taulukko.
 Перефразуйте.	Muotoilkaa toisin.
 Позначте…	Merkitkää…	inf. позначити
 у дужках	sulkeissa
 виділений	korostettu
+Перекладіть слова.	Kääntäkää sanat.	inf. перекласти
+Підкресліть слова, які Ви чуєте.	Alleviivatkaa sanat, jotka kuulette.
+Питайте і відповідайте.	Kysykää ja vastatkaa.
+Поділіться на групи.	Jakautukaa ryhmiin.	esim. Поділіться на три групи.
+Обговоріть у групі.	Keskustelkaa ryhmässä.	inf. обговорити
+Вивчіть пісню.	Opetelkaa laulu.	inf. вивчити
+Перетворіть речення в заперечні.	Muuttakaa lauseet kieltolauseiksi.	inf. перетворити
+Попросіть у продавця…	Pyytäkää myyjältä…	inf. попросити
+Згадайте…	Muistelkaa…	inf. згадати
+У кожному реченні є помилка.	Jokaisessa lauseessa on virhe.
+Не забудьте…	Älkää unohtako…	inf. забути
+Вставте пропущені букви, якщо потрібно.	Lisätkää puuttuvat kirjaimet tarvittaessa.	inf. вставити
+Вставте слова з вправи … у пропуски.	Sijoittakaa harjoituksen … sanat aukkoihin.
+Виконайте дії та напишіть результат словами.	Laskekaa laskut ja kirjoittakaa tulos sanoin.	дія = (lasku)toimitus
+Продовжіть речення за зразком.	Jatkakaa lauseita mallin mukaan.	inf. продовжити
+Якщо потрібно, знайдіть слова в словнику.	Etsikää tarvittaessa sanat sanakirjasta.
+Спробуйте спочатку самі відповісти на питання.	Yrittäkää ensin itse vastata kysymyksiin.
+Використовуйте подані слова.	Käyttäkää annettuja sanoja.
+Використайте такі фрази:	Käyttäkää seuraavia fraaseja:	inf. використати
+Зверніть увагу на…	Kiinnittäkää huomiota…	inf. звернути увагу
+Пам'ятайте!	Muistakaa!	inf. пам'ятати
+Українською кажемо:	Ukrainaksi sanomme:
+Також кажемо:	Sanomme myös:
+На питання … відповідаємо:	Kysymykseen … vastaamme:
+Що означає…?	Mitä … tarkoittaa?
+Тепер я вмію…	Nyt osaan…	oppitunnin osan loppulause
+Тепер я можу…	Nyt pystyn…, nyt voin…
+Тепер я знаю…	Nyt tiedän…
+Починаємо	Aloitetaan	oppitunnin alku
+Познайомтесь з усіма студентами в групі.	Tutustukaa kaikkiin ryhmän opiskelijoihin.	inf. познайомитися
+Закрийте фотографію.	Peittäkää valokuva.	inf. закрити
+Намалюйте…	Piirtäkää…	inf. намалювати
+Порахуйте…	Laskekaa…	inf. порахувати
+скласти	muodostaa, laatia	käskymuoto: складіть
+заповнити	täyttää	käskymuoto: заповніть
+підкреслити	alleviivata	käskymuoto: підкресліть
+повторювати	toistaa (toistuvasti)	käskymuoto: повторюйте (vrt. повторити – повторіть)
+записати	kirjoittaa muistiin	käskymuoto: запишіть
+виправити	korjata	käskymuoto: виправте
+підібрати	valita (sopiva), yhdistää	käskymuoto: підберіть
+поділитися	jakautua; jakaa	käskymuoto: поділіться
+обговорити	keskustella (jostakin)	käskymuoto: обговоріть
+виписати	poimia, kirjoittaa ylös (tekstistä)	käskymuoto: випишіть
+вписати	kirjoittaa (johonkin) sisään	käskymuoto: впишіть
+дописати	täydentää kirjoittamalla	käskymuoto: допишіть
+доповнити	täydentää	käskymuoto: доповніть
+вставити	lisätä, sijoittaa (väliin)	käskymuoto: вставте
+продовжити	jatkaa	käskymuoto: продовжіть
+виконати	suorittaa, tehdä	käskymuoto: виконайте
+порахувати	laskea	käskymuoto: порахуйте
+визначити	määrittää, määritellä	käskymuoto: визначте
+утворити	muodostaa	käskymuoto: утворіть
+позначити	merkitä	käskymuoto: позначте
+описати	kuvailla	käskymuoto: опишіть
+перефразувати	muotoilla toisin	käskymuoto: перефразуйте
+запам'ятати	painaa mieleen	käskymuoto: запам'ятайте
+використати	käyttää	käskymuoto: використайте (vrt. використовуйте)
+розказати	kertoa	käskymuoto: розкажіть
+вжити	käyttää (sanaa)	passiivi: вжито = on käytetty
+звернути увагу	kiinnittää huomiota	käskymuoto: зверніть увагу
+вживаючи	käyttäen	adverbiaalipartisiippi < вживати
+використовуючи	käyttäen	adverbiaalipartisiippi < використовувати
+діалог	dialogi, keskustelu
+буква	kirjain	мн. букви
+фраза	fraasi, ilmaus
+пропущений	puuttuva, pois jätetty	пропущені букви
+поданий	annettu	подані слова
+подібний	samanlainen
+відповідний	vastaava, sopiva
+заперечний	kielteinen, kielto-	заперечне речення
+варіант	vaihtoehto
+решта	loput; vaihtoraha	решту текстів
+колонка	sarake
+схема	kaavio
+опис	kuvaus
+предмет	esine; oppiaine
+значення	merkitys
+визначення	määritelmä
+зразок	malli, esimerkki	за зразком = mallin mukaan
+цифра	numero (merkki)	цифрами = numeroin
+словами	sanoin	напишіть словами
+абзац	kappale (tekstin)
+репліка	repliikki
+розповідь	kertomus
+відмінність	ero
+пункт	kohta
+по-перше, по-друге, по-третє	ensinnäkin, toiseksi, kolmanneksi
+якщо потрібно	tarvittaessa	myös: де потрібно
+вступ	johdanto
+розділ	osio, luku
+с.	sivu	= сторінка; с. 236 = sivu 236
+Впр.	harjoitus	= вправа
+додаток	liite	з Додатка
+граматичний довідник	kielioppiopas
+аудіо	äänite
+підсумок	yhteenveto
+приспів	kertosäe
+Вчимо слова та слухаємо	Opimme sanoja ja kuuntelemme	osion otsikko
+Вчимо граматику	Opimme kielioppia	osion otsikko
+Говоримо про Україну	Puhumme Ukrainasta	osion otsikko
+Говоримо українською	Puhumme ukrainaa	osion otsikko
+Пишемо українською	Kirjoitamme ukrainaksi	osion otsikko
+У цьому уроці:	Tällä oppitunnilla:
+лексика	sanasto
+граматика	kielioppi
+розмовна мова	puhekieli
+письмо	kirjoittaminen
+дивись	katso	viittaus: (дивись с. 243)
+
+@KT	Kielioppitermit ja lyhenteet
+рід	suku (kieliopillinen)	чоловічий / жіночий / середній рід
+закінчення	pääte
 іменник	substantiivi
 прикметник	adjektiivi
 дієслово	verbi
@@ -783,6 +949,54 @@
 орудний відмінок	instrumentaali
 місцевий відмінок	lokatiivi
 кличний відмінок	vokatiivi
+голосний (звук)	vokaali	мн. голосні
+приголосний (звук)	konsonantti	мн. приголосні
+наголос	paino (sanapaino)
+апостроф	heittomerkki
+алфавіт / абетка	aakkoset
+займенник	pronomini
+особовий займенник	persoonapronomini	я, ти, він…
+присвійний займенник	possessiivipronomini	мій, твій…
+неозначений займенник	indefiniittipronomini	хтось, щось…
+кількісний числівник	perusluku	один, два…
+порядковий числівник	järjestysluku	перший, другий…
+прислівник	adverbi
+інфінітив	infinitiivi
+дієвідміна	konjugaatio, taivutusluokka	I / II дієвідміна
+теперішній час	preesens
+минулий час	mennyt aikamuoto
+майбутній час	futuuri
+наказовий спосіб	imperatiivi
+вид дієслова	verbin aspekti
+доконаний вид	perfektiivinen aspekti
+недоконаний вид	imperfektiivinen aspekti
+дієслова руху	liikeverbit
+ступінь порівняння	vertailuaste	вищий = komparatiivi, найвищий = superlatiivi
+вищий ступінь	komparatiivi
+найвищий ступінь	superlatiivi
+істота	elollinen (olento)	знахідний відмінок (істоти)
+неістота	eloton	знахідний відмінок (неістоти)
+чоловічий рід	maskuliini
+жіночий рід	feminiini
+середній рід	neutri
+ч. р.	maskuliini	= чоловічий рід
+ж. р.	feminiini	= жіночий рід
+с. р.	neutri	= середній рід
+одн.	yksikkö	= однина
+мн.	monikko	= множина
+Н. в.	nominatiivi	= називний відмінок
+Р. в.	genetiivi	= родовий відмінок
+Д. в.	datiivi	= давальний відмінок
+З. в.	akkusatiivi	= знахідний відмінок
+О. в.	instrumentaali	= орудний відмінок
+М. в.	lokatiivi	= місцевий відмінок
+(I), (II)	I / II konjugaatio	sanaston merkintä = дієвідміна
+відмінок	sijamuoto
+зміна приголосних	konsonanttivaihtelu	к→ц, г→з, х→с
+форма та вживання	muoto ja käyttö
+утворення	muodostaminen
+третя особа однини	yksikön 3. persoona
+суб'єкт	subjekti
 
 @P1	Perussanasto 1–250 (yleisimmät sanat)
 я	minä	gen./akk. мене, dat. мені
