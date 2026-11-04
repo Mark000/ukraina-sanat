@@ -95,7 +95,8 @@ async function gh(path, opts = {}) {
   const r = await fetch('https://api.github.com' + path, Object.assign({}, opts, {
     headers: { Authorization: 'Bearer ' + settings.token, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
   }));
-  if (!r.ok) throw new Error('GitHub ' + r.status + (r.status === 401 ? ' (token ei kelpaa)' : ''));
+  if (!r.ok) throw new Error('GitHub ' + r.status + (r.status === 401 ? ' (token ei kelpaa tai on vanhentunut)'
+    : r.status === 403 ? ' (tokenilta puuttuu oikeus Account permissions → Gists: Read and write)' : ''));
   return r.json();
 }
 async function findGist() {
