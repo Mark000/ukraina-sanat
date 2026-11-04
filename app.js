@@ -171,7 +171,29 @@ const dirsFor = d => d === 'mix' ? ['uf', 'fu'] : [d];
 let view = 'home';
 function go(v) { view = v; document.querySelectorAll('.top nav button').forEach(b => b.classList.toggle('active', b.dataset.go === v)); render(); window.scrollTo(0, 0); }
 document.querySelectorAll('[data-go]').forEach(b => b.addEventListener('click', () => { if (session && view === 'session' && !confirm('Lopetetaanko treeni?')) return; session = null; go(b.dataset.go); }));
-function render() { ({ home, stats, words: wordsView, settings: settingsView, session: sessionView, summary }[view] || home)(); }
+function render() { ({ home, stats, words: wordsView, grammar: grammarView, settings: settingsView, session: sessionView, summary }[view] || home)(); }
+
+/* ---------- Kielioppi ---------- */
+let GRAMMAR = null;
+async function grammarView() {
+  if (!GRAMMAR) {
+    app.innerHTML = '<p class="muted center">Ladataan…</p>';
+    try { GRAMMAR = await (await fetch('data/kielioppi.html', { cache: 'no-cache' })).text(); }
+    catch (e) { app.innerHTML = `<p class="center">Kieliopin lataus epäonnistui: ${esc(e.message)}</p>`; return; }
+  }
+  app.innerHTML = `<h1>Kielioppi</h1><p class="muted">Kaikki kurssilla tähän mennessä esiin tullut kielioppi. Avaa "Testaa itsesi" vasta, kun olet vastannut ääneen.</p>
+    <nav class="toc" id="toc"></nav><div class="grammar">${GRAMMAR}</div>`;
+  const toc = app.querySelector('#toc');
+  toc.innerHTML = [...app.querySelectorAll('.grammar section')].map(s => `<a href="#${s.id}">${esc(s.querySelector('h2').textContent)}</a>`).join('');
+  toc.addEventListener('click', e => { const a = e.target.closest('a'); if (!a) return; e.preventDefault(); document.getElementById(a.getAttribute('href').slice(1)).scrollIntoView({ behavior: 'smooth' }); });
+  // Itsetestaus: kysymykset näkyvät avattaessa, vastaukset vasta erillisestä napista
+  app.querySelectorAll('details.quiz').forEach(d => {
+    const b = document.createElement('button'); b.className = 'btn reveal'; b.textContent = 'Näytä vastaukset';
+    b.onclick = () => { d.classList.toggle('show'); b.textContent = d.classList.contains('show') ? 'Piilota vastaukset' : 'Näytä vastaukset'; };
+    d.querySelector('.ans').before(b);
+  });
+  const h = location.hash.slice(1); if (h && document.getElementById(h)) document.getElementById(h).scrollIntoView();
+}
 
 function home() {
   const now = Date.now(), sel = new Set(settings.lessons), dirs = dirsFor(settings.dir);
