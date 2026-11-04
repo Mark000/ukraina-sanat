@@ -34,15 +34,21 @@ async function loadWords() {
     const line = raw.replace(/\r$/, '');
     if (!line.trim() || line.startsWith('#')) continue;
     if (line.startsWith('@')) {
-      const [id, title] = line.slice(1).split('\t');
-      lesson = { id: id.trim(), title: (title || id).trim() }; LESSONS.push(lesson); continue;
+      const [id, title, flag] = line.slice(1).split('\t');
+      lesson = { id: id.trim(), title: (title || id).trim(), off: (flag || '').trim() === 'off' }; LESSONS.push(lesson); continue;
     }
     const [uk, fi, note] = line.split('\t').map(s => (s || '').trim());
     if (!uk || !fi || seen.has(uk)) continue;
     seen.add(uk);
     WORDS.push({ uk, fi, note: note || '', lesson: lesson ? lesson.id : '?' });
   }
-  if (!settings.lessons) settings.lessons = LESSONS.map(l => l.id);
+  // Uudet osiot valitaan automaattisesti (paitsi "off"-merkityt), vanhat valinnat säilyvät
+  const known = new Set(settings.knownLessons || (settings.lessons ? LESSONS.filter(l => settings.lessons.includes(l.id)).map(l => l.id) : []));
+  const sel = new Set(settings.lessons || []);
+  for (const l of LESSONS) if (!known.has(l.id) && !l.off) sel.add(l.id);
+  settings.lessons = LESSONS.map(l => l.id).filter(id => sel.has(id));
+  settings.knownLessons = LESSONS.map(l => l.id);
+  saveSettings();
 }
 
 /* ---------- SRS (SM-2 -tyylinen) ---------- */
