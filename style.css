@@ -107,6 +107,12 @@ h2 { font-size: 17px; margin: 24px 0 8px; }
 .card .prompt { font-size: 30px; font-weight: 650; line-height: 1.25; overflow-wrap: anywhere; }
 .card .answer { font-size: 24px; color: var(--accent); font-weight: 600; overflow-wrap: anywhere; }
 .card .note { font-size: 14px; color: var(--muted); }
+.card .example { margin-top: 6px; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 0 10px 10px 0; text-align: left; max-width: 100%; }
+.card .example .ex-uk { font-size: 17px; line-height: 1.4; }
+.card .example .ex-uk b { color: var(--accent); }
+.card .example .ex-fi { font-size: 14px; color: var(--muted); margin-top: 2px; }
+.card .example .speak { padding: 1px 8px; font-size: 12px; vertical-align: 1px; }
+.ex-row { margin-top: 4px; } .ex-row b { color: var(--accent); font-weight: 600; } .ex-row .speak { padding: 0 6px; font-size: 11px; }
 .card .tag { font-size: 12px; padding: 2px 8px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); }
 .card.ok { border-color: var(--good); }
 .card.ko { border-color: var(--bad); }

@@ -7,6 +7,7 @@ Sanatreeni Ukrainan kielen jatkokurssi 1:n (Tampereen kesäyliopisto, syksy 2026
 - Molemmat suunnat (UA → FI, FI → UA), kortit / monivalinta / kirjoitus
 - Välitoisto (SM-2-tyyppinen): vaikeat sanat tulevat useammin, osatut harvemmin
 - Jokainen vastaus tallennetaan; tulokset synkronoidaan yksityiseen GitHub Gistiin (asetuksista)
+- Jokaisella sanalla esimerkkilause suomennoksineen (`data/examples.tsv`), näkyy vastauksen yhteydessä ja sanastossa
 - Ääntäminen selaimen puhesynteesillä (jos laitteessa on ukrainankielinen ääni)
 
 ## Sanaston lisääminen
@@ -25,4 +26,5 @@ Hakee tulokset Gististä `gh`-komennolla ja tulostaa yhteenvedon (päivät, osio
 ## Työkalut
 
 - `tools/merge_words.py lisäykset.tsv` lisää sanoja ilman kaksoiskappaleita (`SECTION<TAB>uk<TAB>fi<TAB>huomio`).
+- `tools/check_examples.py` tarkistaa esimerkkilauseet ja listaa sanat, joilta lause puuttuu (uusien sanojen lisäyksen jälkeen).
 - `tools/sort_by_freq.py` järjestää osioiden sanat yleisyyden mukaan (`data/freq.tsv`; pymorphy3 parantaa tarkkuutta, jos asennettu).

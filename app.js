@@ -16,7 +16,7 @@ const store = {
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
 };
 
-let WORDS = [];          // {uk, fi, note, lesson}
+let WORDS = [];          // {uk, fi, note, lesson, ex?: {uk, fi}}
 let LESSONS = [];        // {id, title}
 let events = store.get(LS.events, []);
 let settings = Object.assign({
@@ -42,6 +42,7 @@ async function loadWords() {
     seen.add(uk);
     WORDS.push({ uk, fi, note: note || '', lesson: lesson ? lesson.id : '?' });
   }
+  await loadExamples();
   // Uudet osiot valitaan automaattisesti (paitsi "off"-merkityt), vanhat valinnat säilyvät
   const known = new Set(settings.knownLessons || (settings.lessons ? LESSONS.filter(l => settings.lessons.includes(l.id)).map(l => l.id) : []));
   const sel = new Set(settings.lessons || []);
@@ -49,6 +50,27 @@ async function loadWords() {
   settings.lessons = LESSONS.map(l => l.id).filter(id => sel.has(id));
   settings.knownLessons = LESSONS.map(l => l.id);
   saveSettings();
+}
+
+// Esimerkkilauseet: data/examples.tsv (ukraina<TAB>esimerkki<TAB>suomennos), *tähdet* = harjoiteltava sana.
+// Puuttuva tiedosto ei estä treeniä.
+async function loadExamples() {
+  try {
+    const r = await fetch('data/examples.tsv', { cache: 'no-cache' }); if (!r.ok) return;
+    const ex = new Map();
+    for (const line of (await r.text()).split('\n')) {
+      if (!line.trim() || line.startsWith('#')) continue;
+      const [uk, exUk, exFi] = line.replace(/\r$/, '').split('\t').map(s => (s || '').trim());
+      if (uk && exUk) ex.set(uk, { uk: exUk, fi: exFi || '' });
+    }
+    for (const w of WORDS) w.ex = ex.get(w.uk);
+  } catch {}
+}
+const exHtml = s => esc(s).replace(/\*(.+?)\*/g, '<b>$1</b>');
+const exPlain = s => s.replace(/\*/g, '');
+function exampleBlock(w) {
+  if (!w.ex) return '';
+  return `<div class="example"><div class="ex-uk">${exHtml(w.ex.uk)} <button class="speak" data-say="${esc(exPlain(w.ex.uk))}" aria-label="Kuuntele lause">🔊</button></div>${w.ex.fi ? `<div class="ex-fi">${esc(w.ex.fi)}</div>` : ''}</div>`;
 }
 
 /* ---------- SRS (SM-2 -tyylinen) ---------- */
@@ -290,7 +312,7 @@ function wireSpeak() { app.querySelectorAll('[data-say]').forEach(b => b.onclick
 function showBack(extraClass) {
   const { w, d } = current(), back = d === 'uf' ? w.fi : w.uk;
   const r = app.querySelector('#reveal');
-  r.innerHTML = `<div class="answer">${esc(back)}</div>${w.note ? `<div class="note">${esc(w.note)}</div>` : ''}${d === 'fu' ? `<button class="speak" data-say="${esc(w.uk)}">🔊 kuuntele</button>` : ''}`;
+  r.innerHTML = `<div class="answer">${esc(back)}</div>${w.note ? `<div class="note">${esc(w.note)}</div>` : ''}${d === 'fu' ? `<button class="speak" data-say="${esc(w.uk)}">🔊 kuuntele</button>` : ''}${exampleBlock(w)}`;
   if (extraClass) app.querySelector('#card').classList.add(extraClass);
   wireSpeak(); session.revealed = true;
 }
@@ -406,11 +428,11 @@ function wordsView() {
   const draw = q => {
     q = norm(q || '');
     app.querySelector('#list').innerHTML = LESSONS.map(l => {
-      const ws = WORDS.filter(w => w.lesson === l.id && (!q || norm(w.uk).includes(q) || norm(w.fi).includes(q)));
+      const ws = WORDS.filter(w => w.lesson === l.id && (!q || norm(w.uk).includes(q) || norm(w.fi).includes(q) || (w.ex && norm(exPlain(w.ex.uk)).includes(q))));
       if (!ws.length) return '';
       return `<h2>${esc(l.title)}</h2><div class="panel"><table>${ws.map(w => `<tr>
         <td style="white-space:nowrap">${['uf', 'fu'].map(d => `<span class="dot" title="${DIRS[d]}: ${STATUS[status(card(w, d))]}" style="background:${colors[status(card(w, d))]}"></span>`).join('')}</td>
-        <td class="uk">${esc(w.uk)} <button class="speak" data-say="${esc(w.uk)}" aria-label="Kuuntele">🔊</button></td><td>${esc(w.fi)}${w.note ? `<div class="small muted">${esc(w.note)}</div>` : ''}</td></tr>`).join('')}</table></div>`;
+        <td class="uk">${esc(w.uk)} <button class="speak" data-say="${esc(w.uk)}" aria-label="Kuuntele">🔊</button></td><td>${esc(w.fi)}${w.note ? `<div class="small muted">${esc(w.note)}</div>` : ''}${w.ex ? `<div class="small ex-row"><span class="uk">${exHtml(w.ex.uk)}</span> <button class="speak" data-say="${esc(exPlain(w.ex.uk))}" aria-label="Kuuntele lause">🔊</button><br><span class="muted">${esc(w.ex.fi)}</span></div>` : ''}</td></tr>`).join('')}</table></div>`;
     }).join('');
     wireSpeak();
   };

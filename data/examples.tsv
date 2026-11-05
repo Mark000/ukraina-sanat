@@ -1,0 +1,2090 @@
+# Esimerkkilauseet. Muoto: ukraina (sama kuin words.tsv:ssä) · esimerkki · suomennos
+# *Tähdet* merkitsevät harjoiteltavan sanan lauseessa. Puuttuvat: python3 tools/check_examples.py
+три	У нашій квартирі *три* кімнати.	Asunnossamme on kolme huonetta.
+сьогодні	*Сьогодні* в Тампере дуже холодно.	Tänään Tampereella on hyvin kylmää.
+Який сьогодні день?	*Який сьогодні день?* — Сьогодні середа.	Mikä viikonpäivä tänään on? — Tänään on keskiviikko.
+завтра	*Завтра* ми їдемо до Рованіємі.	Huomenna lähdemme Rovaniemelle.
+вчора	*Вчора* весь день ішов сніг.	Eilen satoi lunta koko päivän.
+сто	Ця книжка коштує *сто* гривень.	Tämä kirja maksaa sata hryvniaa.
+сто п'ять	Мій номер у готелі – *сто п'ять*.	Hotellihuoneeni numero on sataviisi.
+тисяча	Квартира коштує *тисячу* євро на місяць.	Asunto maksaa tuhat euroa kuukaudessa.
+понеділок	У *понеділок* у мене урок української.	Maanantaina minulla on ukrainan tunti.
+вівторок	У *вівторок* я працюю вдома.	Tiistaina teen töitä kotona.
+середа	Сьогодні *середа*, а завтра четвер.	Tänään on keskiviikko ja huomenna torstai.
+четвер	Ми зустрічаємося в *четвер* о шостій.	Tapaamme torstaina kuudelta.
+п'ятниця	У *п'ятницю* ввечері ми йдемо в ресторан.	Perjantai-iltana menemme ravintolaan.
+субота	У *суботу* я прибираю квартиру.	Lauantaina siivoan asunnon.
+неділя	*Неділя* – мій улюблений день тижня.	Sunnuntai on lempiviikonpäiväni.
+двадцять чотири	Мені *двадцять чотири* роки.	Olen kaksikymmentäneljä vuotta vanha.
+січень	У *січні* в Лапландії дуже холодно.	Tammikuussa Lapissa on hyvin kylmää.
+лютий	У *лютому* ми катаємося на лижах.	Helmikuussa hiihdämme.
+березень	У *березні* вже стає тепліше.	Maaliskuussa alkaa jo lämmetä.
+квітень	*Квітень* – це весняний місяць.	Huhtikuu on kevätkuukausi.
+травень	У *травні* в Україні цвітуть каштани.	Toukokuussa Ukrainassa kastanjat kukkivat.
+червень	Мій день народження в *червні*.	Syntymäpäiväni on kesäkuussa.
+липень	У *липні* ми відпочиваємо на дачі.	Heinäkuussa lomailemme mökillä.
+серпень	У *серпні* ще тепло, але вечори прохолодні.	Elokuussa on vielä lämmintä, mutta illat ovat viileitä.
+вересень	Навчання починається у *вересні*.	Opiskelu alkaa syyskuussa.
+жовтень	У *жовтні* часто йде дощ.	Lokakuussa sataa usein.
+листопад	Зараз *листопад*, і вже рано темніє.	Nyt on marraskuu, ja pimeää tulee jo aikaisin.
+грудень	У *грудні* приходить Святий Миколай.	Joulukuussa tulee Pyhä Nikolaus.
+Яке сьогодні число?	*Яке сьогодні число?* — Сьогодні п'яте листопада.	Monesko päivä tänään on? — Tänään on viides marraskuuta.
+говорити	Ти *говориш* українською?	Puhutko ukrainaa?
+ще	Я *ще* погано говорю українською.	Puhun ukrainaa vielä huonosti.
+вже	Діти *вже* сплять.	Lapset nukkuvat jo.
+Як ваші справи?	*Як ваші справи?* — Дякую, добре. А ваші?	Mitä teille kuuluu? — Kiitos, hyvää. Entä teille?
+трохи	Я *трохи* розумію українську.	Ymmärrän vähän ukrainaa.
+Де ти живеш?	*Де ти живеш?* — Я живу в Тампере.	Missä asut? — Asun Tampereella.
+гарний	Сьогодні *гарна* погода.	Tänään on kaunis sää.
+разом	Ми часто готуємо вечерю *разом*.	Teemme usein illallisen yhdessä.
+дівчина	Ця *дівчина* – моя сестра.	Tuo tyttö on siskoni.
+вдома	Увечері я зазвичай *вдома*.	Illalla olen yleensä kotona.
+тиждень	Я буду в Києві один *тиждень*.	Olen Kiovassa yhden viikon.
+Як тебе звати?	*Як тебе звати?* — Мене звати Марко.	Mikä sinun nimesi on? — Nimeni on Marko.
+радий	Я дуже *радий* тебе бачити!	Olen todella iloinen, että näen sinut!
+обід	Що в нас сьогодні на *обід*?	Mitä meillä on tänään lounaaksi?
+пити каву	Вранці я завжди *п'ю каву*.	Aamulla juon aina kahvia.
+чудовий	Учора ми бачили *чудовий* фільм.	Eilen näimme upean elokuvan.
+погода	Яка сьогодні *погода*?	Millainen sää tänään on?
+тепло	Сьогодні на вулиці *тепло*.	Tänään ulkona on lämmintä.
+Іде дощ.	*Іде дощ.* — Візьми парасольку!	Sataa vettä. — Ota sateenvarjo!
+зима	*Зима* у Фінляндії довга й холодна.	Talvi Suomessa on pitkä ja kylmä.
+весна	*Весна* – моя улюблена пора року.	Kevät on lempivuodenaikani.
+літо	Це *літо* було дуже теплим.	Tämä kesä oli hyvin lämmin.
+осінь	*Осінь* у Тампере дощова.	Syksy Tampereella on sateinen.
+Я почуваюся не дуже добре.	*Я почуваюся не дуже добре.* — Що сталося?	En voi kovin hyvin. — Mitä on tapahtunut?
+ресторан	Сьогодні ми вечеряємо в *ресторані*.	Tänään syömme illallista ravintolassa.
+парк	Діти граються в *парку*.	Lapset leikkivät puistossa.
+гуляти	У неділю ми *гуляємо* в парку.	Sunnuntaina kävelemme puistossa.
+зустрічатися з друзями	У п'ятницю я *зустрічаюся з друзями*.	Perjantaina tapaan ystäviä.
+Розповідаємо про себе.	*Розповідаємо про себе.* — Мене звати Анна, я з Тампере.	Kerromme itsestämme. — Nimeni on Anna, olen Tampereelta.
+свято	Різдво – моє улюблене *свято*.	Joulu on lempijuhlani.
+вихідні дні	У *вихідні дні* ми їздимо на дачу.	Vapaapäivinä menemme mökille.
+втомлений	Після роботи я дуже *втомлений*.	Töiden jälkeen olen hyvin väsynyt.
+Що ти робиш у вільний час?	*Що ти робиш у вільний час?* — Я граю в хокей.	Mitä teet vapaa-ajallasi? — Pelaan jääkiekkoa.
+вільний час	У *вільний час* я читаю книжки.	Vapaa-ajallani luen kirjoja.
+вивчати	Я *вивчаю* українську мову.	Opiskelen ukrainan kieltä.
+свіжий сік	На сніданок я п'ю *свіжий сік*.	Aamiaiseksi juon tuoretta mehua.
+Мені подобається…	*Мені подобається* осінь у Фінляндії.	Pidän syksystä Suomessa.
+Мене звати…	Добрий день! *Мене звати* Марко.	Hyvää päivää! Nimeni on Marko.
+займатися йогою	Моя мама *займається йогою* щоранку.	Äitini harrastaa joogaa joka aamu.
+Скільки тобі років?	*Скільки тобі років?* — Мені двадцять п'ять.	Kuinka vanha olet? — Olen kaksikymmentäviisi.
+пори року	В Україні чотири *пори року*.	Ukrainassa on neljä vuodenaikaa.
+День народження	*День народження* мого брата – у травні.	Veljeni syntymäpäivä on toukokuussa.
+їздити на авто	На роботу я *їжджу на авто*.	Ajan töihin autolla.
+Ласкаво просимо!	*Ласкаво просимо!* — Дякуємо, у вас дуже гарно.	Tervetuloa! — Kiitos, teillä on todella kaunista.
+нормальний	Це *нормальна* ціна для Гельсінкі.	Tämä on tavallinen hinta Helsingissä.
+планувати	Що ти *плануєш* робити на вихідних?	Mitä aiot tehdä viikonloppuna?
+настрій	Сьогодні в мене гарний *настрій*.	Tänään olen hyvällä tuulella.
+спокійний	Наш район дуже *спокійний*.	Asuinalueemme on hyvin rauhallinen.
+рис	На обід у нас *рис* із куркою.	Lounaaksi meillä on riisiä ja kanaa.
+схвильований	Перед іспитом я трохи *схвильований*.	Ennen koetta olen vähän jännittynyt.
+студентка	Моя сестра – *студентка* університету.	Siskoni on yliopisto-opiskelija.
+Світить сонце.	*Світить сонце.* — Ходімо гуляти!	Aurinko paistaa. — Lähdetään ulos kävelemään!
+професія	Яка у вас *професія*?	Mikä teidän ammattinne on?
+фотограф	Мій брат працює *фотографом*.	Veljeni työskentelee valokuvaajana.
+архітектор	Олена – *архітектор*, вона проєктує будинки.	Olena on arkkitehti, hän suunnittelee taloja.
+кататися на велосипеді	Влітку я люблю *кататися на велосипеді*.	Kesällä pyöräilen mielelläni.
+Дує вітер.	*Дує вітер.* — Так, сьогодні дуже холодно.	Tuulee. — Niin, tänään on tosi kylmä.
+грати в хокей	Фіни люблять *грати в хокей*.	Suomalaiset pelaavat mielellään jääkiekkoa.
+будівельна компанія	Мій тато працює в *будівельній компанії*.	Isäni työskentelee rakennusyhtiössä.
+хмарно	Сьогодні *хмарно*, але дощу немає.	Tänään on pilvistä, mutta ei sada.
+фотографувати	Туристи *фотографують* собор.	Turistit valokuvaavat katedraalia.
+будні дні	У *будні дні* я встаю о сьомій.	Arkipäivinä herään seitsemältä.
+пляжний волейбол	Влітку ми граємо в *пляжний волейбол*.	Kesällä pelaamme rantalentopalloa.
+вареники зі сметаною	Бабуся готує *вареники зі сметаною*.	Isoäiti tekee varenykkejä smetanan kanssa.
+апельсиновий сік	Можна склянку *апельсинового соку*?	Saisinko lasillisen appelsiinimehua?
+проблема	У нас є одна *проблема*.	Meillä on yksi ongelma.
+двері	Зачиніть, будь ласка, *двері*.	Sulkekaa ovi, olkaa hyvä.
+кімната	Моя *кімната* невелика, але світла.	Huoneeni on pieni mutta valoisa.
+подруга	Я йду в кіно з *подругою*.	Menen elokuviin ystäväni kanssa.
+білий	Взимку все навколо *біле*.	Talvella kaikki ympärillä on valkoista.
+чорний	У мене *чорний* кіт.	Minulla on musta kissa.
+червоний	Санта Клаус носить *червоний* костюм.	Joulupukilla on punainen puku.
+синій	Прапор Фінляндії білий із *синім* хрестом.	Suomen lippu on valkoinen, ja siinä on sininen risti.
+зелений	Влітку ліс *зелений*.	Kesällä metsä on vihreä.
+жовтий	На кухні стоїть *жовтий* стілець.	Keittiössä on keltainen tuoli.
+сірий	Сьогодні небо *сіре*.	Tänään taivas on harmaa.
+коричневий	У вітальні стоїть *коричневий* диван.	Olohuoneessa on ruskea sohva.
+рожевий	Моя донька любить *рожевий* колір.	Tyttäreni pitää vaaleanpunaisesta väristä.
+туалет	Вибачте, де тут *туалет*?	Anteeksi, missä täällä on vessa?
+рідний дім	Я часто згадую свій *рідний дім*.	Muistelen usein lapsuudenkotiani.
+рідний	Тампере – моє *рідне* місто.	Tampere on kotikaupunkini.
+комп'ютер	*Комп'ютер* стоїть на письмовому столі.	Tietokone on kirjoituspöydällä.
+Якого кольору…?	*Якого кольору* твій диван? — Він сірий.	Minkä värinen sohvasi on? — Se on harmaa.
+перший поверх	Кухня на *першому поверсі*.	Keittiö on ensimmäisessä kerroksessa.
+другий поверх	Спальні на *другому поверсі*.	Makuuhuoneet ovat toisessa kerroksessa.
+На якому поверсі ти живеш?	*На якому поверсі ти живеш?* — На четвертому.	Missä kerroksessa asut? — Neljännessä.
+Я живу на третьому поверсі.	*Я живу на третьому поверсі.* — А я на першому.	Asun kolmannessa kerroksessa. — Minä taas ensimmäisessä.
+Запитай, будь ласка…	*Запитай, будь ласка*, Леену, коли вона вільна.	Kysy Leenalta, ole hyvä, milloin hänellä on aikaa.
+Скажи, будь ласка…	*Скажи, будь ласка*, котра година?	Sano, ole hyvä, paljonko kello on?
+Сподіваюся, тобі стане краще.	Я застудився. — *Сподіваюся, тобі стане краще.*	Olen vilustunut. — Toivottavasti voit pian paremmin.
+мило	*Мило* лежить біля умивальника.	Saippua on pesualtaan vieressä.
+душ	Вранці я приймаю *душ*.	Aamulla käyn suihkussa.
+город	Бабуся вирощує картоплю на *городі*.	Isoäiti kasvattaa perunaa kasvimaalla.
+телевізор	Увечері ми дивимося *телевізор*.	Illalla katsomme televisiota.
+вирішувати проблему	Майстер швидко *вирішує проблему*.	Huoltomies ratkaisee ongelman nopeasti.
+підвал	Велосипеди стоять у *підвалі*.	Polkupyörät ovat kellarissa.
+Батьківщина	Україна – *Батьківщина* моєї бабусі.	Ukraina on isoäitini kotimaa.
+горище	Старі речі лежать на *горищі*.	Vanhat tavarat ovat ullakolla.
+особняк	Вони живуть у великому *особняку*.	He asuvat isossa omakotitalossa.
+унітаз	*Унітаз* стоїть поруч із ванною.	WC-istuin on kylpyammeen vieressä.
+розташовуватися	Готель *розташовується* в центрі міста.	Hotelli sijaitsee kaupungin keskustassa.
+мікрохвильовка	Підігрій суп у *мікрохвильовці*.	Lämmitä keitto mikrossa.
+духова піч	Пиріг печеться в *духовій печі*.	Piirakka paistuu uunissa.
+оранжевий	У ванній висить *оранжевий* рушник.	Kylpyhuoneessa roikkuu oranssi pyyhe.
+бежевий	Стіни в спальні *бежеві*.	Makuuhuoneen seinät ovat beiget.
+умивальник	Дзеркало висить над *умивальником*.	Peili roikkuu pesualtaan yläpuolella.
+Чи хотіли б ви…?	*Чи хотіли б ви* чаю? — Так, із задоволенням.	Haluaisitteko teetä? — Kyllä, mielelläni.
+скільки часу	*Скільки часу* йти до вокзалу?	Kuinka kauan asemalle kestää kävellä?
+кажуть	*Кажуть*, завтра буде сніг.	Sanotaan, että huomenna sataa lunta.
+правда	Це *правда*, що ти переїжджаєш?	Onko totta, että muutat?
+бо	Сьогодні я вдома, *бо* хворію.	Tänään olen kotona, koska olen sairas.
+лише	У моїй квартирі *лише* одна кімната.	Asunnossani on vain yksi huone.
+навіть	У Лапландії *навіть* у травні буває сніг.	Lapissa on lunta jopa toukokuussa.
+такий самий	У мене *такий самий* телефон, як у тебе.	Minulla on samanlainen puhelin kuin sinulla.
+зрозуміти	Вибачте, я не *зрозумів* питання.	Anteeksi, en ymmärtänyt kysymystä.
+вибачте	*Вибачте*, де тут зупинка?	Anteeksi, missä täällä on pysäkki?
+машина	Наша *машина* стоїть біля будинку.	Automme on talon vieressä.
+завжди	Взимку я *завжди* ношу шапку.	Talvella pidän aina pipoa.
+точно	Скажіть *точно*, о котрій прибуває поїзд.	Kertokaa tarkasti, mihin aikaan juna saapuu.
+потрібний	Усі *потрібні* документи в мене є.	Minulla on kaikki tarvittavat asiakirjat.
+ніж	*Ніж* лежить біля тарілки.	Veitsi on lautasen vieressä.
+знову	Сьогодні *знову* йде дощ.	Tänään sataa taas.
+потім	Спочатку снідаємо, а *потім* ідемо на роботу.	Ensin syömme aamiaista ja sitten lähdemme töihin.
+стояти	Шафа *стоїть* у кутку.	Kaappi seisoo nurkassa.
+можливо	*Можливо*, завтра буде сонячно.	Ehkä huomenna on aurinkoista.
+звичайно	*Звичайно*, я тобі допоможу.	Tietenkin autan sinua.
+справді	Ти *справді* живеш у Рованіємі?	Asutko todella Rovaniemellä?
+мабуть	*Мабуть*, він уже вдома.	Hän on luultavasti jo kotona.
+стоїть на землі	Ялинка *стоїть на землі* біля дверей.	Joulukuusi seisoo maassa oven vieressä.
+скоро	*Скоро* прийде Святий Миколай.	Pian tulee Pyhä Nikolaus.
+план	Який у тебе *план* на вихідні?	Mikä sinun suunnitelmasi on viikonlopuksi?
+їсти	На сніданок я *їм* кашу.	Aamiaiseksi syön puuroa.
+вода	Можна склянку *води*?	Saisinko lasillisen vettä?
+світ	Фінляндія – одна з найщасливіших країн *світу*.	Suomi on yksi maailman onnellisimmista maista.
+насправді	*Насправді* я не дуже люблю каву.	Oikeastaan en pidä kahvista kovin paljon.
+тому що	Ми не йдемо гуляти, *тому що* йде дощ.	Emme lähde kävelylle, koska sataa.
+ніби	Він говорить так, *ніби* все знає.	Hän puhuu ikään kuin tietäisi kaiken.
+сніданок	На *сніданок* я їм бутерброд.	Aamiaiseksi syön voileivän.
+лежати	Книжка *лежить* на столі.	Kirja on pöydällä.
+ліжко	Кіт спить на *ліжку*.	Kissa nukkuu sängyllä.
+цікавий	Це дуже *цікава* книжка.	Tämä on hyvin kiinnostava kirja.
+вікно	Я відчиняю *вікно*, бо в кімнаті жарко.	Avaan ikkunan, koska huoneessa on kuuma.
+називати	Друзі *називають* мене Сашею.	Ystävät kutsuvat minua Sashaksi.
+суп	На обід мама зварила *суп*.	Äiti keitti lounaaksi keittoa.
+фрукти	Я щодня їм *фрукти*.	Syön hedelmiä joka päivä.
+кухня	Мама готує вечерю на *кухні*.	Äiti valmistaa illallista keittiössä.
+обіцяти	Сашко *обіцяє* мамі прибрати кімнату.	Saško lupaa äidille siivota huoneen.
+всередині	*Всередині* будинку дуже тепло.	Talon sisällä on hyvin lämmintä.
+особливий	Сьогодні для нас *особливий* день.	Tänään on meille erityinen päivä.
+дуже дивний	Цей будинок *дуже дивний*.	Tämä talo on todella outo.
+використовувати	На кухні ми щодня *використовуємо* мікрохвильову піч.	Keittiössä käytämme mikroaaltouunia joka päivä.
+газета	Дідусь читає *газету* у вітальні.	Isoisä lukee sanomalehteä olohuoneessa.
+одяг	Мій *одяг* лежить у шафі.	Vaatteeni ovat kaapissa.
+стіна	На *стіні* висить картина.	Seinällä riippuu taulu.
+ходити по стінах	У цьому будинку можна *ходити по стінах*.	Tässä talossa voi kävellä seiniä pitkin.
+шафа	Сукня висить у *шафі*.	Mekko riippuu kaapissa.
+підлога	Килим лежить на *підлозі*.	Matto on lattialla.
+небо	Сьогодні *небо* синє й чисте.	Tänään taivas on sininen ja kirkas.
+пляшка	На столі стоїть *пляшка* води.	Pöydällä on vesipullo.
+почуватися дивно	У цьому будинку я *почуваюся дивно*.	Tässä talossa minulla on outo olo.
+варити	Бабуся *варить* борщ на кухні.	Isoäiti keittää borssia keittiössä.
+Його будували…	Як довго будували цей готель? — *Його будували* три роки.	Kuinka kauan tätä hotellia rakennettiin? — Sitä rakennettiin kolme vuotta.
+адже	Візьми парасольку, *адже* надворі дощ.	Ota sateenvarjo, sillä ulkona sataa.
+неможливо	Жити в такому будинку *неможливо*.	Tällaisessa talossa on mahdotonta asua.
+ванна кімната	Рушники лежать у *ванній кімнаті*.	Pyyhkeet ovat kylpyhuoneessa.
+зал	Концерт буде у великому *залі*.	Konsertti on suuressa salissa.
+вниз дахом	Цей дивний будинок стоїть *вниз дахом*.	Tämä outo talo seisoo katto alaspäin.
+німець	Мій сусід – *німець* із Берліна.	Naapurini on saksalainen Berliinistä.
+автор	*Автор* цієї книжки живе в Києві.	Tämän kirjan tekijä asuu Kiovassa.
+дзеркало	У ванній кімнаті висить велике *дзеркало*.	Kylpyhuoneessa riippuu iso peili.
+крісло	Тато сидить у *кріслі* біля вікна.	Isä istuu nojatuolissa ikkunan vieressä.
+коли-небудь	Ви *коли-небудь* були в Рованіємі?	Oletteko koskaan käyneet Rovaniemellä?
+подушка	На ліжку лежить біла *подушка*.	Sängyllä on valkoinen tyyny.
+зручно	У цьому кріслі дуже *зручно* сидіти.	Tässä nojatuolissa on todella mukava istua.
+спальня	Ліжко стоїть у *спальні*.	Sänky on makuuhuoneessa.
+дивувати	Цей будинок *дивує* всіх туристів.	Tämä talo hämmästyttää kaikkia turisteja.
+балкон	Влітку ми п'ємо каву на *балконі*.	Kesällä juomme kahvia parvekkeella.
+вживати	Як правильно *вживати* це слово?	Miten tätä sanaa käytetään oikein?
+точніше	Ми приїдемо в листопаді, *точніше* п'ятого листопада.	Tulemme marraskuussa, tarkemmin sanottuna viidentenä marraskuuta.
+посуд	Після вечері я мию *посуд*.	Illallisen jälkeen tiskaan astiat.
+намалювати	Донька *намалювала* наш будинок.	Tytär piirsi talomme.
+рушник	Чистий *рушник* висить у ванній.	Puhdas pyyhe riippuu kylpyhuoneessa.
+плита	Каструля стоїть на *плиті*.	Kattila on liedellä.
+класичний	Мені подобається *класичний* стиль.	Pidän klassisesta tyylistä.
+миска	У *мисці* лежать яблука.	Kulhossa on omenoita.
+дизайнер	Цю кухню створив відомий *дизайнер*.	Tämän keittiön suunnitteli tunnettu suunnittelija.
+знизу вгору	Подивіться на будинок *знизу вгору*.	Katsokaa taloa alhaalta ylöspäin.
+кошик	Фрукти лежать у *кошику*.	Hedelmät ovat korissa.
+зубна паста	*Зубна паста* стоїть у ванній кімнаті.	Hammastahna on kylpyhuoneessa.
+догори ногами	У цьому будинку меблі висять *догори ногами*.	Tässä talossa huonekalut riippuvat ylösalaisin.
+килим	У вітальні на підлозі лежить *килим*.	Olohuoneen lattialla on matto.
+зубна щітка	Моя *зубна щітка* синього кольору.	Hammasharjani on sininen.
+незвичайний	Це дуже *незвичайний* готель.	Tämä on hyvin epätavallinen hotelli.
+дизайн	Мені подобається *дизайн* цієї кімнати.	Pidän tämän huoneen muotoilusta.
+вітальня	Диван стоїть у *вітальні*.	Sohva on olohuoneessa.
+чайник	Увімкни, будь ласка, *чайник*!	Laita vedenkeitin päälle, ole kiltti!
+полиця	Книжки стоять на *полиці*.	Kirjat ovat hyllyllä.
+монітор	*Монітор* стоїть на письмовому столі.	Näyttö on kirjoituspöydällä.
+штори	На вікнах висять зелені *штори*.	Ikkunoissa riippuvat vihreät verhot.
+стеля	У цій кімнаті висока *стеля*.	Tässä huoneessa on korkea katto.
+книжкова шафа	*Книжкова шафа* стоїть біля стіни.	Kirjahylly on seinän vieressä.
+текти	З крана *тече* вода.	Hanasta valuu vettä.
+традиційний	Борщ – *традиційна* українська страва.	Borssi on perinteinen ukrainalainen ruoka.
+висіти	Годинник *висить* над дверима.	Kello riippuu oven yläpuolella.
+люстра	Над столом висить красива *люстра*.	Pöydän yläpuolella riippuu kaunis kattokruunu.
+вазон	На підвіконні стоїть *вазон*.	Ikkunalaudalla on ruukkukasvi.
+журнальний столик	Перед диваном стоїть *журнальний столик*.	Sohvan edessä on sohvapöytä.
+мікрохвильова піч	Розігрій суп у *мікрохвильовій печі*.	Lämmitä keitto mikroaaltouunissa.
+кухонні шафки	Тарілки стоять у *кухонних шафках*.	Lautaset ovat keittiön kaapeissa.
+декоративний	На дивані лежать *декоративні* подушки.	Sohvalla on koristetyynyjä.
+інтер'єр	*Інтер'єр* готелю дуже сучасний.	Hotellin sisustus on hyvin moderni.
+намальований	На стіні *намальоване* дерево.	Seinään on maalattu puu.
+тертка	Натри сир на *тертці*.	Raasta juusto raastimella.
+проєкт	Це *проєкт* нашого нового будинку.	Tämä on uuden talomme suunnitelma.
+хотіти	Діти *хочуть* поїхати до Рованіємі.	Lapset haluavat matkustaa Rovaniemelle.
+якщо	*Якщо* буде сонячно, ми підемо в парк.	Jos on aurinkoista, menemme puistoon.
+чому	*Чому* ти сьогодні такий сумний?	Miksi olet tänään noin surullinen?
+зробити	Сестра вже *зробила* домашнє завдання.	Sisko on jo tehnyt kotitehtävät.
+добрий	Святий Миколай *добрий* до всіх дітей.	Pyhä Nikolaus on kiltti kaikille lapsille.
+інший	У мене є *інша* ідея.	Minulla on toinen idea.
+взяти з собою	Не забудь *взяти з собою* паспорт.	Älä unohda ottaa passia mukaan.
+шукати	Мама *шукає* окуляри в сумці.	Äiti etsii silmälaseja laukusta.
+Бог	Дякувати *Богу*, всі здорові.	Luojan kiitos, kaikki ovat terveitä.
+своїми руками	Тато зробив стіл *своїми руками*.	Isä teki pöydän omin käsin.
+допомагати	Діти *допомагають* мамі на кухні.	Lapset auttavat äitiä keittiössä.
+приходити	Святий Миколай *приходить* до дітей уночі.	Pyhä Nikolaus tulee lasten luo yöllä.
+хтось	*Хтось* стукає у двері.	Joku koputtaa oveen.
+потрібно	Нам *потрібно* купити хліб.	Meidän pitää ostaa leipää.
+побачити	Узимку ми хочемо *побачити* північне сяйво.	Talvella haluamme nähdä revontulet.
+слухати	Увечері я *слухаю* музику.	Illalla kuuntelen musiikkia.
+річ	Свої *речі* я поклав у валізу.	Laitoin tavarani matkalaukkuun.
+кожен	*Кожна* дитина чекає на подарунок.	Jokainen lapsi odottaa lahjaa.
+сидіти	Кіт *сидить* на підвіконні.	Kissa istuu ikkunalaudalla.
+подумати	Я *подумаю* про це завтра.	Mietin sitä huomenna.
+вечір	*Вечір* ми провели вдома з родиною.	Vietimme illan kotona perheen kanssa.
+купити	Треба *купити* молоко й хліб.	Pitää ostaa maitoa ja leipää.
+година	Потяг до Гельсінкі їде дві *години*.	Juna Helsinkiin kulkee kaksi tuntia.
+останній	Грудень – *останній* місяць року.	Joulukuu on vuoden viimeinen kuukausi.
+їжа	Українська *їжа* дуже смачна.	Ukrainalainen ruoka on todella herkullista.
+наступний	*Наступного* тижня ми їдемо до Києва.	Ensi viikolla matkustamme Kiovaan.
+дізнатися	Я хочу *дізнатися* більше про Україну.	Haluan saada tietää enemmän Ukrainasta.
+відповідь	Дякую за швидку *відповідь*!	Kiitos nopeasta vastauksesta!
+тобто	Я приїду через тиждень, *тобто* в понеділок.	Tulen viikon päästä, eli maanantaina.
+залежати від	Усе *залежить від* погоди.	Kaikki riippuu säästä.
+бачити сни	Ти часто *бачиш сни*?	Näetkö usein unia?
+сон	Мені наснився дивний *сон*.	Näin oudon unen.
+десь	Мої окуляри *десь* тут.	Silmälasini ovat jossain täällä.
+тому	Надворі холодно, *тому* я одягаю шапку.	Ulkona on kylmä, siksi laitan pipon päähän.
+готувати	Сьогодні тато *готує* вечерю.	Tänään isä valmistaa illallisen.
+народ	Український *народ* любить свої традиції.	Ukrainan kansa rakastaa perinteitään.
+розмовляти	Ми *розмовляємо* українською мовою.	Puhumme ukrainaa.
+магазин	Біля нашого будинку є *магазин*.	Talomme lähellä on kauppa.
+часто	Узимку в Тампере *часто* йде сніг.	Talvella Tampereella sataa usein lunta.
+цілий	Ми чекали на тебе *цілий* день.	Odotimme sinua koko päivän.
+лист	Діти пишуть *листи* Санта-Клаусу.	Lapset kirjoittavat kirjeitä Joulupukille.
+вміти	Моя сестра *вміє* гарно малювати.	Siskoni osaa piirtää hyvin.
+вночі	Сьогодні *вночі* йшов сніг.	Tänä yönä satoi lunta.
+сніг	У Лапландії вже лежить *сніг*.	Lapissa on jo lunta.
+блакитний	Над морем *блакитне* небо.	Meren yllä on vaaleansininen taivas.
+почуватися	Як ти *почуваєшся* сьогодні?	Miltä sinusta tuntuu tänään?
+пошта	*Пошта* працює до шостої вечора.	Posti on auki kuuteen asti illalla.
+село	Бабуся живе в *селі*.	Isoäiti asuu kylässä.
+музей	У суботу ми підемо в *музей*.	Lauantaina menemme museoon.
+відпочивати	Влітку ми *відпочиваємо* на дачі.	Kesällä lepäämme mökillä.
+продавати	На ринку *продають* свіжі овочі.	Torilla myydään tuoreita vihanneksia.
+приносити	Святий Миколай *приносить* дітям подарунки.	Pyhä Nikolaus tuo lapsille lahjoja.
+подорожувати	Наша родина любить *подорожувати*.	Perheemme rakastaa matkustamista.
+отримувати подарунки	Діти люблять *отримувати подарунки*.	Lapset tykkäävät saada lahjoja.
+довгий	Зимові ночі у Фінляндії *довгі*.	Talviyöt ovat Suomessa pitkiä.
+високий	Мій брат дуже *високий*.	Veljeni on hyvin pitkä.
+простий	Це дуже *простий* рецепт.	Tämä on hyvin yksinkertainen resepti.
+український	Я вивчаю *українську* мову.	Opiskelen ukrainan kieltä.
+дерево	Ця іграшка зроблена з *дерева*.	Tämä lelu on tehty puusta.
+дорослі	*Дорослі* теж чекають на свято.	Myös aikuiset odottavat juhlaa.
+улюблений	Мій *улюблений* колір – зелений.	Lempivärini on vihreä.
+центр	Стіл стоїть у *центрі* кімнати.	Pöytä on huoneen keskellä.
+ручка	Можна взяти твою *ручку*?	Voinko lainata kynääsi?
+папір	Дайте, будь ласка, аркуш *паперу*.	Antaisitteko paperiarkin, kiitos.
+взуття	Зніміть, будь ласка, *взуття* в коридорі.	Riisukaa kengät eteisessä, olkaa hyvä.
+костюм	На свято син одягнув *костюм* зайчика.	Juhlaan poika puki päälleen pupuasun.
+квітка	На підвіконні росте червона *квітка*.	Ikkunalaudalla kasvaa punainen kukka.
+тварини	У Лапландії живуть різні *тварини*.	Lapissa elää erilaisia eläimiä.
+колір	Якого *кольору* твоя нова сукня?	Minkä värinen uusi mekkosi on?
+приємно	Мені дуже *приємно* з вами познайомитися.	On todella mukava tutustua teihin.
+носити	Узимку я *ношу* теплу шапку.	Talvella pidän lämmintä pipoa.
+поверх	Наша квартира на третьому *поверсі*.	Asuntomme on kolmannessa kerroksessa.
+дарувати подарунки	На Різдво ми *даруємо подарунки* друзям.	Jouluna annamme lahjoja ystäville.
+герой	Мій улюблений казковий *герой* – Мумі-троль.	Lempisatuhahmoni on Muumipeikko.
+бажання	Діти пишуть свої *бажання* в листах.	Lapset kirjoittavat toiveensa kirjeisiin.
+доба	Номер коштує сто євро за *добу*.	Huone maksaa sata euroa vuorokaudelta.
+без вихідних	Магазин працює *без вихідних*.	Kauppa on auki ilman vapaapäiviä.
+виконувати бажання	Санта-Клаус *виконує бажання* дітей.	Joulupukki toteuttaa lasten toiveita.
+за три тижні до Різдва	*За три тижні до Різдва* ми купуємо ялинку.	Kolme viikkoa ennen joulua ostamme kuusen.
+Різдво	Ми святкуємо *Різдво* з родиною.	Vietämme joulua perheen kanssa.
+диво	Різдво – це час *див*.	Joulu on ihmeiden aikaa.
+гості	Сьогодні до нас прийдуть *гості*.	Tänään meille tulee vieraita.
+іграшка	На ялинці висить скляна *іграшка*.	Kuusessa riippuu lasinen joulukoriste.
+територія	На *території* готелю є басейн.	Hotellin alueella on uima-allas.
+дитячий	Іграшки лежать у *дитячій* кімнаті.	Lelut ovat lastenhuoneessa.
+домашній	Мені дуже смакує *домашня* їжа.	Pidän todella paljon kotiruoasta.
+кабінет	Тато працює у своєму *кабінеті*.	Isä työskentelee työhuoneessaan.
+стиль	Нашу вітальню оформлено в сучасному *стилі*.	Olohuoneemme on sisustettu modernilla tyylillä.
+стати реальністю	Моя мрія нарешті *стала реальністю*.	Unelmani toteutui vihdoin.
+приватний	Біля озера стоїть *приватний* будинок.	Järven lähellä on yksityinen talo.
+малювати	Діти люблять *малювати* олівцями.	Lapset tykkäävät piirtää värikynillä.
+малюнок	На стіні висить дитячий *малюнок*.	Seinällä riippuu lapsen piirustus.
+казка	Мама читає дітям *казку*.	Äiti lukee lapsille satua.
+як у казці	Узимку в Лапландії все *як у казці*.	Talvella Lapissa kaikki on kuin sadussa.
+область	Мої батьки живуть у Київській *області*.	Vanhempani asuvat Kiovan alueella.
+рослини	На балконі ростуть різні *рослини*.	Parvekkeella kasvaa erilaisia kasveja.
+приїжджати	Туристи *приїжджають* до Рованіємі з усього світу.	Turistit saapuvat Rovaniemelle kaikkialta maailmasta.
+сучасний	Ми живемо в *сучасній* квартирі.	Asumme modernissa asunnossa.
+мішок	Санта-Клаус несе великий *мішок* із подарунками.	Joulupukki kantaa isoa lahjasäkkiä.
+валіза	Моя *валіза* вже стоїть біля дверей.	Matkalaukkuni on jo oven vieressä.
+традиція	У нашій родині є гарна *традиція*.	Perheessämme on kaunis perinne.
+ковдра	Узимку я сплю під теплою *ковдрою*.	Talvella nukun lämpimän peiton alla.
+Біблія	На полиці лежить стара *Біблія*.	Hyllyllä on vanha Raamattu.
+чорнило	Раніше люди писали *чорнилом*.	Ennen ihmiset kirjoittivat musteella.
+народний	Мені подобається українська *народна* музика.	Pidän ukrainalaisesta kansanmusiikista.
+капці	Вдома я завжди ношу *капці*.	Kotona pidän aina tossuja.
+клей	Дай мені, будь ласка, *клей*.	Anna minulle liima, ole hyvä.
+мапа	На стіні висить *мапа* України.	Seinällä roikkuu Ukrainan kartta.
+тканина	Ця *тканина* дуже м'яка.	Tämä kangas on hyvin pehmeä.
+фарби	Діти малюють *фарбами*.	Lapset maalaavat maaleilla.
+будиночок	У лісі стоїть маленький *будиночок*.	Metsässä on pieni talo.
+куток	Ялинка стоїть у *кутку*.	Joulukuusi on nurkassa.
+перо	Колись люди писали *пером*.	Ennen ihmiset kirjoittivat sulkakynällä.
+лавка	Бабуся сидить на *лавці* в парку.	Isoäiti istuu penkillä puistossa.
+літній	Мені подобаються *літні* вечори у Фінляндії.	Pidän Suomen kesäilloista.
+олівець	На столі лежить *олівець*.	Pöydällä on lyijykynä.
+ялинка	Ми прикрашаємо *ялинку* разом.	Koristelemme joulukuusen yhdessä.
+ножиці	*Ножиці* лежать у шухляді столу.	Sakset ovat pöydän laatikossa.
+різдвяний	Бабуся готує *різдвяну* вечерю.	Isoäiti valmistaa jouluillallisen.
+доторкнутися до	Дитина хоче *доторкнутися до* оленя.	Lapsi haluaa koskettaa poroa.
+чемний	Святий Миколай приносить подарунки *чемним* дітям.	Pyhä Nikolaus tuo lahjoja kilteille lapsille.
+простирадло	У готелі щодня міняють *простирадла*.	Hotellissa vaihdetaan lakanat joka päivä.
+кольорові олівці	Дочка малює *кольоровими олівцями*.	Tytär piirtää värikynillä.
+кольоровий	У дитячій кімнаті *кольорові* стіни.	Lastenhuoneen seinät ovat värikkäät.
+цілодобово	Рецепція готелю працює *цілодобово*.	Hotellin vastaanotto palvelee ympäri vuorokauden.
+сувенір	Я купив *сувенір* для мами.	Ostin matkamuiston äidille.
+фігурка	На полиці стоїть дерев'яна *фігурка*.	Hyllyllä on puinen figuuri.
+казкові герої	Діти люблять *казкових героїв*.	Lapset rakastavat satuhahmoja.
+казковий	Взимку Лапландія виглядає *казковою*.	Talvella Lappi näyttää satumaiselta.
+неслухняний	*Неслухняним* дітям Миколай кладе різочку.	Tuhmille lapsille Nikolaus jättää vitsan.
+майстерня	У *майстерні* Санта-Клауса працюють ельфи.	Joulupukin pajassa työskentelevät tontut.
+вата	Ми зробили сніг з *вати*.	Teimme lunta vanusta.
+різні папки	На полиці стоять *різні папки*.	Hyllyllä on erilaisia kansioita.
+новорічні іграшки	Ми вішаємо на ялинку *новорічні іграшки*.	Ripustamme kuuseen joulukoristeita.
+пластилін	Син ліпить зайчика з *пластиліну*.	Poika muovailee pupun muovailuvahasta.
+глобус	На столі вчителя стоїть *глобус*.	Opettajan pöydällä on karttapallo.
+загадувати бажання	На Новий рік ми *загадуємо бажання*.	Uutenavuotena esitämme toivomuksen.
+дерев'яний	У нас на кухні *дерев'яний* стіл.	Keittiössämme on puinen pöytä.
+поштівка	Я надсилаю бабусі *поштівку* з Фінляндії.	Lähetän isoäidille postikortin Suomesta.
+радісно	Діти *радісно* зустрічають Миколая.	Lapset ottavat Nikolauksen iloisesti vastaan.
+вишитий	Мама одягла *вишиту* сорочку.	Äiti puki päälleen kirjaillun paidan.
+обов'язково	Я *обов'язково* приїду до вас улітку.	Tulen ehdottomasti luoksenne kesällä.
+ікона	У кутку кімнати висить *ікона*.	Huoneen nurkassa roikkuu ikoni.
+подвір'я	Діти граються на *подвір'ї*.	Lapset leikkivät pihalla.
+народні казки	Бабуся розповідає онукам *народні казки*.	Isoäiti kertoo lapsenlapsilleen kansansatuja.
+новорічний	На площі стоїть *новорічна* ялинка.	Aukiolla on uudenvuoden kuusi.
+зимовий	Мені потрібна нова *зимова* куртка.	Tarvitsen uuden talvitakin.
+карпатський	Ми відпочивали в *карпатському* селі.	Lomailimme karpaattilaisessa kylässä.
+гостинний	Українці дуже *гостинні* люди.	Ukrainalaiset ovat hyvin vieraanvaraisia ihmisiä.
+канцтовари	Ручки й зошити продають у магазині *канцтоварів*.	Kyniä ja vihkoja myydään paperikaupassa.
+фломастер	Напишіть слово червоним *фломастером*.	Kirjoittakaa sana punaisella tussilla.
+папка	Покладіть документи в *папку*.	Laittakaa asiakirjat kansioon.
+у	*У* шафі висить мій одяг.	Kaapissa roikkuvat vaatteeni.
+на	Кіт спить *на* дивані.	Kissa nukkuu sohvalla.
+за	Сад знаходиться *за* будинком.	Puutarha on talon takana.
+ось	*Ось* моя кімната, заходь!	Tässä on huoneeni, tule sisään!
+тепер	*Тепер* я живу в Тампере.	Nyt asun Tampereella.
+друг	Мій *друг* живе в Києві.	Ystäväni asuu Kiovassa.
+дивитися на	Кіт *дивиться на* птахів за вікном.	Kissa katsoo lintuja ikkunan takana.
+під	Капці стоять *під* ліжком.	Tossut ovat sängyn alla.
+перед	*Перед* будинком росте ялина.	Talon edessä kasvaa kuusi.
+над	Лампа висить *над* столом.	Lamppu roikkuu pöydän yläpuolella.
+між	Столик стоїть *між* диваном і кріслом.	Pikkupöytä on sohvan ja nojatuolin välissä.
+біля	Ми живемо *біля* озера.	Asumme järven lähellä.
+далеко від	Наш будинок *далеко від* центру.	Talomme on kaukana keskustasta.
+вогонь	Ми сидимо біля *вогню* й розмовляємо.	Istumme tulen ääressä ja juttelemme.
+стіл	Тарілки стоять на *столі*.	Lautaset ovat pöydällä.
+сім'я	Моя *сім'я* живе у Фінляндії.	Perheeni asuu Suomessa.
+поставити	Я *поставлю* вазу на стіл.	Laitan maljakon pöydälle.
+Телефон лежить переді мною.	Де твій телефон? — *Телефон лежить переді мною.*	Missä puhelimesi on? — Puhelin on edessäni.
+ввечері	*Ввечері* ми дивимося телевізор.	Illalla katsomme televisiota.
+яйце	На сніданок я їм одне *яйце*.	Syön aamiaiseksi yhden kananmunan.
+покласти	*Поклади* ключі на полицю, будь ласка.	Laita avaimet hyllylle, ole hyvä.
+ставити	Я завжди *ставлю* чашку в мийку.	Laitan aina kupin tiskialtaaseen.
+ліворуч від	Шафа стоїть *ліворуч від* дверей.	Kaappi on oven vasemmalla puolella.
+праворуч від	*Праворуч від* вікна висить картина.	Ikkunan oikealla puolella roikkuu taulu.
+поруч з	Я сиджу *поруч з* мамою.	Istun äidin vieressä.
+навколо	*Навколо* будинку росте ліс.	Talon ympärillä kasvaa metsää.
+дивний	Який *дивний* звук!	Mikä outo ääni!
+сусід	Наш *сусід* живе на третьому поверсі.	Naapurimme asuu kolmannessa kerroksessa.
+тарілка	Постав *тарілку* на стіл, будь ласка.	Laita lautanen pöydälle, ole hyvä.
+чашка	Хочеш *чашку* чаю?	Haluatko kupin teetä?
+ложка	Суп їдять *ложкою*.	Keittoa syödään lusikalla.
+виделка	*Виделка* лежить ліворуч від тарілки.	Haarukka on lautasen vasemmalla puolella.
+стілець	Кіт сидить під *стільцем*.	Kissa istuu tuolin alla.
+пляшка молока	У холодильнику стоїть *пляшка молока*.	Jääkaapissa on maitopullo.
+зручний	Це дуже *зручний* диван.	Tämä on hyvin mukava sohva.
+проводити час	Ми любимо *проводити час* на дачі.	Vietämme mielellämme aikaa mökillä.
+З вікна видно море.	*З вікна видно море.* — Як гарно!	Ikkunasta näkyy meri. — Kuinka kaunista!
+картина	На стіні висить гарна *картина*.	Seinällä roikkuu kaunis taulu.
+книжка	Я читаю цікаву *книжку*.	Luen kiinnostavaa kirjaa.
+коло	Собака лежить *коло* дверей.	Koira makaa oven vieressä.
+повісити	Я хочу *повісити* дзеркало в передпокої.	Haluan ripustaa peilin eteiseen.
+позаду	*Позаду* дивана стоїть лампа.	Sohvan takana on lamppu.
+фотографія	На тумбочці стоїть *фотографія* моєї сім'ї.	Yöpöydällä on valokuva perheestäni.
+годинник	Над дверима висить *годинник*.	Oven yläpuolella roikkuu kello.
+диван	У вітальні стоїть великий *диван*.	Olohuoneessa on iso sohva.
+недалеко від	Готель *недалеко від* вокзалу.	Hotelli on lähellä rautatieasemaa.
+холодильник	Молоко стоїть у *холодильнику*.	Maito on jääkaapissa.
+класти	Куди ти *кладеш* ключі?	Mihin sinä laitat avaimet?
+гарячий шоколад	Узимку я люблю пити *гарячий шоколад*.	Talvella juon mielelläni kuumaa kaakaota.
+лампа	На письмовому столі стоїть *лампа*.	Kirjoituspöydällä on lamppu.
+екран	Наш новий телевізор має великий *екран*.	Uudessa televisiossamme on iso ruutu.
+навпроти	*Навпроти* нашого будинку є парк.	Talomme vastapäätä on puisto.
+меблі	У квартирі зовсім нові *меблі*.	Asunnossa on aivan uudet huonekalut.
+рюкзак	*Рюкзак* висить на вішалці.	Reppu roikkuu naulakossa.
+піаніно	У вітальні стоїть старе *піаніно*.	Olohuoneessa on vanha piano.
+ваза з квітами	На столі стоїть *ваза з квітами*.	Pöydällä on maljakko, jossa on kukkia.
+ваза	Постав квіти у *вазу*.	Laita kukat maljakkoon.
+вхідні двері	Зачиніть, будь ласка, *вхідні двері*.	Sulkekaa ulko-ovi, olkaa hyvä.
+У моїй квартирі немає сауни.	Чи є у твоїй квартирі сауна? — *У моїй квартирі немає сауни.*	Onko asunnossasi saunaa? — Asunnossani ei ole saunaa.
+камін	Вечорами ми сидимо біля *каміна*.	Iltaisin istumme takan ääressä.
+навпроти каміна	*Навпроти каміна* стоїть м'яке крісло.	Takkaa vastapäätä on pehmeä nojatuoli.
+духовка	Пиріг печеться в *духовці*.	Piirakka paistuu uunissa.
+круглий	На кухні стоїть *круглий* стіл.	Keittiössä on pyöreä pöytä.
+Наша кухня поєднана з вітальнею.	*Наша кухня поєднана з вітальнею.* — Це дуже зручно!	Keittiömme on yhdistetty olohuoneeseen. — Se on todella kätevää!
+комод	Одяг лежить у *комоді*.	Vaatteet ovat lipastossa.
+тумбочка	Біля ліжка стоїть *тумбочка*.	Sängyn vieressä on yöpöytä.
+вішалка	Куртка висить на *вішалці*.	Takki roikkuu naulakossa.
+табурет	На кухні стоять три *табурети*.	Keittiössä on kolme jakkaraa.
+письмовий стіл	Комп'ютер стоїть на *письмовому столі*.	Tietokone on kirjoituspöydällä.
+обідній стіл	Уся сім'я сидить за *обіднім столом*.	Koko perhe istuu ruokapöydän ääressä.
+комп'ютерний стіл	У кабінеті стоїть *комп'ютерний стіл*.	Työhuoneessa on tietokonepöytä.
+мийка	Брудний посуд лежить у *мийці*.	Likaiset astiat ovat tiskialtaassa.
+морозильник	Морозиво лежить у *морозильнику*.	Jäätelö on pakastimessa.
+посудомийна машина	Я ставлю тарілки в *посудомийну машину*.	Laitan lautaset astianpesukoneeseen.
+кавоварка	На кухні є нова *кавоварка*.	Keittiössä on uusi kahvinkeitin.
+каструля	Суп вариться в *каструлі*.	Keitto kiehuu kattilassa.
+сковорідка	Мама смажить млинці на *сковорідці*.	Äiti paistaa lettuja paistinpannulla.
+м'який	Ця подушка дуже *м'яка*.	Tämä tyyny on hyvin pehmeä.
+горизонтально	Книжки лежать на полиці *горизонтально*.	Kirjat ovat hyllyllä vaakasuorassa.
+вертикально	Книжки стоять на полиці *вертикально*.	Kirjat seisovat hyllyllä pystysuorassa.
+м'яке крісло	Дідусь любить сидіти в *м'якому кріслі*.	Isoisä istuu mielellään pehmeässä nojatuolissa.
+сам	Я зробив це *сам*.	Tein sen itse.
+у будь-якому місці	Кіт спить *у будь-якому місці*.	Kissa nukkuu missä tahansa.
+кожний	*Кожний* студент має підручник.	Jokaisella opiskelijalla on oppikirja.
+боятися	Моя дочка *боїться* собак.	Tyttäreni pelkää koiria.
+здається	*Здається*, завтра буде дощ.	Näyttää siltä, että huomenna sataa.
+звідси	*Звідси* видно все місто.	Täältä näkyy koko kaupunki.
+під землею	Метро в Гельсінкі їздить *під землею*.	Helsingin metro kulkee maan alla.
+виглядати	Ти сьогодні чудово *виглядаєш*!	Näytät tänään upealta!
+вирішити	Ми *вирішили* орендувати квартиру в центрі.	Päätimme vuokrata asunnon keskustasta.
+відчувати	Я *відчуваю* запах кави.	Tunnen kahvin tuoksun.
+хоча б	Відпочинь *хоча б* один день.	Lepää edes yksi päivä.
+бувати	Я часто *буваю* в Києві.	Käyn usein Kiovassa.
+головне	*Головне* — бути здоровим.	Tärkeintä on olla terve.
+відкрити	Можна *відкрити* вікно?	Saako ikkunan avata?
+справжній	Це *справжній* український борщ.	Tämä on aitoa ukrainalaista borssikeittoa.
+змінити	Ми хочемо *змінити* квартиру.	Haluamme vaihtaa asuntoa.
+квартира	Ми орендуємо *квартиру* в Тампере.	Vuokraamme asuntoa Tampereelta.
+пропонувати	Готель *пропонує* гостям безкоштовний сніданок.	Hotelli tarjoaa vieraille ilmaisen aamiaisen.
+спочатку	*Спочатку* ми снідаємо, потім гуляємо.	Aluksi syömme aamiaista, sitten kävelemme.
+квиток	Я купив *квиток* на потяг до Гельсінкі.	Ostin junalipun Helsinkiin.
+зуб	У мене болить *зуб*.	Hammastani särkee.
+овочі	На ринку продають свіжі *овочі*.	Torilla myydään tuoreita vihanneksia.
+площа	*Площа* квартири — шістдесят квадратних метрів.	Asunnon pinta-ala on kuusikymmentä neliömetriä.
+внизу	*Внизу* є кухня й вітальня.	Alhaalla on keittiö ja olohuone.
+нагорі	Спальні *нагорі*, а кухня внизу.	Makuuhuoneet ovat ylhäällä ja keittiö alhaalla.
+світлий	Наша вітальня дуже *світла*.	Olohuoneemme on hyvin valoisa.
+схожий на	Син дуже *схожий на* тата.	Poika on hyvin isänsä näköinen.
+свобода	Для мене *свобода* дуже важлива.	Vapaus on minulle hyvin tärkeää.
+ліс	Ми часто гуляємо в *лісі*.	Kävelemme usein metsässä.
+річка	Через місто тече *річка*.	Kaupungin läpi virtaa joki.
+не дивно	*Не дивно*, що ти втомився.	Ei ihme, että olet väsynyt.
+смішний	Це дуже *смішний* фільм.	Tämä on todella hauska elokuva.
+сад	У *саду* ростуть яблуні.	Puutarhassa kasvaa omenapuita.
+сходи	*Сходи* ведуть на другий поверх.	Portaat johtavat toiseen kerrokseen.
+вхід	*Вхід* до готелю з іншого боку.	Hotellin sisäänkäynti on toisella puolella.
+ягода	У лісі ми збираємо *ягоди*.	Metsässä keräämme marjoja.
+гриб	Восени ми збираємо *гриби*.	Syksyllä keräämme sieniä.
+пара	Я купила нову *пару* черевиків.	Ostin uuden kenkäparin.
+увесь час	Сусід *увесь час* слухає гучну музику.	Naapuri kuuntelee koko ajan kovaa musiikkia.
+на жаль	*На жаль*, у квартирі немає балкона.	Valitettavasti asunnossa ei ole parveketta.
+список	Я пишу *список* покупок.	Kirjoitan ostoslistaa.
+божевільний	Це *божевільна* ідея!	Tämä on hullu idea!
+у формі	У готелі є басейн *у формі* серця.	Hotellissa on sydämen muotoinen uima-allas.
+замок	У Савонлінні є старий *замок*.	Savonlinnassa on vanha linna.
+штат	Мій друг живе в *штаті* Техас.	Ystäväni asuu Texasin osavaltiossa.
+гори	Улітку ми їздимо в *гори*.	Kesällä matkustamme vuorille.
+ванна	Після роботи я люблю лежати у *ванні*.	Töiden jälkeen tykkään maata kylpyammeessa.
+рух	*Рух* корисний для здоров'я.	Liike on terveellistä.
+камінь	Біля озера лежить великий *камінь*.	Järven rannalla on iso kivi.
+рот із зубами	Двері цього будинку схожі на *рот із зубами*.	Tämän talon ovi muistuttaa hampaallista suuta.
+проте	Квартира маленька, *проте* дуже затишна.	Asunto on pieni, mutta kuitenkin hyvin kodikas.
+відомий	Ця вежа *відома* в усьому світі.	Tämä torni on tunnettu kaikkialla maailmassa.
+дах	На *даху* будинку лежить сніг.	Talon katolla on lunta.
+принцеса	У казці *принцеса* живе у високій вежі.	Sadussa prinsessa asuu korkeassa tornissa.
+смак	Мені подобається *смак* цієї кави.	Pidän tämän kahvin mausta.
+рівень	Мій *рівень* української мови — А2.	Ukrainan kielen tasoni on A2.
+трава	Діти граються на зеленій *траві*.	Lapset leikkivät vihreällä nurmella.
+приблизно	До центру *приблизно* десять хвилин пішки.	Keskustaan on noin kymmenen minuutin kävelymatka.
+гараж	Машина стоїть у *гаражі*.	Auto on autotallissa.
+коридор	Шафа для одягу стоїть у *коридорі*.	Vaatekaappi on käytävässä.
+господар	*Господар* квартири живе поруч.	Asunnon omistaja asuu lähellä.
+печера	Колись люди жили в *печерах*.	Ennen ihmiset asuivat luolissa.
+прямий	У цьому будинку немає жодної *прямої* стіни.	Tässä talossa ei ole yhtään suoraa seinää.
+перетворити на	Стару фабрику *перетворили на* готель.	Vanha tehdas muutettiin hotelliksi.
+побудувати	Тато сам *побудував* сауну біля озера.	Isä rakensi itse saunan järven rannalle.
+поняття краси	У кожного своє *поняття краси*.	Jokaisella on oma käsityksensä kauneudesta.
+краса	Мені подобається *краса* фінської природи.	Pidän Suomen luonnon kauneudesta.
+копія	Це не оригінал, а *копія* картини.	Tämä ei ole alkuperäinen vaan kopio maalauksesta.
+рости	Біля будинку *ростуть* старі берези.	Talon vieressä kasvaa vanhoja koivuja.
+покупки	Після роботи я роблю *покупки* в супермаркеті.	Töiden jälkeen teen ostokset supermarketissa.
+кут	Стіни в цьому будинку стоять під дивним *кутом*.	Tämän talon seinät ovat oudossa kulmassa.
+складати	Ці стільці дуже легко *складати*.	Nämä tuolit on hyvin helppo taittaa kokoon.
+організувати	Ми хочемо *організувати* вечірку в суботу.	Haluamme järjestää juhlat lauantaina.
+вежа	З оглядової *вежі* видно все місто.	Näkötornista näkyy koko kaupunki.
+На колір і смак товариш не всяк.	Тобі не подобається цей колір? — *На колір і смак товариш не всяк.*	Etkö pidä tästä väristä? — Makuasioista ei voi kiistellä.
+столиця	Гельсінкі — *столиця* Фінляндії.	Helsinki on Suomen pääkaupunki.
+безкоштовно	Діти можуть відвідати музей *безкоштовно*.	Lapset voivat käydä museossa ilmaiseksi.
+неправильна форма	Ця кімната має *неправильну форму*.	Tällä huoneella on epäsäännöllinen muoto.
+платформа	На даху є *платформа* для відпочинку.	Katolla on tasanne oleskelua varten.
+штучне озеро	Біля торгового центру є *штучне озеро*.	Kauppakeskuksen vieressä on tekojärvi.
+гігантський	Будинок має форму *гігантського* кошика.	Talo on jättimäisen korin muotoinen.
+виконувати функцію	Цей диван *виконує функцію* ліжка.	Tämä sohva toimii sänkynä.
+жук-сонечко	На траві сидить маленький *жук-сонечко*.	Ruohossa istuu pieni leppäkerttu.
+ручки кошика	*Ручки кошика* зроблені з металу.	Korin kahvat on tehty metallista.
+кошик для покупок	Візьми *кошик для покупок*, будь ласка.	Ota ostoskori, ole hyvä.
+сміливий	Архітектор мав дуже *сміливу* ідею.	Arkkitehdillä oli hyvin rohkea idea.
+талановиті люди	У нашому місті живуть *талановиті люди*.	Kaupungissamme asuu lahjakkaita ihmisiä.
+перевернути на бік	Будинок виглядає так, ніби його *перевернули на бік*.	Talo näyttää siltä kuin se olisi käännetty kyljelleen.
+кущі	Біля будинку ростуть зелені *кущі*.	Talon vieressä kasvaa vihreitä pensaita.
+суміш	Цей стиль — *суміш* старого й нового.	Tämä tyyli on sekoitus vanhaa ja uutta.
+мультик	Діти дивляться *мультик* про ельфів.	Lapset katsovat piirrettyä tontuista.
+торговий центр	У суботу ми їдемо в *торговий центр*.	Lauantaina menemme kauppakeskukseen.
+гармонія з природою	Фіни люблять жити в *гармонії з природою*.	Suomalaiset haluavat elää sopusoinnussa luonnon kanssa.
+історичний	Львів має гарний *історичний* центр.	Lvivissä on kaunis historiallinen keskusta.
+акваріум	У вітальні стоїть великий *акваріум*.	Olohuoneessa on iso akvaario.
+розташований	Готель *розташований* у центрі міста.	Hotelli sijaitsee kaupungin keskustassa.
+квадратний метр	Квартира має сорок *квадратних метрів*.	Asunnossa on neljäkymmentä neliömetriä.
+незвичний	Це дуже *незвичний* будинок.	Tämä on hyvin epätavallinen talo.
+споруда	Ця скляна *споруда* — новий музей.	Tämä lasinen rakennelma on uusi museo.
+скляний	На кухні стоїть *скляний* стіл.	Keittiössä on lasinen pöytä.
+приватність	У скляному будинку немає *приватності*.	Lasitalossa ei ole yksityisyyttä.
+радіостудія	Тепер у цьому будинку працює *радіостудія*.	Nyt tässä talossa toimii radiostudio.
+віднедавна	*Віднедавна* я живу в Тампере.	Olen asunut Tampereella vasta vähän aikaa.
+асиметричний інтер'єр	Мені подобається *асиметричний інтер'єр* цього кафе.	Pidän tämän kahvilan epäsymmetrisestä sisustuksesta.
+радіатор	*Радіатор* висить під вікном.	Lämpöpatteri on ikkunan alla.
+нестандартний	Архітектор знайшов *нестандартне* рішення.	Arkkitehti löysi epätavallisen ratkaisun.
+равлик	*Равлик* повільно повзе по траві.	Etana ryömii hitaasti ruohossa.
+димар	На даху є високий *димар*.	Katolla on korkea savupiippu.
+антикварний	У вітальні стоїть *антикварна* шафа.	Olohuoneessa on antiikkinen kaappi.
+прозорий	Стіни в цьому будинку *прозорі*.	Tämän talon seinät ovat läpinäkyviä.
+офісний центр	Мій друг працює в новому *офісному центрі*.	Ystäväni työskentelee uudessa toimistokeskuksessa.
+танцівник	Цей будинок схожий на двох *танцівників*.	Tämä talo muistuttaa kahta tanssijaa.
+кам'яний	Біля озера стоїть старий *кам'яний* будинок.	Järven rannalla on vanha kivitalo.
+кривий	У цьому будинку всі стіни *криві*.	Tämän talon kaikki seinät ovat vinoja.
+індивідуальний	Кожна кімната має *індивідуальний* дизайн.	Jokaisella huoneella on yksilöllinen sisustus.
+горизонтальний	Цей будинок схожий на *горизонтальний* хмарочос.	Tämä talo muistuttaa vaakasuoraa pilvenpiirtäjää.
+затишний	У нас дуже *затишна* вітальня.	Meillä on hyvin kodikas olohuone.
+зараз	*Зараз* я на кухні, готую вечерю.	Olen nyt keittiössä laittamassa illallista.
+Поїдемо і ми!	Друзі їдуть у Рованіємі. — *Поїдемо і ми!*	Ystävät lähtevät Rovaniemelle. — Lähdetään mekin!
+знайти	Я ніяк не можу *знайти* свої ключі.	En millään löydä avaimiani.
+сюди	Іди *сюди*, будь ласка!	Tule tänne, ole hyvä!
+чути	Ти мене добре *чуєш*?	Kuuletko minua hyvin?
+чекати	Ми *чекаємо* на автобус уже двадцять хвилин.	Olemme odottaneet bussia jo kaksikymmentä minuuttia.
+отримати	Діти *отримали* лист від Санта-Клауса.	Lapset saivat kirjeen Joulupukilta.
+хвилина	Автобус приїде через п'ять *хвилин*.	Bussi tulee viiden minuutin päästä.
+дружина	Моя *дружина* працює в Тампере.	Vaimoni työskentelee Tampereella.
+… років тому	Ми переїхали до Фінляндії *двадцять років тому*.	Muutimme Suomeen kaksikymmentä vuotta sitten.
+частина	Ця *частина* міста дуже стара.	Tämä osa kaupunkia on hyvin vanha.
+головний	*Головна* пошта розташована в центрі.	Pääposti sijaitsee keskustassa.
+фільм	Увечері ми дивимося новий *фільм*.	Illalla katsomme uutta elokuvaa.
+країна	Фінляндія — північна *країна*.	Suomi on pohjoinen maa.
+іноді	*Іноді* ми обідаємо в ресторані.	Joskus syömme lounasta ravintolassa.
+ім'я	Моє *ім'я* — Марко.	Nimeni on Marko.
+батьки	Мої *батьки* живуть у Тампере.	Vanhempani asuvat Tampereella.
+вчитися	Діти *вчаться* у школі.	Lapset opiskelevat koulussa.
+вчитель	Моя сестра працює *вчителем*.	Siskoni työskentelee opettajana.
+вухо	У мене болить *вухо*.	Korvaani sattuu.
+вино	До вечері ми купили пляшку *вина*.	Ostimme illalliselle pullon viiniä.
+смачний	Цей борщ дуже *смачний*!	Tämä borssi on todella herkullinen!
+офіс	Наш *офіс* розташований на третьому поверсі.	Toimistomme on kolmannessa kerroksessa.
+холодний	Сьогодні *холодний* і вітряний день.	Tänään on kylmä ja tuulinen päivä.
+веселий	У мене дуже *веселий* брат.	Minulla on hyvin hauska veli.
+далекий	Мій друг живе в *далекій* країні.	Ystäväni asuu kaukaisessa maassa.
+сумка	Моя *сумка* лежить на стільці.	Laukkuni on tuolilla.
+склянка	Дай мені *склянку* води, будь ласка.	Anna minulle lasi vettä, ole hyvä.
+гора	Взимку ми їдемо в *гори*.	Talvella lähdemme vuorille.
+показувати	Гід *показує* туристам старе місто.	Opas näyttää turisteille vanhaa kaupunkia.
+клас	Наш *клас* розташований на другому поверсі.	Luokkamme on toisessa kerroksessa.
+прекрасний	Який *прекрасний* день!	Mikä ihana päivä!
+бар	У готелі є *бар* і ресторан.	Hotellissa on baari ja ravintola.
+шоу	Увечері в готелі буде *шоу*.	Illalla hotellissa on esitys.
+секрет	Це наш маленький *секрет*.	Tämä on meidän pieni salaisuutemme.
+навчити	Бабуся *навчила* мене пекти пиріжки.	Isoäiti opetti minut leipomaan piirakoita.
+зазвичай	*Зазвичай* я встаю о сьомій.	Tavallisesti nousen seitsemältä.
+природа	Фіни дуже люблять *природу*.	Suomalaiset rakastavat luontoa.
+небезпека	Тонкий лід — це велика *небезпека*.	Ohut jää on suuri vaara.
+з усього світу	Діти *з усього світу* пишуть листи Санта-Клаусу.	Lapset kaikkialta maailmasta kirjoittavat kirjeitä Joulupukille.
+журнал	На столику лежать нові *журнали*.	Pöydällä on uusia aikakauslehtiä.
+зустрічати гостей	Санта-Клаус *зустрічає гостей* у своїй резиденції.	Joulupukki ottaa vieraita vastaan residenssissään.
+отож	*Отож*, завтра ми їдемо в Рованіємі.	Huomenna siis lähdemme Rovaniemelle.
+секретний	У Санта-Клауса є *секретна* кімната.	Joulupukilla on salainen huone.
+спеціальний	Для дітей у ресторані є *спеціальне* меню.	Ravintolassa on lapsille erityinen ruokalista.
+ельф	*Ельфи* допомагають Санта-Клаусу пакувати подарунки.	Tontut auttavat Joulupukkia paketoimaan lahjoja.
+лід	Цей готель зроблений з *льоду*.	Tämä hotelli on tehty jäästä.
+напій	Гарячий чай — мій улюблений зимовий *напій*.	Kuuma tee on lempijuomani talvella.
+офіційний	Рованіємі — *офіційне* місто Санта-Клауса.	Rovaniemi on Joulupukin virallinen kotikaupunki.
+дошка	Учитель пише нові слова на *дошці*.	Opettaja kirjoittaa uudet sanat taululle.
+окремий	У кожної дитини є *окрема* кімната.	Jokaisella lapsella on oma huone.
+свічка	На столі горить *свічка*.	Pöydällä palaa kynttilä.
+статуя	У парку стоїть *статуя* поета.	Puistossa on runoilijan patsas.
+відіслати	Ельфи *відішлють* листи завтра.	Tontut lähettävät kirjeet huomenna.
+тістечка	До кави ми купили *тістечка*.	Ostimme kahvin kanssa leivoksia.
+виставка	У музеї зараз цікава *виставка*.	Museossa on nyt kiinnostava näyttely.
+покататися на поїзді	Діти дуже хочуть *покататися на поїзді*.	Lapset haluavat kovasti ajella junalla.
+пригощати	Бабуся завжди *пригощає* гостей пиріжками.	Isoäiti tarjoaa aina vieraille piirakoita.
+прикраси	Ми купили нові ялинкові *прикраси*.	Ostimme uusia joulukuusenkoristeita.
+взимку	*Взимку* в Лапландії дуже холодно.	Talvella Lapissa on hyvin kylmää.
+підземний	У Гельсінкі є *підземний* басейн.	Helsingissä on maanalainen uimahalli.
+галерея	У *галереї* можна побачити картини молодих художників.	Galleriassa voi nähdä nuorten taiteilijoiden maalauksia.
+резиденція	*Резиденція* Санта-Клауса розташована в Рованіємі.	Joulupukin residenssi sijaitsee Rovaniemellä.
+нечемний	*Нечемні* діти не отримають подарунків.	Tottelemattomat lapset eivät saa lahjoja.
+штамп	На листі стоїть *штамп* Полярного кола.	Kirjeessä on napapiirin leima.
+заховатися	Кіт *заховався* під ліжком.	Kissa piiloutui sängyn alle.
+Полярне коло	Село Санта-Клауса розташоване на *Полярному колі*.	Joulupukin pajakylä sijaitsee napapiirillä.
+парта	Учні сидять за *партами*.	Oppilaat istuvat pulpettiensa ääressä.
+імбирні пряники	На Різдво ми печемо *імбирні пряники*.	Jouluksi leivomme piparkakkuja.
+прикрашати	Діти *прикрашають* ялинку.	Lapset koristelevat joulukuusta.
+з'їсти	Хто *з'їв* усе печиво?	Kuka söi kaikki keksit?
+льодяний	У готелі є *льодяний* бар.	Hotellissa on jääbaari.
+адресат	*Адресат* цього листа — Санта-Клаус.	Tämän kirjeen vastaanottaja on Joulupukki.
+імбир	У цей чай додають *імбир*.	Tähän teehen lisätään inkivääriä.
+збиратися	Увечері вся родина *збирається* за столом.	Illalla koko perhe kokoontuu pöydän ääreen.
+виходити	Вікна нашого номера *виходять* на море.	Hotellihuoneemme ikkunat antavat merelle.
+власний	Кожен номер має *власну* ванну кімнату.	Jokaisessa huoneessa on oma kylpyhuone.
+номер (у готелі)	Ми забронювали двомісний *номер*.	Varasimme kahden hengen hotellihuoneen.
+відпочинок	Після роботи мені потрібен *відпочинок*.	Töiden jälkeen tarvitsen lepoa.
+відвідати	Наступного року ми хочемо *відвідати* Київ.	Ensi vuonna haluamme käydä Kiovassa.
+ліфт	*Ліфт*, на жаль, не працює.	Hissi ei valitettavasti toimi.
+підходити	Цей номер *підходить* для сім'ї з дітьми.	Tämä huone sopii lapsiperheelle.
+особа	Номер для двох *осіб* коштує сто євро.	Kahden hengen huone maksaa sata euroa.
+район	Ми живемо в тихому *районі*.	Asumme rauhallisella alueella.
+збирати	Восени ми *збираємо* гриби в лісі.	Syksyllä keräämme sieniä metsässä.
+послуга	Готель пропонує різні *послуги*.	Hotelli tarjoaa erilaisia palveluja.
+берег	Готель стоїть на *березі* озера.	Hotelli on järven rannalla.
+газ	Оплата за *газ* не входить у ціну.	Kaasumaksu ei sisälly hintaan.
+ідеальний	Цей готель — *ідеальне* місце для сім'ї.	Tämä hotelli on ihanteellinen paikka perheelle.
+реклама	Я побачив *рекламу* цього готелю в інтернеті.	Näin tämän hotellin mainoksen internetissä.
+вибирати	Ми завжди *вибираємо* номер з видом на море.	Valitsemme aina huoneen, josta on merinäköala.
+додатковий	За *додаткове* ліжко треба платити окремо.	Lisävuoteesta täytyy maksaa erikseen.
+гарантувати	Ми *гарантуємо* вам приємний відпочинок.	Takaamme teille miellyttävän loman.
+оголошення	Я прочитав *оголошення* про квартиру.	Luin ilmoituksen asunnosta.
+електрика	Ціна квартири не включає *електрику*.	Asunnon hintaan ei sisälly sähkö.
+оплата	*Оплата* за квартиру — п'ятсот євро на місяць.	Asunnosta maksetaan viisisataa euroa kuukaudessa.
+романтично	Вечеря на березі моря — це так *романтично*!	Illallinen meren rannalla on niin romanttista!
+проживання	Вартість *проживання* включає сніданок.	Majoituksen hintaan sisältyy aamiainen.
+здавати квартиру	Пані Олена *здає квартиру* студентам.	Rouva Olena vuokraa asuntoa opiskelijoille.
+комплекс	Біля моря є великий готельний *комплекс*.	Meren rannalla on suuri hotellikompleksi.
+купатися	Влітку ми *купаємося* в озері.	Kesällä uimme järvessä.
+масаж	У готелі можна замовити *масаж*.	Hotellissa voi tilata hieronnan.
+джакузі	У нашому номері є *джакузі*.	Huoneessamme on poreallas.
+сауна	У нашому будинку є *сауна*.	Talossamme on sauna.
+орендувати	Ми *орендуємо* квартиру в Тампере.	Vuokraamme asuntoa Tampereella.
+номер люкс	У готелі ми замовили *номер люкс*.	Varasimme hotellista sviitin.
+опалення	Узимку *опалення* коштує дорого.	Talvella lämmitys maksaa paljon.
+кабельне телебачення	У номері є *кабельне телебачення*.	Huoneessa on kaapelitelevisio.
+комунальні послуги	*Комунальні послуги* входять у ціну оренди.	Asumiskulut sisältyvät vuokraan.
+аквапарк	Діти цілий день купалися в *аквапарку*.	Lapset uivat koko päivän vesipuistossa.
+водоспад	Ми поїхали до *водоспаду* в Карпатах.	Lähdimme vesiputoukselle Karpaateille.
+номер напівлюкс	*Номер напівлюкс* має велике ліжко і балкон.	Juniorsviitissä on iso sänky ja parveke.
+організовувати	Готель *організовує* екскурсії до Санта-Клауса.	Hotelli järjestää retkiä Joulupukin luo.
+санки	Діти катаються на *санках* біля дому.	Lapset laskevat pulkalla talon lähellä.
+солярій	У готелі є басейн і *солярій*.	Hotellissa on uima-allas ja solarium.
+тенісний корт	Улітку ми граємо на *тенісному корті*.	Kesällä pelaamme tenniskentällä.
+тренажерний зал	Щоранку тато ходить у *тренажерний зал*.	Isä käy joka aamu kuntosalilla.
+шашлик	Улітку ми смажимо *шашлик* на дачі.	Kesällä grillaamme šašlikkia kesämökillä.
+Напишіть…	*Напишіть* лист другові.	Kirjoittakaa kirje ystävälle.
+Напишіть відповіді на питання.	Прочитайте текст. *Напишіть відповіді на питання.*	Lukekaa teksti. Kirjoittakaa vastaukset kysymyksiin.
+Напишіть подібну розповідь.	*Напишіть подібну розповідь* про свою квартиру.	Kirjoittakaa samanlainen kertomus omasta asunnostanne.
+Напишіть … у відповідні колонки.	*Напишіть іменники у відповідні колонки.*	Kirjoittakaa substantiivit oikeisiin sarakkeisiin.
+Напишіть форми дієслів у теперішньому часі.	*Напишіть форми дієслів у теперішньому часі*: читати, жити.	Kirjoittakaa verbien preesensmuodot: lukea, asua.
+Напишіть, який це відмінок.	Подивіться на слова. *Напишіть, який це відмінок.*	Katsokaa sanoja. Kirjoittakaa, mikä sijamuoto tämä on.
+Напишіть номери відповідних фотографій поруч із текстами.	Прочитайте тексти. *Напишіть номери відповідних фотографій поруч із текстами.*	Lukekaa tekstit. Kirjoittakaa vastaavien kuvien numerot tekstien viereen.
+Напишіть, що це.	Подивіться на малюнки. *Напишіть, що це.*	Katsokaa kuvia. Kirjoittakaa, mikä tämä on.
+Напишіть, хто це або що це.	*Напишіть, хто це або що це*: кіт, лампа, студент.	Kirjoittakaa, kuka tai mikä tämä on: kissa, lamppu, opiskelija.
+Напишіть цифрами.	*Напишіть цифрами*: двадцять п'ять, сто.	Kirjoittakaa numeroin: kaksikymmentäviisi, sata.
+Напишіть словами числа.	*Напишіть словами числа*: 12, 45, 100.	Kirjoittakaa luvut sanoin: 12, 45, 100.
+Заповніть пропуски.	*Заповніть пропуски* в тексті.	Täyttäkää tekstin aukot.
+Заповніть таблицю.	Послухайте діалог і *заповніть таблицю*.	Kuunnelkaa dialogi ja täyttäkää taulukko.
+Заповніть пропуски в таблиці.	*Заповніть пропуски в таблиці* прикметниками.	Täyttäkää taulukon aukot adjektiiveilla.
+Заповніть пропуски потрібними формами.	*Заповніть пропуски потрібними формами* слів у дужках.	Täyttäkää aukot sulkeissa olevien sanojen oikeilla muodoilla.
+Заповніть пропуски правильною формою дієслова.	*Заповніть пропуски правильною формою дієслова* «жити».	Täyttäkää aukot verbin "asua" oikealla muodolla.
+Заповніть пропуски словами з вправи 5.	Вправа 6. *Заповніть пропуски словами з вправи 5.*	Harjoitus 6. Täyttäkää aukot harjoituksen 5 sanoilla.
+Прочитайте текст.	*Прочитайте текст* про Санта-Клауса.	Lukekaa teksti Joulupukista.
+Прочитайте решту текстів.	*Прочитайте решту текстів* і знайдіть фотографії.	Lukekaa loput tekstit ja etsikää kuvat.
+Прочитайте лист.	*Прочитайте лист* Оксани до подруги.	Lukekaa Oksanan kirje ystävälleen.
+Прочитайте текст. Допишіть закінчення слів, де потрібно.	Вправа 3. *Прочитайте текст. Допишіть закінчення слів, де потрібно.*	Harjoitus 3. Lukekaa teksti. Kirjoittakaa sanojen päätteet tarvittaessa.
+Послухайте і перевірте.	*Послухайте і перевірте* свої відповіді.	Kuunnelkaa ja tarkistakaa vastauksenne.
+Послухайте та повторіть.	*Послухайте та повторіть* нові слова.	Kuunnelkaa ja toistakaa uudet sanat.
+Послухайте та запишіть слова.	*Послухайте та запишіть слова*, які ви чуєте.	Kuunnelkaa ja kirjoittakaa muistiin sanat, jotka kuulette.
+Послухайте та прочитайте діалог.	*Послухайте та прочитайте діалог* у готелі.	Kuunnelkaa ja lukekaa hotellissa käytävä dialogi.
+Послухайте текст.	*Послухайте текст* про погоду в Києві.	Kuunnelkaa teksti Kiovan säästä.
+Послухайте діалог.	*Послухайте діалог* між Олею та Петром.	Kuunnelkaa Oljan ja Petron välinen dialogi.
+Послухайте текст і заповніть таблицю.	Вправа 6. *Послухайте текст і заповніть таблицю.*	Harjoitus 6. Kuunnelkaa teksti ja täyttäkää taulukko.
+Слухайте і повторюйте.	*Слухайте і повторюйте* за диктором.	Kuunnelkaa ja toistakaa puhujan perässä.
+Слухайте та читайте.	*Слухайте та читайте* діалог.	Kuunnelkaa ja lukekaa dialogia.
+Дайте відповіді на питання.	*Дайте відповіді на питання* про свою квартиру.	Vastatkaa kysymyksiin asunnostanne.
+Дайте відповіді на питання до тексту.	Прочитайте лист. *Дайте відповіді на питання до тексту.*	Lukekaa kirje. Vastatkaa tekstiä koskeviin kysymyksiin.
+Дайте відповіді на питання, вживаючи прийменники в дужках.	*Дайте відповіді на питання, вживаючи прийменники в дужках*: Де лежить книга? (на)	Vastatkaa kysymyksiin käyttäen sulkeissa olevia prepositioita: Missä kirja on? (на)
+Складіть речення.	*Складіть речення* зі словами «стояти» і «лежати».	Muodostakaa lauseita sanoilla "seistä" ja "maata".
+Складіть діалоги.	*Складіть діалоги* за зразком.	Laatikaa dialogeja mallin mukaan.
+Складіть подібні діалоги.	*Складіть подібні діалоги* в парах.	Laatikaa samanlaisia dialogeja pareittain.
+Складіть фрази з…	*Складіть фрази з* прийменником «без».	Muodostakaa fraaseja prepositiolla "без".
+Складіть речення, вживаючи слова…	*Складіть речення, вживаючи слова* «шафа», «стіл», «висіти».	Muodostakaa lauseita käyttäen sanoja "kaappi", "pöytä", "riippua".
+Подивіться на малюнок.	*Подивіться на малюнок* і опишіть кімнату.	Katsokaa kuvaa ja kuvailkaa huone.
+Подивіться на малюнки та підберіть до них фрази.	Вправа 2. *Подивіться на малюнки та підберіть до них фрази.*	Harjoitus 2. Katsokaa kuvia ja valitkaa niihin sopivat fraasit.
+Подивіться на фотографію.	*Подивіться на фотографію* і скажіть, яка погода.	Katsokaa valokuvaa ja sanokaa, millainen sää on.
+Скажіть…	*Скажіть*, яка сьогодні погода.	Sanokaa, millainen sää tänään on.
+Скажіть, у якому відмінку стоять іменники.	Прочитайте речення. *Скажіть, у якому відмінку стоять іменники.*	Lukekaa lauseet. Sanokaa, missä sijamuodossa substantiivit ovat.
+Поставте у форму…	*Поставте у форму* місцевого відмінка: кухня, кімната.	Laittakaa lokatiivimuotoon: keittiö, huone.
+Поставте наголоси, де потрібно.	Прочитайте слова. *Поставте наголоси, де потрібно.*	Lukekaa sanat. Merkitkää painot tarvittaessa.
+Поставте питання до речень.	*Поставте питання до речень* за зразком.	Muodostakaa kysymykset lauseisiin mallin mukaan.
+Поставте репліки в правильному порядку.	*Поставте репліки в правильному порядку* і прочитайте діалог.	Järjestäkää repliikit oikeaan järjestykseen ja lukekaa dialogi.
+Поставте фрази в родовий відмінок.	*Поставте фрази в родовий відмінок*: нова квартира, великий стіл.	Laittakaa fraasit genetiiviin: uusi asunto, iso pöytä.
+Поставте іменник у відповідну форму.	*Поставте іменник у відповідну форму*: Я живу в (Фінляндія).	Laittakaa substantiivi oikeaan muotoon: Asun (Suomi).
+Знайдіть і виправте помилку.	*Знайдіть і виправте помилку* в кожному реченні.	Etsikää ja korjatkaa virhe jokaisesta lauseesta.
+Знайдіть у тексті слова, які означають…	*Знайдіть у тексті слова, які означають* меблі.	Etsikää tekstistä sanat, jotka tarkoittavat huonekaluja.
+Знайдіть виділені слова в тексті до наступних визначень.	Вправа 4. *Знайдіть виділені слова в тексті до наступних визначень.*	Harjoitus 4. Etsikää tekstin korostetut sanat seuraaville määritelmille.
+Знайдіть у текстах виділені слова, які мають такі значення:	*Знайдіть у текстах виділені слова, які мають такі значення:* «великий номер у готелі».	Etsikää teksteistä korostetut sanat, joilla on seuraavat merkitykset: "iso hotellihuone".
+Зробіть вправу з Додатка.	*Зробіть вправу 7.4 з Додатка* вдома.	Tehkää harjoitus 7.4 liitteestä kotona.
+Перевірте з партнером.	Виконайте вправу, а потім *перевірте з партнером*.	Tehkää harjoitus ja tarkistakaa sitten parinne kanssa.
+Перевірте себе	Наприкінці уроку є розділ «*Перевірте себе*».	Oppitunnin lopussa on osio "Testatkaa itsenne".
+Запам'ятайте.	*Запам'ятайте*: стіл стоїть, картина висить.	Painakaa mieleen: pöytä seisoo, taulu riippuu.
+Випишіть з тексту іменники.	*Випишіть з тексту іменники* жіночого роду.	Poimikaa tekstistä feminiinisubstantiivit.
+Випишіть із тексту прикметники до іменників.	*Випишіть із тексту прикметники до іменників* «кімната» і «стіл».	Poimikaa tekstistä adjektiivit substantiiveihin "huone" ja "pöytä".
+Розкажіть.	*Розкажіть* про свою квартиру.	Kertokaa asunnostanne.
+Виберіть потрібне слово.	*Виберіть потрібне слово*: стоїть чи лежить?	Valitkaa oikea sana: seisoo vai makaa?
+Виберіть правильний варіант.	*Виберіть правильний варіант* відповіді.	Valitkaa oikea vastausvaihtoehto.
+Утворіть…	*Утворіть* речення за зразком.	Muodostakaa lauseita mallin mukaan.
+Утворіть множину іменників.	*Утворіть множину іменників*: кімната, вікно, стіл.	Muodostakaa substantiivien monikko: huone, ikkuna, pöytä.
+Утворіть прикметники.	*Утворіть прикметники* від слів «зима» і «осінь».	Muodostakaa adjektiivit sanoista "talvi" ja "syksy".
+Утворіть форми однини і множини іменників.	*Утворіть форми однини і множини іменників* у таблиці.	Muodostakaa taulukon substantiivien yksikkö- ja monikkomuodot.
+Опишіть…	*Опишіть* свою кімнату.	Kuvailkaa huoneenne.
+Опишіть кухню, вживаючи прийменники…	*Опишіть кухню, вживаючи прийменники* «на», «під», «біля».	Kuvailkaa keittiö käyttäen prepositioita "на", "під", "біля".
+Запитайте партнера…	*Запитайте партнера*, де він живе.	Kysykää pariltanne, missä hän asuu.
+Допишіть закінчення.	*Допишіть закінчення* прикметників.	Kirjoittakaa adjektiivien päätteet.
+Допишіть пропущені букви.	*Допишіть пропущені букви* в словах.	Kirjoittakaa sanoista puuttuvat kirjaimet.
+Увага!	*Увага!* Завтра урок починається о шостій.	Huomio! Huomenna tunti alkaa kuudelta.
+вправа	Ця *вправа* дуже легка.	Tämä harjoitus on tosi helppo.
+Домашнє завдання	Наше *домашнє завдання* – написати рекламу готелю.	Läksymme on kirjoittaa hotellin mainos.
+Перерва	*Перерва* – десять хвилин, потім продовжуємо.	Tauko on kymmenen minuuttia, sitten jatketaan.
+питання	У мене є *питання* до вчительки.	Minulla on kysymys opettajalle.
+наприклад	Я люблю фрукти, *наприклад*, яблука.	Pidän hedelmistä, esimerkiksi omenoista.
+До зустрічі!	*До зустрічі!* — До зустрічі в середу!	Nähdään! — Nähdään keskiviikkona!
+за допомогою	Перекладіть текст *за допомогою* словника.	Kääntäkää teksti sanakirjan avulla.
+помилка	Я зробив дві *помилки* в диктанті.	Tein sanelussa kaksi virhettä.
+правильна форма	Вставте *правильну форму* дієслова.	Lisätkää verbin oikea muoto.
+Читаємо та обговорюємо.	Сьогодні на уроці *читаємо та обговорюємо* текст про Різдво.	Tänään tunnilla luemme tekstin joulusta ja keskustelemme siitä.
+Перевірка домашнього завдання	Урок починається з *перевірки домашнього завдання*.	Tunti alkaa läksyjen tarkistuksella.
+Визначте…	*Визначте* рід іменників.	Määrittäkää substantiivien suku.
+речення	Це *речення* дуже довге.	Tämä lause on hyvin pitkä.
+таблиця	Запишіть слова в *таблицю*.	Kirjoittakaa sanat taulukkoon.
+Впишіть…	*Впишіть* пропущені слова в текст.	Kirjoittakaa puuttuvat sanat tekstiin.
+Доповніть таблицю.	*Доповніть таблицю* своїми прикладами.	Täydentäkää taulukko omilla esimerkeillänne.
+Перефразуйте.	*Перефразуйте* речення за зразком.	Muotoilkaa lauseet toisin mallin mukaan.
+Позначте…	*Позначте* правильну відповідь.	Merkitkää oikea vastaus.
+у дужках	Використайте слова *у дужках*.	Käyttäkää sulkeissa olevia sanoja.
+виділений	Перекладіть *виділені* слова.	Kääntäkää korostetut sanat.
+Перекладіть слова.	*Перекладіть слова* фінською мовою.	Kääntäkää sanat suomeksi.
+Підкресліть слова, які Ви чуєте.	Послухайте пісню. *Підкресліть слова, які Ви чуєте.*	Kuunnelkaa laulu. Alleviivatkaa sanat, jotka kuulette.
+Питайте і відповідайте.	*Питайте і відповідайте* в парах.	Kysykää ja vastatkaa pareittain.
+Поділіться на групи.	*Поділіться на групи* по три студенти.	Jakautukaa kolmen opiskelijan ryhmiin.
+Обговоріть у групі.	*Обговоріть у групі* ваші плани на Різдво.	Keskustelkaa ryhmässä joulusuunnitelmistanne.
+Вивчіть пісню.	*Вивчіть пісню* про святого Миколая.	Opetelkaa laulu Pyhästä Nikolauksesta.
+Перетворіть речення в заперечні.	*Перетворіть речення в заперечні*: Я маю собаку. → Я не маю собаки.	Muuttakaa lauseet kieltolauseiksi: Minulla on koira. → Minulla ei ole koiraa.
+Попросіть у продавця…	*Попросіть у продавця* хліб і молоко.	Pyytäkää myyjältä leipää ja maitoa.
+Згадайте…	*Згадайте* слова на тему «Кухня».	Muistelkaa sanoja aiheesta "Keittiö".
+У кожному реченні є помилка.	*У кожному реченні є помилка.* Знайдіть її.	Jokaisessa lauseessa on virhe. Etsikää se.
+Не забудьте…	*Не забудьте* зробити домашнє завдання!	Älkää unohtako tehdä läksyä!
+Вставте пропущені букви, якщо потрібно.	Вправа 2. *Вставте пропущені букви, якщо потрібно.*	Harjoitus 2. Lisätkää puuttuvat kirjaimet tarvittaessa.
+Вставте слова з вправи … у пропуски.	*Вставте слова з вправи 3 у пропуски.*	Sijoittakaa harjoituksen 3 sanat aukkoihin.
+Виконайте дії та напишіть результат словами.	*Виконайте дії та напишіть результат словами*: 25 + 17.	Laskekaa laskut ja kirjoittakaa tulos sanoin: 25 + 17.
+Продовжіть речення за зразком.	*Продовжіть речення за зразком*: Узимку я люблю…	Jatkakaa lauseita mallin mukaan: Talvella pidän…
+Якщо потрібно, знайдіть слова в словнику.	Прочитайте текст. *Якщо потрібно, знайдіть слова в словнику.*	Lukekaa teksti. Etsikää tarvittaessa sanat sanakirjasta.
+Спробуйте спочатку самі відповісти на питання.	*Спробуйте спочатку самі відповісти на питання.* Потім послухайте текст.	Yrittäkää ensin itse vastata kysymyksiin. Kuunnelkaa sitten teksti.
+Використовуйте подані слова.	*Використовуйте подані слова* в діалогах.	Käyttäkää annettuja sanoja dialogeissa.
+Використайте такі фрази:	Складіть діалог. *Використайте такі фрази:* «Добрий день!», «Скільки коштує номер?»	Laatikaa dialogi. Käyttäkää seuraavia fraaseja: "Hyvää päivää!", "Paljonko huone maksaa?"
+Зверніть увагу на…	*Зверніть увагу на* закінчення прикметників.	Kiinnittäkää huomiota adjektiivien päätteisiin.
+Пам'ятайте!	*Пам'ятайте!* На питання «де?» відповідаємо місцевим відмінком.	Muistakaa! Kysymykseen "missä?" vastaamme lokatiivilla.
+Українською кажемо:	*Українською кажемо:* «Мені двадцять років».	Ukrainaksi sanomme: "Мені двадцять років" (olen 20-vuotias).
+Також кажемо:	Кажемо «на кухні». *Також кажемо:* «у кухні».	Sanomme "на кухні". Sanomme myös: "у кухні".
+На питання … відповідаємо:	*На питання «Де?» відповідаємо:* «У кімнаті».	Kysymykseen "Missä?" vastaamme: "Huoneessa".
+Що означає…?	*Що означає слово «водоспад»?* — Фінською це «vesiputous».	Mitä sana "водоспад" tarkoittaa? — Suomeksi se on "vesiputous".
+Тепер я вмію…	*Тепер я вмію* орендувати квартиру українською.	Nyt osaan vuokrata asunnon ukrainaksi.
+Тепер я можу…	*Тепер я можу* забронювати номер у готелі.	Nyt pystyn varaamaan hotellihuoneen.
+Тепер я знаю…	*Тепер я знаю* назви меблів.	Nyt tiedän huonekalujen nimet.
+Починаємо	*Починаємо* урок! Відкрийте підручники.	Aloitetaan tunti! Avatkaa oppikirjat.
+Познайомтесь з усіма студентами в групі.	*Познайомтесь з усіма студентами в групі.* Запитайте, як їх звати.	Tutustukaa kaikkiin ryhmän opiskelijoihin. Kysykää heidän nimensä.
+Закрийте фотографію.	*Закрийте фотографію* і опишіть кімнату.	Peittäkää valokuva ja kuvailkaa huone.
+Намалюйте…	*Намалюйте* план своєї квартири.	Piirtäkää asuntonne pohjapiirros.
+Порахуйте…	*Порахуйте*, скільки стільців у класі.	Laskekaa, montako tuolia luokassa on.
+скласти	Студенти *склали* діалог про готель.	Opiskelijat laativat dialogin hotellista.
+заповнити	У готелі треба *заповнити* анкету.	Hotellissa täytyy täyttää lomake.
+підкреслити	Учителька *підкреслила* помилки червоним.	Opettaja alleviivasi virheet punaisella.
+повторювати	Щодня я *повторюю* нові слова.	Kertaan uusia sanoja joka päivä.
+записати	Я *записав* адресу готелю.	Kirjoitin hotellin osoitteen muistiin.
+виправити	Марко *виправив* помилки в тексті.	Marko korjasi tekstin virheet.
+підібрати	*Підберіть* слова до малюнків.	Valitkaa kuviin sopivat sanat.
+поділитися	Ми *поділилися* на дві групи.	Jakauduimme kahteen ryhmään.
+обговорити	Ми *обговорили* план подорожі до Рованіємі.	Keskustelimme Rovaniemen-matkan suunnitelmasta.
+виписати	Оля *виписала* з тексту нові слова.	Olja poimi tekstistä uudet sanat.
+вписати	*Впишіть* своє ім'я в анкету.	Kirjoittakaa nimenne lomakkeeseen.
+дописати	Оля *дописала* лист і пішла спати.	Olja kirjoitti kirjeen loppuun ja meni nukkumaan.
+доповнити	*Доповніть* речення своїми словами.	Täydentäkää lauseet omin sanoin.
+вставити	*Вставте* пропущені слова в текст.	Lisätkää puuttuvat sanat tekstiin.
+продовжити	Після перерви ми *продовжимо* урок.	Tauon jälkeen jatkamme tuntia.
+виконати	Студенти швидко *виконали* вправу.	Opiskelijat tekivät harjoituksen nopeasti.
+порахувати	Дочка *порахувала* всі стільці на кухні.	Tytär laski kaikki keittiön tuolit.
+визначити	Учителька попросила *визначити* рід слів.	Opettaja pyysi määrittämään sanojen suvun.
+утворити	Від слова «зима» можна *утворити* прикметник «зимовий».	Sanasta "talvi" voi muodostaa adjektiivin "talvinen".
+позначити	Я *позначив* на карті наш готель.	Merkitsin kartalle hotellimme.
+описати	Анна *описала* свою нову квартиру.	Anna kuvaili uutta asuntoaan.
+перефразувати	Спробуйте *перефразувати* це речення.	Yrittäkää muotoilla tämä lause toisin.
+запам'ятати	Мені важко *запам'ятати* ці слова.	Minun on vaikea painaa mieleen näitä sanoja.
+використати	У листі *використайте* слова з таблиці.	Käyttäkää kirjeessä taulukon sanoja.
+розказати	Бабуся *розказала* нам про святого Миколая.	Isoäiti kertoi meille Pyhästä Nikolauksesta.
+вжити	У тексті *вжито* багато прикметників.	Tekstissä on käytetty paljon adjektiiveja.
+звернути увагу	*Зверніть увагу* на наголос у слові «замок».	Kiinnittäkää huomiota sanan "замок" painoon.
+вживаючи	Опишіть кімнату, *вживаючи* слова «стояти» і «висіти».	Kuvailkaa huone käyttäen sanoja "seistä" ja "riippua".
+використовуючи	Напишіть рекламу готелю, *використовуючи* ці фрази.	Kirjoittakaa hotellin mainos käyttäen näitä fraaseja.
+діалог	Ми читаємо *діалог* про оренду квартири.	Luemme dialogia asunnon vuokraamisesta.
+буква	В українській абетці тридцять три *букви*.	Ukrainan aakkosissa on kolmekymmentäkolme kirjainta.
+фраза	Ця *фраза* дуже корисна в готелі.	Tämä fraasi on tosi hyödyllinen hotellissa.
+пропущений	Знайдіть *пропущене* слово в реченні.	Etsikää lauseesta puuttuva sana.
+поданий	Складіть речення з *поданих* слів.	Muodostakaa lauseita annetuista sanoista.
+подібний	Твій светр *подібний* до мого.	Sinun villapaitasi on samanlainen kuin minun.
+відповідний	Виберіть *відповідне* слово.	Valitse sopiva sana.
+заперечний	Утворіть *заперечні* речення.	Muodosta kieltolauseita.
+варіант	Виберіть правильний *варіант* відповіді.	Valitse oikea vastausvaihtoehto.
+решта	Прочитайте *решту* текстів самостійно.	Lue loput tekstit itsenäisesti.
+колонка	Запишіть ці слова в першу *колонку*.	Kirjoita nämä sanat ensimmäiseen sarakkeeseen.
+схема	Подивіться на *схему* і розкажіть про квартиру.	Katso kaaviota ja kerro asunnosta.
+опис	Прочитайте *опис* готелю.	Lue hotellin kuvaus.
+предмет	Назвіть *предмети* на малюнку.	Nimeä kuvassa olevat esineet.
+значення	Поясніть *значення* цих слів.	Selitä näiden sanojen merkitys.
+визначення	Доберіть *визначення* до слів.	Yhdistä sanoihin niiden määritelmät.
+зразок	Складіть речення за *зразком*.	Muodosta lauseita mallin mukaan.
+цифра	Напишіть номер телефону *цифрами*.	Kirjoita puhelinnumero numeroin.
+словами	Напишіть числа *словами*.	Kirjoita luvut sanoin.
+абзац	Прочитайте перший *абзац* тексту.	Lue tekstin ensimmäinen kappale.
+репліка	Доповніть діалог *репліками*.	Täydennä dialogi repliikeillä.
+розповідь	Послухайте *розповідь* Олени про її квартиру.	Kuuntele Olenan kertomus hänen asunnostaan.
+відмінність	Яка *відмінність* між «стояти» і «лежати»?	Mikä ero on sanoilla «стояти» ja «лежати»?
+пункт	Дайте відповіді на запитання в *пункті* 2.	Vastaa kohdan 2 kysymyksiin.
+по-перше, по-друге, по-третє	Ця квартира мені подобається: *по-перше, вона світла, по-друге, тиха, по-третє*, недорога.	Pidän tästä asunnosta: ensinnäkin se on valoisa, toiseksi hiljainen, kolmanneksi edullinen.
+якщо потрібно	Змініть форму слів, *якщо потрібно*.	Muuta sanojen muotoa tarvittaessa.
+вступ	Прочитайте *вступ* до уроку.	Lue oppitunnin johdanto.
+розділ	У цьому *розділі* ми говоримо про готелі.	Tässä luvussa puhumme hotelleista.
+с.	Подивіться на таблицю на *с.* 45.	Katso taulukkoa sivulla 45.
+Впр.	*Впр.* 4. Прочитайте текст і дайте відповіді на запитання.	Harjoitus 4. Lue teksti ja vastaa kysymyksiin.
+додаток	Візьміть слова з *додатка* в кінці підручника.	Ota sanat kirjan lopussa olevasta liitteestä.
+граматичний довідник	Перевірте форми в *граматичному довіднику*.	Tarkista muodot kielioppioppaasta.
+аудіо	Послухайте *аудіо* 85 і виконайте завдання.	Kuuntele äänite 85 ja tee tehtävä.
+підсумок	Наприкінці уроку ми підбиваємо *підсумки*.	Tunnin lopussa teemme yhteenvedon.
+приспів	Заспіваймо *приспів* разом!	Lauletaan kertosäe yhdessä!
+Вчимо слова та слухаємо	Відкрийте розділ «*Вчимо слова та слухаємо*».	Avatkaa osio «Opimme sanoja ja kuuntelemme».
+Вчимо граматику	Сьогодні в розділі «*Вчимо граматику*» ми вивчаємо родовий відмінок.	Tänään osiossa «Opimme kielioppia» opiskelemme genetiiviä.
+Говоримо про Україну	У розділі «*Говоримо про Україну*» є текст про Київ.	Osiossa «Puhumme Ukrainasta» on teksti Kiovasta.
+Говоримо українською	Тепер переходимо до розділу «*Говоримо українською*».	Nyt siirrymme osioon «Puhumme ukrainaa».
+Пишемо українською	Завдання з розділу «*Пишемо українською*» зробіть удома.	Tehkää osion «Kirjoitamme ukrainaksi» tehtävä kotona.
+У цьому уроці:	*У цьому уроці:* готелі, бронювання номера, родовий відмінок.	Tällä oppitunnilla: hotellit, huoneen varaaminen, genetiivi.
+лексика	Повторіть *лексику* уроку вдома.	Kertaa oppitunnin sanasto kotona.
+граматика	Українська *граматика* не така вже й складна.	Ukrainan kielioppi ei ole niin vaikea.
+розмовна мова	Слово «ну» часто вживають у *розмовній мові*.	Sanaa «ну» käytetään usein puhekielessä.
+письмо	Сьогодні ми тренуємо *письмо*: пишемо оголошення.	Tänään harjoittelemme kirjoittamista: kirjoitamme ilmoituksen.
+дивись	Таблиця відмінків (*дивись* с. 243).	Sijamuototaulukko (katso s. 243).
+рід	Слово «ліжко» – середнього *роду*.	Sana «ліжко» on neutrisukuinen.
+закінчення	У родовому відмінку слово «мама» має *закінчення* -и.	Sanan «мама» genetiivin pääte on -и.
+іменник	Слово «стіл» – *іменник* чоловічого роду.	Sana «стіл» on maskuliininen substantiivi.
+прикметник	«Зелений» – це *прикметник*, він відповідає на питання «який?».	«Зелений» on adjektiivi, se vastaa kysymykseen «millainen?».
+дієслово	«Висіти» – *дієслово* другої дієвідміни.	«Висіти» on toisen konjugaation verbi.
+прийменник	«На» і «під» – це *прийменники* місця.	«На» ja «під» ovat paikan prepositioita.
+числівник	«Сім» – це *числівник*.	«Сім» on numeraali.
+однина	Слово «двері» не має *однини*.	Sanalla «двері» ei ole yksikköä.
+множина	Утворіть *множину* від слів «стіл» і «шафа».	Muodosta sanojen «стіл» ja «шафа» monikko.
+називний відмінок	У словнику слова подано в *називному відмінку*.	Sanakirjassa sanat annetaan nominatiivissa.
+родовий відмінок	Після слова «немає» вживаємо *родовий відмінок*.	Sanan «немає» jälkeen käytämme genetiiviä.
+давальний відмінок	Після «дякувати» вживаємо *давальний відмінок*: дякую мамі.	Verbin «дякувати» jälkeen käytämme datiivia: kiitän äitiä.
+знахідний відмінок	Прийменник «в» зі *знахідним відмінком* відповідає на питання «куди?».	Prepositio «в» akkusatiivin kanssa vastaa kysymykseen «mihin?».
+орудний відмінок	«З другом» – це *орудний відмінок*.	«З другом» on instrumentaali.
+місцевий відмінок	*Місцевий відмінок* завжди вживаємо з прийменником.	Lokatiivia käytetään aina preposition kanssa.
+кличний відмінок	Звертаючись до людини, вживаємо *кличний відмінок*: Олено!	Kun puhuttelemme ihmistä, käytämme vokatiivia: Olena!
+голосний (звук)	«А», «о», «у» – це *голосні* звуки.	«А», «о» ja «у» ovat vokaaleja.
+приголосний (звук)	У слові «стіл» три *приголосні* звуки.	Sanassa «стіл» on kolme konsonanttia.
+наголос	У слові «замок» *наголос* змінює значення.	Sanassa «замок» paino muuttaa merkityksen.
+апостроф	Слово «м'ясо» пишемо з *апострофом*.	Sana «м'ясо» kirjoitetaan heittomerkillä.
+алфавіт / абетка	В українському *алфавіті* 33 літери.	Ukrainan aakkosissa on 33 kirjainta.
+займенник	Замість іменника можна вжити *займенник*.	Substantiivin sijaan voi käyttää pronominia.
+особовий займенник	«Я», «ти», «він» – це *особові займенники*.	«Я», «ти» ja «він» ovat persoonapronomineja.
+присвійний займенник	*Присвійний займенник* «мій» узгоджується з іменником у роді.	Possessiivipronomini «мій» mukautuu substantiivin sukuun.
+неозначений займенник	«Хтось» і «щось» – *неозначені займенники*.	«Хтось» ja «щось» ovat indefiniittipronomineja.
+кількісний числівник	*Кількісні числівники* відповідають на питання «скільки?».	Perusluvut vastaavat kysymykseen «kuinka monta?».
+порядковий числівник	*Порядкові числівники* відповідають на питання «котрий?».	Järjestysluvut vastaavat kysymykseen «monesko?».
+прислівник	«Добре» і «швидко» – це *прислівники*.	«Добре» ja «швидко» ovat adverbeja.
+інфінітив	У словнику дієслова подано в *інфінітиві*.	Sanakirjassa verbit annetaan infinitiivissä.
+дієвідміна	Дієслово «говорити» належить до другої *дієвідміни*.	Verbi «говорити» kuuluu toiseen konjugaatioon.
+теперішній час	Поставте дієслова в *теперішньому часі*.	Laita verbit preesensiin.
+минулий час	У *минулому часі* дієслово змінюється за родами: був, була.	Menneessä aikamuodossa verbi taipuu suvun mukaan: був, була.
+майбутній час	«Я буду читати» – це *майбутній час*.	«Я буду читати» on futuuri.
+наказовий спосіб	«Читай!» і «Пишіть!» – форми *наказового способу*.	«Читай!» ja «Пишіть!» ovat imperatiivimuotoja.
+вид дієслова	*Вид дієслова* показує, чи дія закінчена.	Verbin aspekti näyttää, onko teko päättynyt.
+доконаний вид	«Зробити» – дієслово *доконаного виду*.	«Зробити» on perfektiivinen verbi.
+недоконаний вид	Дієслова *недоконаного виду* мають теперішній час.	Imperfektiivisillä verbeillä on preesens.
+дієслова руху	«Іти» і «їхати» – *дієслова руху*.	«Іти» ja «їхати» ovat liikeverbejä.
+ступінь порівняння	Утворіть *ступені порівняння* прикметника «гарний».	Muodosta adjektiivin «гарний» vertailuasteet.
+вищий ступінь	«Більший» – *вищий ступінь* прикметника «великий».	«Більший» on adjektiivin «великий» komparatiivi.
+найвищий ступінь	«Найкращий» – *найвищий ступінь* прикметника «добрий».	«Найкращий» on adjektiivin «добрий» superlatiivi.
+істота	У знахідному відмінку *істоти* мають форму родового: бачу брата.	Akkusatiivissa elollisilla on genetiivin muoto: näen veljen.
+неістота	У *неістот* чоловічого роду знахідний відмінок такий, як називний: бачу стіл.	Elottomilla maskuliineilla akkusatiivi on sama kuin nominatiivi: näen pöydän.
+чоловічий рід	Слово «диван» – *чоловічого роду*.	Sana «диван» on maskuliini.
+жіночий рід	Більшість слів на -а – *жіночого роду*.	Useimmat a-loppuiset sanat ovat feminiinejä.
+середній рід	Слова на -о і -е часто *середнього роду*: вікно, море.	O- ja e-loppuiset sanat ovat usein neutreja: вікно, море.
+ч. р.	Позначка *ч. р.* означає чоловічий рід.	Merkintä «ч. р.» tarkoittaa maskuliinia.
+ж. р.	Біля слова «шафа» в словнику стоїть позначка *ж. р.*	Sanan «шафа» kohdalla sanakirjassa on merkintä «ж. р.» (feminiini).
+с. р.	«Ліжко» – *с. р.*, тому кажемо «моє ліжко».	«Ліжко» on neutri, siksi sanomme «моє ліжко».
+одн.	Скорочення *одн.* означає «однина».	Lyhenne «одн.» tarkoittaa yksikköä.
+мн.	У словнику біля слова «двері» написано: *мн.*	Sanakirjassa sanan «двері» kohdalla lukee: mon.
+Н. в.	У таблиці *Н. в.* – це називний відмінок: хто? що?	Taulukossa «Н. в.» on nominatiivi: kuka? mikä?
+Р. в.	Після «немає» ставимо слово в *Р. в.*: немає часу.	Sanan «немає» jälkeen sana laitetaan genetiiviin: ei ole aikaa.
+Д. в.	«Мамі» – форма *Д. в.*: дякую мамі.	«Мамі» on datiivimuoto: kiitän äitiä.
+З. в.	У реченні «Я читаю книгу» слово «книгу» – це *З. в.*	Lauseessa «Я читаю книгу» sana «книгу» on akkusatiivi.
+О. в.	«Ручкою» в реченні «Пишу ручкою» – це *О. в.*	«Ручкою» lauseessa «Пишу ручкою» on instrumentaali.
+М. в.	«У кімнаті» – це *М. в.*	«У кімнаті» on lokatiivi.
+(I), (II)	У словнику позначки *(I), (II)* показують дієвідміну дієслова.	Sanastossa merkinnät (I), (II) osoittavat verbin konjugaation.
+відмінок	В українській мові сім *відмінків*.	Ukrainan kielessä on seitsemän sijamuotoa.
+зміна приголосних	«Рука – на руці»: тут є *зміна приголосних* к → ц.	«Рука – на руці»: tässä on konsonanttivaihtelu к → ц.
+форма та вживання	Сьогодні вивчаємо *форму та вживання* минулого часу.	Tänään opiskelemme menneen aikamuodon muodon ja käytön.
+утворення	*Утворення* майбутнього часу дуже просте: буду + інфінітив.	Futuurin muodostaminen on hyvin yksinkertaista: буду + infinitiivi.
+третя особа однини	«Він читає» – це *третя особа однини*.	«Він читає» on yksikön 3. persoona.
+суб'єкт	У реченні «Мама готує вечерю» *суб'єкт* – мама.	Lauseessa «Мама готує вечерю» subjekti on мама (äiti).
+я	*Я* живу в Тампере.	Asun Tampereella.
+не	Сьогодні я *не* працюю.	Tänään en ole töissä.
+ти	*Ти* вже був у Києві?	Oletko jo käynyt Kiovassa?
+в	Моя сестра живе *в* Києві.	Siskoni asuu Kiovassa.
+що	*Що* ти робиш увечері?	Mitä teet illalla?
+це	*Це* мій брат Олег.	Tämä on veljeni Oleg.
+так	Ти з Фінляндії? — *Так*, я з Тампере.	Oletko Suomesta? — Kyllä, olen Tampereelta.
+ми	Влітку *ми* їдемо до Києва.	Kesällä matkustamme Kiovaan.
+і	Брат *і* сестра живуть у Києві.	Veli ja sisko asuvat Kiovassa.
+ви	Звідки *ви* приїхали?	Mistä te olette tulleet?
+бути	Завтра я *буду* вдома.	Huomenna olen kotona.
+з	Мама п'є каву *з* молоком.	Äiti juo kahvia maidon kanssa.
+а	Я фін, *а* моя дружина українка.	Olen suomalainen, ja vaimoni on ukrainalainen.
+він	Це Петро, *він* мій сусід.	Tämä on Petro, hän on naapurini.
+вона	Де Оксана? — *Вона* на кухні.	Missä Oksana on? — Hän on keittiössä.
+воно	Це моє ліжко, *воно* дуже зручне.	Tämä on sänkyni, se on hyvin mukava.
+вони	Мої батьки живуть у Тампере, *вони* пенсіонери.	Vanhempani asuvat Tampereella, he ovat eläkeläisiä.
+знати	Ти *знаєш*, де вокзал?	Tiedätkö, missä rautatieasema on?
+як	*Як* справи? — Дякую, добре.	Mitä kuuluu? — Kiitos, hyvää.
+весь	*Весь* день ішов сніг.	Koko päivän satoi lunta.
+могти	Чи *можеш* ти мені допомогти?	Voitko auttaa minua?
+до	Завтра ми їдемо *до* Рованіємі.	Huomenna matkustamme Rovaniemelle.
+мій	*Мій* брат живе в Гельсінкі.	Veljeni asuu Helsingissä.
+твій	Де *твоя* сумка?	Missä sinun laukkusi on?
+ні	Ти голодний? — *Ні*, дякую.	Onko sinulla nälkä? — Ei, kiitos.
+але	Квартира маленька, *але* затишна.	Asunto on pieni mutta viihtyisä.
+сказати	*Скажіть*, будь ласка, де тут готель?	Voisitteko sanoa, missä täällä on hotelli?
+тут	Взимку *тут* дуже холодно.	Talvella täällä on todella kylmää.
+там	Моя бабуся живе *там*, біля річки.	Isoäitini asuu siellä, joen lähellä.
+для	Це подарунок *для* мами.	Tämä on lahja äidille.
+о	Урок починається *о* шостій.	Oppitunti alkaa kello kuudelta.
+один	У нашій квартирі тільки *одна* кімната.	Asunnossamme on vain yksi huone.
+два	У мене *два* брати.	Minulla on kaksi veljeä.
+ну	*Ну*, добре, ходімо!	No, hyvä on, mennään!
+про	Розкажи *про* свою квартиру.	Kerro asunnostasi.
+такий	Сьогодні *такий* гарний день!	Tänään on niin kaunis päivä!
+мати	Ми *маємо* невелику квартиру в центрі.	Meillä on pieni asunto keskustassa.
+цей	*Цей* готель дуже дорогий.	Tämä hotelli on hyvin kallis.
+той	Мені подобається *той* синій диван.	Pidän tuosta sinisestä sohvasta.
+думати	Що ти *думаєш* про цей готель?	Mitä mieltä olet tästä hotellista?
+же	Ти *же* знаєш, що я не п'ю кави.	Tiedäthän, etten juo kahvia.
+добре	Ти *добре* говориш українською.	Puhut ukrainaa hyvin.
+свій	Олена дуже любить *свою* квартиру.	Olena rakastaa asuntoaan.
+наш	*Наш* будинок стоїть біля озера.	Talomme on järven rannalla.
+ваш	Це *ваш* номер, ось ключ.	Tämä on teidän huoneenne, tässä avain.
+себе	Розкажіть трохи про *себе*.	Kertokaa vähän itsestänne.
+їхній	*Їхня* квартира на третьому поверсі.	Heidän asuntonsa on kolmannessa kerroksessa.
+та	Мама купила хліб *та* молоко.	Äiti osti leipää ja maitoa.
+щоб	Я вчу українську, *щоб* говорити з друзями.	Opiskelen ukrainaa, jotta voisin puhua ystävieni kanssa.
+хто	*Хто* це на фотографії?	Kuka tämä on valokuvassa?
+де	*Де* лежать мої ключі?	Missä avaimeni ovat?
+куди	*Куди* ти йдеш?	Mihin olet menossa?
+коли	*Коли* ти приїдеш до Тампере?	Milloin tulet Tampereelle?
+який	*Який* у тебе улюблений колір?	Mikä on lempivärisi?
+скільки	*Скільки* коштує номер у готелі?	Paljonko hotellihuone maksaa?
+по	Ми довго гуляли *по* місту.	Kävelimme pitkään ympäri kaupunkia.
+давати	Вчителька щотижня *дає* нам домашнє завдання.	Opettaja antaa meille joka viikko kotitehtävän.
+дати	*Дайте*, будь ласка, меню.	Saisinko ruokalistan, kiitos.
+б	Я *б* хотів жити біля моря.	Haluaisin asua meren lähellä.
+робити	Що ти *робиш* у суботу?	Mitä teet lauantaina?
+бачити	З вікна ми *бачимо* озеро.	Ikkunasta näemme järven.
+день	Сьогодні гарний сонячний *день*.	Tänään on kaunis aurinkoinen päivä.
+чи	*Чи* є в номері душ?	Onko huoneessa suihku?
+час	У мене немає *часу*.	Minulla ei ole aikaa.
+дуже	Ця кімната *дуже* світла.	Tämä huone on hyvin valoisa.
+від	Вчора я отримав лист *від* брата.	Eilen sain kirjeen veljeltä.
+раз	Два *рази* на тиждень я ходжу в басейн.	Käyn uimahallissa kaksi kertaa viikossa.
+треба	Мені *треба* купити хліб.	Minun täytyy ostaa leipää.
+щось	Хочеш *щось* випити?	Haluatko jotain juotavaa?
+ніщо	Мене *ніщо* не турбує.	Mikään ei vaivaa minua.
+іти	Зараз я *іду* до магазину.	Menen nyt kauppaan.
+піти	Завтра ми *підемо* в кіно.	Huomenna menemme elokuviin.
+ходити	Діти *ходять* до школи пішки.	Lapset kulkevat kouluun kävellen.
+їхати	Ми *їдемо* в Тампере поїздом.	Matkustamme Tampereelle junalla.
+поїхати	Влітку Марко *поїде* до Києва.	Kesällä Marko matkustaa Kiovaan.
+гаразд	*Гаразд*, зустрінемося о шостій.	Hyvä on, tavataan kuudelta.
+казати	Мама завжди *каже* правду.	Äiti puhuu aina totta.
+мама	Моя *мама* живе в Тампере.	Äitini asuu Tampereella.
+тато	*Тато* готує вечерю на кухні.	Isä laittaa illallista keittiössä.
+тільки	У мене є *тільки* п'ять євро.	Minulla on vain viisi euroa.
+дякувати	Ми *дякуємо* вчительці за урок.	Kiitämme opettajaa tunnista.
+спасибі	*Спасибі* за смачну вечерю!	Kiitos herkullisesta illallisesta!
+будь ласка	Дайте мені каву, *будь ласка*.	Saisinko kahvin, kiitos.
+привіт	*Привіт*, Олено, як справи?	Moi, Olena, mitä kuuluu?
+просто	Я *просто* хочу трохи відпочити.	Haluan vain levätä vähän.
+більше	Я *більше* не п'ю каву ввечері.	En juo enää kahvia iltaisin.
+через	Автобус прийде *через* десять хвилин.	Bussi tulee kymmenen minuutin päästä.
+людина	Він дуже добра *людина*.	Hän on hyvin ystävällinen ihminen.
+без	Я п'ю каву *без* цукру.	Juon kahvin ilman sokeria.
+життя	*Життя* у Фінляндії дуже спокійне.	Elämä Suomessa on hyvin rauhallista.
+тоді	Якщо буде сонячно, *тоді* підемо гуляти.	Jos on aurinkoista, silloin lähdemme kävelylle.
+одразу	Після роботи я *одразу* йду додому.	Töiden jälkeen menen heti kotiin.
+щойно	Поїзд з Гельсінкі *щойно* приїхав.	Helsingin juna saapui juuri äsken.
+любити	Я дуже *люблю* українську кухню.	Pidän kovasti ukrainalaisesta keittiöstä.
+взяти	Можна *взяти* цей стілець?	Saanko ottaa tämän tuolin?
+брати	Я завжди *беру* парасольку на роботу.	Otan aina sateenvarjon mukaan töihin.
+повинен	Завтра я *повинен* рано встати.	Huomenna minun täytyy herätä aikaisin.
+просити	Мама *просить* мене купити хліб.	Äiti pyytää minua ostamaan leipää.
+самий	Ми живемо в тому *самому* будинку.	Asumme samassa talossa.
+справа	У мене до тебе важлива *справа*.	Minulla on sinulle tärkeä asia.
+розуміти	Я трохи *розумію* українську мову.	Ymmärrän vähän ukrainaa.
+теж	Моя сестра *теж* живе в Тампере.	Siskonikin asuu Tampereella.
+також	У квартирі є балкон, а *також* сауна.	Asunnossa on parveke ja lisäksi sauna.
+рука	У мене болить *рука*.	Kättäni särkee.
+рік	Я вивчаю українську вже два *роки*.	Olen opiskellut ukrainaa jo kaksi vuotta.
+допомогти	Можеш *допомогти* мені на кухні?	Voitko auttaa minua keittiössä?
+або	Хочеш чай *або* каву?	Haluatko teetä vai kahvia?
+хлопець	Її *хлопець* живе в Гельсінкі.	Hänen poikaystävänsä asuu Helsingissä.
+вибачити	*Вибачте*, де тут вокзал?	Anteeksi, missä täällä on rautatieasema?
+великий	У нас *великий* будинок біля озера.	Meillä on iso talo järven lähellä.
+маленький	У кімнаті стоїть *маленький* стіл.	Huoneessa on pieni pöytä.
+ніхто	*Ніхто* не знає, де ключі.	Kukaan ei tiedä, missä avaimet ovat.
+ніколи	Я *ніколи* не був в Одесі.	En ole koskaan käynyt Odessassa.
+багато	У Фінляндії *багато* озер.	Suomessa on paljon järviä.
+мало	У мене сьогодні *мало* часу.	Minulla on tänään vähän aikaa.
+повернутися	Тато *повернеться* додому о сьомій.	Isä palaa kotiin seitsemältä.
+прийти	Коли ти *прийдеш* до нас у гості?	Milloin tulet meille kylään?
+увійти	Вибачте, можна *увійти*?	Anteeksi, saako tulla sisään?
+місце	Це *місце* вільне?	Onko tämä paikka vapaa?
+туди	Ми теж хочемо поїхати *туди* влітку.	Mekin haluamme matkustaa sinne kesällä.
+дивитися	Діти *дивляться* у вікно на сніг.	Lapset katsovat ikkunasta lunta.
+подивитися	*Подивіться* на цю фотографію!	Katsokaa tätä valokuvaa!
+працювати	Моя сестра *працює* в лікарні.	Siskoni työskentelee sairaalassa.
+робота	Після *роботи* я йду в спортзал.	Töiden jälkeen menen kuntosalille.
+брат	Мій *брат* живе в Турку.	Veljeni asuu Turussa.
+сестра	У мене є старша *сестра*.	Minulla on isosisko.
+краще	Сьогодні я почуваюся *краще*.	Tänään voin paremmin.
+поговорити	Нам треба *поговорити* про квартиру.	Meidän pitää jutella asunnosta.
+слово	Я не знаю цього *слова*.	En tunne tätä sanaa.
+чоловік	Мій *чоловік* працює в Тампере.	Mieheni työskentelee Tampereella.
+жінка	Ця *жінка* — наша сусідка.	Tämä nainen on naapurimme.
+почекати	*Почекайте* хвилинку, будь ласка.	Odottakaa hetki, olkaa hyvä.
+зачекати	*Зачекай*, я зараз прийду!	Odota, tulen ihan kohta!
+дитина	Наша *дитина* ходить у садочок.	Lapsemme käy päiväkotia.
+батько	Мій *батько* родом з Києва.	Isäni on kotoisin Kiovasta.
+син	Наш *син* навчається в Гельсінкі.	Poikamme opiskelee Helsingissä.
+дочка	Їхня *дочка* любить малювати.	Heidän tyttärensä pitää piirtämisestä.
+назад	Покладіть книгу *назад* на полицю.	Laittakaa kirja takaisin hyllyyn.
+якось	*Якось* узимку ми поїхали в Лапландію.	Kerran talvella matkustimme Lappiin.
+весело	На святі було дуже *весело*.	Juhlissa oli tosi hauskaa.
+смішно	Мені було дуже *смішно*.	Minua nauratti kovasti.
+можна	*Можна* відкрити вікно?	Saako ikkunan avata?
+порядок	У моїй кімнаті завжди *порядок*.	Huoneessani on aina järjestys.
+саме	Це *саме* те, що мені треба.	Tämä on juuri sitä, mitä tarvitsen.
+якийсь	Тебе шукав *якийсь* чоловік.	Sinua etsi joku mies.
+лікар	Мені треба до *лікаря*.	Minun täytyy mennä lääkäriin.
+після	*Після* уроку ми п'ємо каву.	Tunnin jälkeen juomme kahvia.
+жити	Ми *живемо* в Тампере вже п'ять років.	Olemme asuneet Tampereella jo viisi vuotta.
+статися	Що *сталося* з твоїм телефоном?	Mitä puhelimellesi tapahtui?
+мусити	Вибач, я *мушу* йти.	Anteeksi, minun täytyy lähteä.
+пам'ятати	Ти *пам'ятаєш* мій номер телефону?	Muistatko puhelinnumeroni?
+вийти	Ми *вийшли* з дому о восьмій.	Lähdimme kotoa kahdeksalta.
+прямо	Ідіть *прямо*, потім ліворуч.	Menkää suoraan, sitten vasemmalle.
+показати	Можете *показати* мені номер?	Voitteko näyttää minulle huoneen?
+чудово	Ти *чудово* говориш українською!	Puhut ukrainaa loistavasti!
+хороший	Це дуже *хороший* готель.	Tämä on todella hyvä hotelli.
+поганий	Сьогодні *погана* погода.	Tänään on huono sää.
+новий	Ми купили *новий* диван.	Ostimme uuden sohvan.
+старий	У бабусі *старий* дерев'яний будинок.	Isoäidillä on vanha puutalo.
+подобатися	Мені дуже *подобається* Тампере.	Pidän kovasti Tampereesta.
+поки	*Поки* мама готує, я накриваю на стіл.	Sillä aikaa kun äiti laittaa ruokaa, minä kattan pöydän.
+залишити	Я *залишив* ключі на столі.	Jätin avaimet pöydälle.
+залишитися	Сьогодні я *залишуся* вдома.	Tänään jään kotiin.
+смерть	Після *смерті* діда бабуся живе сама.	Isoisän kuoleman jälkeen isoäiti asuu yksin.
+голова	У мене болить *голова*.	Päätäni särkee.
+другий	Наша квартира на *другому* поверсі.	Asuntomme on toisessa kerroksessa.
+нога	Він зламав *ногу* на лижах.	Hän mursi jalkansa hiihtäessä.
+око	У неї блакитні *очі*.	Hänellä on siniset silmät.
+додому	Увечері ми повертаємося *додому*.	Illalla palaamme kotiin.
+дім	Наш *дім* стоїть біля лісу.	Talomme on metsän vieressä.
+будинок	Ми живемо в старому *будинку* в центрі.	Asumme vanhassa talossa keskustassa.
+почати	Ми *почали* вивчати українську восени.	Aloitimme ukrainan opiskelun syksyllä.
+перший	Це мій *перший* раз у Львові.	Tämä on ensimmäinen kertani Lvivissä.
+досить	У нас *досить* часу.	Meillä on tarpeeksi aikaa.
+здаватися	Мені *здається*, що завтра буде дощ.	Minusta tuntuu, että huomenna sataa.
+місто	Тампере — гарне *місто*.	Tampere on kaunis kaupunki.
+тримати	Дитина *тримає* маму за руку.	Lapsi pitää äitiä kädestä.
+якби	*Якби* в мене був час, я б подорожував.	Jos minulla olisi aikaa, matkustaisin.
+намагатися	Я *намагаюся* говорити тільки українською.	Yritän puhua vain ukrainaa.
+дозволити	Мама *дозволила* дітям дивитися телевізор.	Äiti antoi lasten katsoa televisiota.
+номер	Ми забронювали *номер* у готелі.	Varasimme huoneen hotellista.
+ясно	*Ясно*, дякую за пояснення.	Selvä, kiitos selityksestä.
+принести	*Принесіть*, будь ласка, меню.	Tuokaa ruokalista, kiitos.
+кілька	Я був у Києві *кілька* разів.	Olen käynyt Kiovassa muutaman kerran.
+забути	Я *забув* телефон удома.	Unohdin puhelimen kotiin.
+гроші	У мене немає *грошей*.	Minulla ei ole rahaa.
+дорога	*Дорога* з Тампере до Рованіємі довга.	Matka Tampereelta Rovaniemelle on pitkä.
+навіщо	*Навіщо* тобі стільки речей?	Mitä varten tarvitset noin paljon tavaroita?
+земля	Узимку *земля* вкрита снігом.	Talvella maa on lumen peitossa.
+ніч	*Ніч* у Лапландії дуже довга.	Yö Lapissa on hyvin pitkä.
+ранок	Кожного *ранку* я п'ю каву.	Joka aamu juon kahvia.
+забрати	Я *заберу* дітей зі школи.	Haen lapset koulusta.
+місяць	Ми орендуємо квартиру вже три *місяці*.	Olemme vuokranneet asuntoa jo kolme kuukautta.
+проти	Я не маю нічого *проти* собак.	Minulla ei ole mitään koiria vastaan.
+нормально	У мене все *нормально*, дякую.	Minulla menee ihan hyvin, kiitos.
+спати	Діти вже *сплять* у спальні.	Lapset nukkuvat jo makuuhuoneessa.
+вірити	Я *вірю* тобі, ти кажеш правду.	Uskon sinua, puhut totta.
+вважати	Я *вважаю* його своїм другом.	Pidän häntä ystävänäni.
+отже	*Отже*, зустрічаємося завтра о десятій.	Siis tapaamme huomenna kymmeneltä.
+швидко	Час минає дуже *швидко*.	Aika kuluu todella nopeasti.
+шкода	*Шкода*, що ти не можеш прийти.	Harmi, että et pääse tulemaan.
+школа	Діти зараз у *школі*.	Lapset ovat nyt koulussa.
+кінець	У *кінці* вулиці є кафе.	Kadun päässä on kahvila.
+живий	Дід ще *живий*, йому дев'яносто років.	Isoisä on vielä elossa, hän on 90-vuotias.
+телефон	Мій *телефон* лежить на столі.	Puhelimeni on pöydällä.
+спробувати	*Спробуйте* наш борщ!	Maistakaa meidän borssiamme!
+хіба	*Хіба* ти не знаєш, де він живе?	Etkö muka tiedä, missä hän asuu?
+написати	Я *напишу* тобі ввечері.	Kirjoitan sinulle illalla.
+писати	На уроці ми *пишемо* диктант.	Tunnilla kirjoitamme sanelun.
+читати	Ввечері тато *читає* дітям казку.	Illalla isä lukee lapsille satua.
+правильно	Ти *правильно* відповів.	Vastasit oikein.
+давно	Ми *давно* не бачилися!	Emme ole nähneet pitkään aikaan!
+зовсім	Я *зовсім* не втомився.	En ole ollenkaan väsynyt.
+при	*При* готелі є ресторан і сауна.	Hotellin yhteydessä on ravintola ja sauna.
+вперед	Ідіть *вперед* до кінця вулиці.	Menkää eteenpäin kadun päähän asti.
+пити	Що ви будете *пити*?	Mitä haluatte juoda?
+дещо	Я хочу тобі *дещо* сказати.	Haluan kertoa sinulle jotakin.
+грати	Діти *грають* у футбол у дворі.	Lapset pelaavat jalkapalloa pihalla.
+далі	А що було *далі* в цій історії?	Mitä tarinassa sitten tapahtui?
+сила	У мене немає *сили* йти в магазин.	Minulla ei ole voimia lähteä kauppaan.
+дійсно	Це *дійсно* гарне місто.	Tämä on todella kaunis kaupunki.
+померти	Його дід *помер* минулого року.	Hänen isoisänsä kuoli viime vuonna.
+звідки	*Звідки* ти приїхав до Тампере?	Mistä tulit Tampereelle?
+нехай	*Нехай* діти ще трохи погуляють.	Antaa lasten ulkoilla vielä vähän.
+момент	Зачекайте один *момент*, будь ласка.	Odottakaa hetki, olkaa hyvä.
+книга	На полиці стоїть цікава *книга*.	Hyllyssä on kiinnostava kirja.
+до речі	*До речі*, ти вже бачив нову квартиру?	Muuten, oletko jo nähnyt uuden asunnon?
+єдиний	Неділя — наш *єдиний* вихідний.	Sunnuntai on ainoa vapaapäivämme.
+взагалі	Я *взагалі* не п'ю каву.	En juo kahvia lainkaan.
+трапитися	Що *трапилося* в готелі?	Mitä hotellissa tapahtui?
+відбуватися	Що тут *відбувається*?	Mitä täällä tapahtuu?
+з'явитися	На небі *з'явилося* сонце.	Taivaalle ilmestyi aurinko.
+зникнути	Мої ключі кудись *зникли*.	Avaimeni katosivat jonnekin.
+сподіватися	Я *сподіваюся* на гарну погоду.	Toivon hyvää säätä.
+уявити	*Уяви*, ми вже в Рованіємі!	Kuvittele, olemme jo Rovaniemellä!
+залежати	Усе *залежить* від погоди.	Kaikki riippuu säästä.
+вистачати	Мені не *вистачає* часу.	Minulla ei riitä aikaa.
+існувати	Діти вірять, що Санта-Клаус *існує*.	Lapset uskovat, että joulupukki on olemassa.
+хоч	Телефонуй мені *хоч* раз на тиждень.	Soita minulle edes kerran viikossa.
+хоча	*Хоча* йшов дощ, ми пішли гуляти.	Vaikka satoi, lähdimme kävelylle.
+серце	У бабусі хворе *серце*.	Isoäidillä on sairas sydän.
+означати	Що *означає* це слово?	Mitä tämä sana tarkoittaa?
+майже	Ми вже *майже* вдома.	Olemme jo melkein kotona.
+приїхати	Бабуся *приїхала* до Тампере в суботу.	Isoäiti saapui Tampereelle lauantaina.
+шлях	Ми знайшли найкоротший *шлях* до готелю.	Löysimme lyhimmän reitin hotellille.
+раніше	Сьогодні я встав *раніше*, ніж зазвичай.	Tänään nousin aikaisemmin kuin tavallisesti.
+секунда	Зачекайте одну *секунду*, будь ласка.	Odottakaa sekunti, olkaa hyvä.
+розповісти	Марія *розповіла* нам про свою подорож до Лапландії.	Maria kertoi meille matkastaan Lappiin.
+пан	Добрий день, *пане* Андрію!	Hyvää päivää, herra Andri!
+пані	*Пані* Олена працює в нашому готелі.	Rouva Olena työskentelee hotellissamme.
+ідея	Поїхати до Рованіємі – чудова *ідея*!	Matka Rovaniemelle on loistava idea!
+думка	На мою *думку*, ця квартира занадто дорога.	Minun mielestäni tämä asunto on liian kallis.
+варто	Тобі *варто* відвідати Львів.	Sinun kannattaa käydä Lvivissä.
+ніякий	У мене немає *ніяких* проблем.	Minulla ei ole minkäänlaisia ongelmia.
+попросити	Я *попрошу* адміністратора принести рушник.	Pyydän vastaanottovirkailijaa tuomaan pyyhkeen.
+ніде	Ніяк не знайду ключі – їх *ніде* немає.	En millään löydä avaimia – niitä ei ole missään.
+втратити	Вчора Олег *втратив* телефон в автобусі.	Eilen Oleh hukkasi puhelimensa bussissa.
+найкращий	Це *найкращий* готель у Тампере.	Tämä on Tampereen paras hotelli.
+кращий	Цей номер *кращий*, ніж той.	Tämä huone on parempi kuin tuo.
+випадок	У такому *випадку* ми візьмемо таксі.	Siinä tapauksessa otamme taksin.
+досі	Він *досі* живе з батьками.	Hän asuu vieläkin vanhempiensa kanssa.
+деякий	*Деякі* студенти вже добре говорять українською.	Jotkut opiskelijat puhuvat jo hyvin ukrainaa.
+заплатити	Треба *заплатити* за квартиру до п'ятниці.	Asunnon vuokra pitää maksaa perjantaihin mennessä.
+платити	Скільки ви *платите* за електрику?	Paljonko maksatte sähköstä?
+занадто	Цей чай *занадто* гарячий.	Tämä tee on liian kuumaa.
+довго	Ми *довго* чекали на автобус.	Odotimme bussia pitkään.
+кров	У хлопчика з носа йде *кров*.	Pojan nenästä tulee verta.
+називатися	Як *називається* ця вулиця?	Mikä tämän kadun nimi on?
+тема	*Тема* нашого уроку – готелі.	Tuntimme aihe on hotellit.
+звати	Мене *звати* Марко.	Nimeni on Marko.
+щодо	У мене є питання *щодо* оренди квартири.	Minulla on kysymys asunnon vuokraamisesta.
+заходити	Після роботи я часто *заходжу* в цю кав'ярню.	Töiden jälkeen poikkean usein tähän kahvilaan.
+зайти	Ввечері ми *зайдемо* до бабусі.	Illalla poikkeamme mummon luona.
+дорогий	Ця квартира дуже *дорога*.	Tämä asunto on hyvin kallis.
+дешевий	Ми знайшли *дешевий* готель біля вокзалу.	Löysimme halvan hotellin rautatieaseman läheltä.
+далеко	Готель *далеко* від центру міста.	Hotelli on kaukana kaupungin keskustasta.
+близько	Наш будинок *близько* від озера.	Talomme on lähellä järveä.
+бік	Аптека на іншому *боці* вулиці.	Apteekki on kadun toisella puolella.
+важко	Мені ще *важко* говорити українською.	Minun on vielä vaikea puhua ukrainaa.
+легко	Наш будинок *легко* знайти.	Talomme löytää helposti.
+починати	Ми *починаємо* урок о шостій.	Aloitamme tunnin kuudelta.
+закінчити	Я вже *закінчив* домашнє завдання.	Sain jo kotitehtävän valmiiksi.
+спитати	*Спитай* адміністратора, де ліфт.	Kysy vastaanottovirkailijalta, missä hissi on.
+питати	Діти *питають* маму про Святого Миколая.	Lapset kysyvät äidiltä Pyhästä Nikolauksesta.
+запитати	Можна вас *запитати*, котра година?	Saanko kysyä, paljonko kello on?
+відповідати	Учні *відповідають* на запитання вчителя.	Oppilaat vastaavat opettajan kysymyksiin.
+відповісти	Він досі не *відповів* на мій лист.	Hän ei ole vieläkään vastannut kirjeeseeni.
+подзвонити	Не забудь *подзвонити* бабусі!	Älä unohda soittaa mummolle!
+дзвонити	Тато *дзвонить* мені щонеділі.	Isä soittaa minulle joka sunnuntai.
+телефонувати	Не *телефонуй* мені так пізно!	Älä soita minulle näin myöhään!
+хлопчик	Маленький *хлопчик* грається у дворі.	Pieni poika leikkii pihalla.
+дівчинка	*Дівчинка* пише листа Санта-Клаусу.	Tyttö kirjoittaa kirjettä Joulupukille.
+почути	Ти вже *почув* новину?	Kuulitko jo uutisen?
+погано	Мені *погано*, я залишуся вдома.	Voin huonosti, jään kotiin.
+жодний	У готелі не було *жодного* вільного номера.	Hotellissa ei ollut yhtään vapaata huonetta.
+бігти	Хлопчик *біжить* до автобуса.	Poika juoksee bussille.
+серйозно	Ти *серйозно* хочеш переїхати до Києва?	Haluatko oikeasti muuttaa Kiovaan?
+напевно	Завтра *напевно* буде дощ.	Huomenna varmaankin sataa.
+молодий	Моя сестра ще дуже *молода*.	Siskoni on vielä hyvin nuori.
+продовжувати	Ми *продовжуємо* вивчати українську мову.	Jatkamme ukrainan kielen opiskelua.
+собака	Наш *собака* любить гуляти в лісі.	Koiramme tykkää ulkoilla metsässä.
+кіт	*Кіт* спить на дивані.	Kissa nukkuu sohvalla.
+тіло	Після сауни все *тіло* розслаблене.	Saunan jälkeen koko keho on rentoutunut.
+закрити	*Закрий*, будь ласка, вікно.	Sulje ikkuna, ole hyvä.
+отримувати	Діти *отримують* подарунки від Святого Миколая.	Lapset saavat lahjoja Pyhältä Nikolaukselta.
+здоровий	Дідусь уже зовсім *здоровий*.	Isoisä on jo täysin terve.
+хворий	Сьогодні Оля *хвора* і не прийде на урок.	Olja on tänään sairas eikä tule tunnille.
+хвилюватися	Не *хвилюйся*, все буде добре!	Älä huoli, kaikki järjestyy!
+тихо	Говоріть *тихо*, дитина спить.	Puhukaa hiljaa, lapsi nukkuu.
+звісно	*Звісно*, я тобі допоможу.	Tietysti autan sinua.
+кохати	Він дуже *кохає* свою дружину.	Hän rakastaa vaimoaan kovasti.
+кохання	Це фільм про перше *кохання*.	Tämä on elokuva ensirakkaudesta.
+цілувати	Бабуся *цілує* онуків у щоку.	Isoäiti suukottaa lapsenlapsiaan poskelle.
+посміхатися	Дівчинка *посміхається* мамі.	Tyttö hymyilee äidilleen.
+любов	Мама робить усе з *любов'ю*.	Äiti tekee kaiken rakkaudella.
+вулиця	Діти граються на *вулиці*.	Lapset leikkivät ulkona.
+голос	У неї дуже гарний *голос*.	Hänellä on hyvin kaunis ääni.
+шанс	Це наш останній *шанс*.	Tämä on viimeinen mahdollisuutemme.
+родина	Моя *родина* живе в Тампере.	Perheeni asuu Tampereella.
+сісти	Гість *сів* на диван біля вікна.	Vieras istuutui sohvalle ikkunan viereen.
+причина	Яка *причина* вашого переїзду?	Mikä on syy muuttoonne?
+перевірити	Учителька *перевірить* наше домашнє завдання.	Opettaja tarkistaa kotitehtävämme.
+стільки	У тебе *стільки* книжок!	Sinulla on niin paljon kirjoja!
+нарешті	*Нарешті* ми вдома!	Vihdoinkin olemme kotona!
+вечеря	*Вечеря* буде о сьомій.	Illallinen on seitsemältä.
+повірити	Не можу *повірити* своїм очам!	En voi uskoa silmiäni!
+тож	Іде дощ, *тож* ми залишимося вдома.	Sataa, joten jäämme kotiin.
+впевнений	Ти *впевнений* у цьому?	Oletko varma siitä?
+пройти	Зима *пройшла* дуже швидко.	Talvi meni ohi hyvin nopeasti.
+новина	У мене є гарна *новина*!	Minulla on hyvä uutinen!
+рідко	Ми *рідко* їздимо до Гельсінкі.	Matkustamme harvoin Helsinkiin.
+обличчя	У дитини веселе *обличчя*.	Lapsella on iloiset kasvot.
+зустріч	О третій у мене *зустріч* з орендодавцем.	Kolmelta minulla on tapaaminen vuokranantajan kanssa.
+зустрітися	Завтра ми *зустрінемося* з друзями в кав'ярні.	Huomenna tapaamme ystäviä kahvilassa.
+історія	Мій брат цікавиться *історією* України.	Veljeäni kiinnostaa Ukrainan historia.
+познайомитися	Учора ми *познайомилися* з новими сусідами.	Eilen tutustuimme uusiin naapureihin.
+погодитися	Орендодавець *погодився* на нашу пропозицію.	Vuokranantaja suostui ehdotukseemme.
+прийняти	Після сауни Петро *прийняв* холодний душ.	Saunan jälkeen Petro otti kylmän suihkun.
+продати	Сусіди хочуть *продати* свою квартиру.	Naapurit haluavat myydä asuntonsa.
+цікаво	Мені *цікаво*, як живуть люди в Україні.	Minua kiinnostaa, miten ihmiset elävät Ukrainassa.
+половина	*Половина* групи вже була в Києві.	Puolet ryhmästä on jo käynyt Kiovassa.
+музика	Моя донька любить класичну *музику*.	Tyttäreni rakastaa klassista musiikkia.
+чай	Хочеш чашку *чаю*?	Haluatko kupin teetä?
+пробачити	*Пробачте*, де тут зупинка автобуса?	Anteeksi, missä täällä on bussipysäkki?
+кава	Вранці я завжди п'ю *каву*.	Aamulla juon aina kahvia.
+допомога	Дякую за *допомогу*!	Kiitos avusta!
+минулий	*Минулого* тижня ми були в Рованіємі.	Viime viikolla olimme Rovaniemellä.
+спосіб	Це найкращий *спосіб* вивчити мову.	Tämä on paras tapa oppia kieli.
+спокійно	Дитина *спокійно* спить у своєму ліжку.	Lapsi nukkuu rauhallisesti sängyssään.
+довестися	Нам *довелося* чекати на таксі пів години.	Jouduimme odottamaan taksia puoli tuntia.
+ставати	Взимку дні *стають* коротшими.	Talvella päivät muuttuvat lyhyemmiksi.
+старший	Мій *старший* брат живе в Гельсінкі.	Isoveljeni asuu Helsingissä.
+віддати	*Віддай* мені, будь ласка, мою книжку.	Anna minulle kirjani takaisin, ole hyvä.
+море	Влітку ми їздимо на *море*.	Kesällä matkustamme meren rannalle.
+крім	Усі, *крім* Марка, прийшли на урок.	Kaikki paitsi Marko tulivat tunnille.
+менше	Тепер я працюю *менше*, ніж раніше.	Nykyään teen töitä vähemmän kuin ennen.
+сонце	Сьогодні світить *сонце*.	Tänään aurinko paistaa.
+розмова	У нас була цікава *розмова*.	Meillä oli mielenkiintoinen keskustelu.
+важливо	Дуже *важливо* вчити слова щодня.	On hyvin tärkeää opetella sanoja joka päivä.
+важливий	Завтра в мене *важлива* зустріч.	Huomenna minulla on tärkeä tapaaminen.
+готовий	Ти *готовий* до подорожі?	Oletko valmis matkaan?
+стати	Мій син хоче *стати* лікарем.	Poikani haluaa lääkäriksi.
+колись	*Колись* я хочу побачити Карпати.	Joskus haluan nähdä Karpaatit.
+гра	Діти дуже люблять цю *гру*.	Lapset pitävät tästä pelistä kovasti.
+мова	Українська *мова* дуже красива.	Ukrainan kieli on hyvin kaunis.
+пізно	Вже *пізно*, пора спати.	On jo myöhä, on aika mennä nukkumaan.
+поліція	Треба викликати *поліцію*!	Pitää soittaa poliisi!
+рано	Взимку у Фінляндії *рано* темніє.	Talvella Suomessa pimenee aikaisin.
+вранці	*Вранці* ми снідаємо на кухні.	Aamulla syömme aamiaisen keittiössä.
+нуль	Сьогодні температура нижче *нуля*.	Tänään lämpötila on nollan alapuolella.
+команда	Наша *команда* виграла матч.	Joukkueemme voitti ottelun.
+чотири	У квартирі *чотири* кімнати.	Asunnossa on neljä huonetta.
+п'ять	Мій брат живе в Тампере вже *п'ять* років.	Veljeni on asunut Tampereella jo viisi vuotta.
+шість	У нашій групі *шість* студентів.	Ryhmässämme on kuusi opiskelijaa.
+перестати	Дідусь *перестав* курити.	Isoisä lopetti tupakoinnin.
+сім	У тижні *сім* днів.	Viikossa on seitsemän päivää.
+вісім	Діти сплять *вісім* годин.	Lapset nukkuvat kahdeksan tuntia.
+дев'ять	У готелі *дев'ять* поверхів.	Hotellissa on yhdeksän kerrosta.
+десять	Квиток коштує *десять* євро.	Lippu maksaa kymmenen euroa.
+переживати	Мама завжди *переживає* за мене.	Äiti on aina huolissaan minusta.
+мільйон	У Києві живе майже три *мільйони* людей.	Kiovassa asuu lähes kolme miljoonaa ihmistä.
+провести	Ми *провели* вихідні на дачі.	Vietimme viikonlopun kesämökillä.
+повернути	Ключі треба *повернути* господарю до п'ятниці.	Avaimet pitää palauttaa vuokranantajalle perjantaihin mennessä.
+бабуся	Моя *бабуся* пече смачний хліб.	Isoäitini leipoo herkullista leipää.
+дідусь	*Дідусь* читає газету у вітальні.	Isoisä lukee lehteä olohuoneessa.
+сильно	Я *сильно* сумую за родиною.	Kaipaan perhettäni kovasti.
+хліб	На столі лежить свіжий *хліб*.	Pöydällä on tuoretta leipää.
+молоко	*Молоко* стоїть у холодильнику.	Maito on jääkaapissa.
+холодно	Мені *холодно*, закрий вікно.	Minulla on kylmä, sulje ikkuna.
+дістати	Він *дістав* ключі з кишені.	Hän otti avaimet esiin taskustaan.
+жарко	Влітку в квартирі дуже *жарко*.	Kesällä asunnossa on hyvin kuuma.
+дощ	Сьогодні цілий день іде *дощ*.	Tänään sataa koko päivän.
+автобус	На роботу я їжджу *автобусом*.	Kuljen töihin bussilla.
+поїзд	*Поїзд* до Гельсінкі відходить о восьмій.	Juna Helsinkiin lähtee kahdeksalta.
+таксі	Ми поїхали до готелю на *таксі*.	Menimme hotellille taksilla.
+метро	У Гельсінкі є *метро*.	Helsingissä on metro.
+коштувати	Скільки *коштує* номер на одну ніч?	Paljonko huone maksaa yhdeltä yöltä?
+ціна	Яка *ціна* цього номера?	Mikä on tämän huoneen hinta?
+їздити	Влітку ми часто *їздимо* на дачу.	Kesällä käymme usein kesämökillä.
+вчити	Щовечора я *вчу* нові слова.	Joka ilta opettelen uusia sanoja.
+урок	*Урок* української починається о шостій.	Ukrainan tunti alkaa kuudelta.
+університет	Моя донька навчається в *університеті*.	Tyttäreni opiskelee yliopistossa.
+студент	Мій син – *студент* медицини.	Poikani on lääketieteen opiskelija.
+третій	Ми живемо на *третьому* поверсі.	Asumme kolmannessa kerroksessa.
+кричати	Не *кричи*, дитина спить!	Älä huuda, lapsi nukkuu!
+одинадцять	У нашому будинку *одинадцять* квартир.	Talossamme on yksitoista asuntoa.
+дванадцять	У році *дванадцять* місяців.	Vuodessa on kaksitoista kuukautta.
+тринадцять	Моєму синові *тринадцять* років.	Poikani on kolmetoistavuotias.
+чотирнадцять	Сніданок у готелі коштує *чотирнадцять* євро.	Aamiainen hotellissa maksaa neljätoista euroa.
+п'ятнадцять	До вокзалу *п'ятнадцять* хвилин пішки.	Rautatieasemalle on viidentoista minuutin kävelymatka.
+шістнадцять	У класі *шістнадцять* учнів.	Luokassa on kuusitoista oppilasta.
+сімнадцять	Моїй доньці *сімнадцять* років.	Tyttäreni on seitsemäntoistavuotias.
+вісімнадцять	У цьому готелі *вісімнадцять* номерів.	Tässä hotellissa on kahdeksantoista huonetta.
+дев'ятнадцять	Квиток на поїзд коштує *дев'ятнадцять* євро.	Junalippu maksaa yhdeksäntoista euroa.
+двадцять	Ми чекали на автобус *двадцять* хвилин.	Odotimme bussia kaksikymmentä minuuttia.
+тридцять	Сьогодні *тридцять* градусів тепла!	Tänään on kolmekymmentä astetta lämmintä!
+сорок	Площа квартири – *сорок* квадратних метрів.	Asunnon pinta-ala on neljäkymmentä neliömetriä.
+п'ятдесят	У нашому будинку *п'ятдесят* квартир.	Talossamme on viisikymmentä asuntoa.
+шістдесят	Квиток коштує *шістдесят* євро.	Lippu maksaa kuusikymmentä euroa.
+сімдесят	Бабусі вже *сімдесят* років.	Isoäiti on jo seitsemänkymmentävuotias.
+вісімдесят	До Тампере ще *вісімдесят* кілометрів.	Tampereelle on vielä kahdeksankymmentä kilometriä.
+дев'яносто	Номер у готелі коштує *дев'яносто* євро.	Hotellihuone maksaa yhdeksänkymmentä euroa.
+двісті	Від Гельсінкі до Тампере майже *двісті* кілометрів.	Helsingistä Tampereelle on melkein kaksisataa kilometriä.
+четвертий	Наша квартира на *четвертому* поверсі.	Asuntomme on neljännessä kerroksessa.
+п'ятий	Сьогодні в нас *п'ятий* урок української мови.	Tänään meillä on viides ukrainan kielen oppitunti.
+повертатися	Тато *повертається* з роботи о шостій.	Isä palaa töistä kuudelta.
+ніс	Узимку в мене червоний *ніс*.	Talvella nenäni on punainen.
+рот	Не говори з повним *ротом*!	Älä puhu suu täynnä!
+палець	Я порізав *палець* ножем на кухні.	Leikkasin sormeeni veitsellä keittiössä.
+спина	Після роботи в саду в мене болить *спина*.	Puutarhatöiden jälkeen selkääni särkee.
+живіт	У дитини болить *живіт*.	Lapsen vatsaa koskee.
+волосся	У моєї сестри довге світле *волосся*.	Siskollani on pitkät vaaleat hiukset.
+шия	Узимку я ношу шарф на *шиї*.	Talvella pidän kaulassani huivia.
+біль	Лікар запитав: «Де у вас *біль*?»	Lääkäri kysyi: "Missä teillä on kipua?"
+здоров'я	Бажаю вам міцного *здоров'я*!	Toivotan teille hyvää terveyttä!
+ліки	Ці *ліки* треба пити тричі на день.	Tätä lääkettä pitää ottaa kolme kertaa päivässä.
+аптека	Ліки можна купити в *аптеці*.	Lääkkeitä voi ostaa apteekista.
+лікарня	Мій дідусь зараз у *лікарні*.	Isoisäni on nyt sairaalassa.
+хворіти	Діти часто *хворіють* на грип узимку.	Lapset sairastavat talvella usein flunssaa.
+залишатися	У неділю ми *залишаємося* вдома.	Sunnuntaina jäämme kotiin.
+риба	У Фінляндії люблять їсти *рибу*.	Suomessa syödään mielellään kalaa.
+негайно	Іди сюди *негайно*!	Tule tänne heti!
+сир	На сніданок я їм хліб із *сиром*.	Aamiaiseksi syön leipää ja juustoa.
+масло	Купи, будь ласка, хліб і *масло*.	Osta leipää ja voita, ole kiltti.
+сіль	Передай мені, будь ласка, *сіль*.	Ojentaisitko minulle suolan?
+овоч	Морква — корисний *овоч*.	Porkkana on terveellinen vihannes.
+фрукт	Банан — мій улюблений *фрукт*.	Banaani on lempihedelmäni.
+яблуко	На столі лежить червоне *яблуко*.	Pöydällä on punainen omena.
+картопля	На обід у нас риба з *картоплею*.	Lounaaksi meillä on kalaa ja perunoita.
+сік	Дитина п'є апельсиновий *сік*.	Lapsi juo appelsiinimehua.
+пиво	Після сауни тато п'є холодне *пиво*.	Saunan jälkeen isä juo kylmää olutta.
+голодний	Я дуже *голодний*, ходімо обідати!	Minulla on kova nälkä, mennään syömään!
+снідати	Ми *снідаємо* на кухні о сьомій.	Syömme aamiaista keittiössä seitsemältä.
+обідати	Де ти зазвичай *обідаєш*?	Missä syöt yleensä lounasta?
+вечеряти	Сьогодні ми *вечеряємо* в ресторані.	Tänään syömme illallista ravintolassa.
+припинити	*Припиніть* шуміти, будь ласка!	Lopettakaa metelöinti, olkaa hyvät!
+кафе	Зустріньмося в *кафе* біля вокзалу.	Tavataan kahvilassa aseman lähellä.
+ринок	У суботу ми купуємо овочі на *ринку*.	Lauantaisin ostamme vihannekset torilta.
+банк	*Банк* працює до п'ятої години.	Pankki on auki kello viiteen asti.
+вокзал	Я чекаю на тебе на *вокзалі*.	Odotan sinua rautatieasemalla.
+аеропорт	Ми їдемо в *аеропорт* на таксі.	Menemme lentoasemalle taksilla.
+зупинка	Автобус стоїть на *зупинці*.	Bussi seisoo pysäkillä.
+церква	На площі стоїть стара *церква*.	Aukiolla on vanha kirkko.
+театр	Увечері ми йдемо в *театр*.	Illalla menemme teatteriin.
+кіно	У п'ятницю ми ходили в *кіно*.	Perjantaina kävimme elokuvissa.
+бібліотека	Я беру книжки в *бібліотеці*.	Lainaan kirjoja kirjastosta.
+готель	*Готель* розташований у центрі Рованіємі.	Hotelli sijaitsee Rovaniemen keskustassa.
+трамвай	У Тампере тепер є *трамвай*.	Tampereella on nyt raitiovaunu.
+потяг	*Потяг* до Гельсінкі відходить о дев'ятій.	Juna Helsinkiin lähtee yhdeksältä.
+кинути	Мій тато *кинув* палити.	Isäni lopetti tupakoinnin.
+літак	*Літак* прилітає до Рованіємі о восьмій.	Lentokone saapuu Rovaniemelle kahdeksalta.
+автомобіль	У нас новий червоний *автомобіль*.	Meillä on uusi punainen auto.
+велосипед	Улітку я їжджу на роботу на *велосипеді*.	Kesällä ajan töihin polkupyörällä.
+вітер	Сьогодні надворі сильний *вітер*.	Tänään ulkona tuulee kovasti.
+теплий	Візьми *теплий* светр, бо холодно.	Ota lämmin villapaita, koska on kylmä.
+рухатися	Лікар каже, що треба більше *рухатися*.	Lääkäri sanoo, että pitää liikkua enemmän.
+гарячий	Обережно, чай дуже *гарячий*!	Varovasti, tee on tosi kuumaa!
+летіти	Завтра ми *летимо* в Рим.	Huomenna lennämme Roomaan.
+бігати	Щоранку я *бігаю* в парку.	Juoksen joka aamu puistossa.
+плавати	Діти люблять *плавати* в озері.	Lapset uivat mielellään järvessä.
+вставати	О котрій ти *встаєш* у будні?	Mihin aikaan nouset arkisin?
+встати	Сьогодні я *встав* дуже рано.	Tänään nousin tosi aikaisin.
+мити	Після вечері я *мию* посуд.	Illallisen jälkeen tiskaan astiat.
+купувати	Де ти *купуєш* овочі?	Mistä ostat vihannekset?
+відкривати	Магазин *відкривають* о дев'ятій.	Kauppa avataan yhdeksältä.
+закривати	Увечері ми *закриваємо* вікна і двері.	Illalla suljemme ikkunat ja ovet.
+побачення	У п'ятницю в мене *побачення*.	Perjantaina minulla on treffit.
+закінчувати	Я *закінчую* роботу о п'ятій.	Lopetan työt viideltä.
+народитися	Моя мама *народилася* в Україні.	Äitini syntyi Ukrainassa.
+сідати	Ми *сідаємо* в автобус на зупинці.	Nousemme bussiin pysäkillä.
+співати	Моя донька гарно *співає*.	Tyttäreni laulaa kauniisti.
+танцювати	На вечірці всі *танцювали*.	Juhlissa kaikki tanssivat.
+зустрічатися	Ми часто *зустрічаємося* з друзями в кафе.	Tapaamme usein ystäviä kahvilassa.
+сміятися	Не *смійся* з мене!	Älä naura minulle!
+мир	Ми всі хочемо *миру* в Україні.	Me kaikki haluamme rauhaa Ukrainaan.
+плакати	Чому дитина *плаче*?	Miksi lapsi itkee?
+бажати	*Бажаю* вам щастя і здоров'я!	Toivotan teille onnea ja terveyttä!
+вибрати	Ми *вибрали* синій диван для вітальні.	Valitsimme sinisen sohvan olohuoneeseen.
+пояснити	Учителька *пояснила* нам нове правило.	Opettaja selitti meille uuden säännön.
+розповідати	Бабуся *розповідає* онукам про Україну.	Isoäiti kertoo lapsenlapsilleen Ukrainasta.
+майбутній	Моя *майбутня* професія — лікар.	Tuleva ammattini on lääkäri.
+нести	Тато *несе* валізу до таксі.	Isä kantaa matkalaukkua taksille.
+вихідні	На *вихідних* ми їдемо на дачу.	Viikonloppuna menemme mökille.
+до побачення	*До побачення!* — До зустрічі завтра!	Näkemiin! — Nähdään huomenna!
+система	У Фінляндії дуже хороша *система* освіти.	Suomessa on tosi hyvä koulutusjärjestelmä.
+добрий день	*Добрий день!* — Добрий день, пане Мікко!	Hyvää päivää! — Hyvää päivää, herra Mikko!
+надворі	Сьогодні *надворі* мінус двадцять.	Tänään ulkona on kaksikymmentä astetta pakkasta.
+назвати	Батьки *назвали* сина Андрієм.	Vanhemmat antoivat pojalle nimeksi Andri.
+ліворуч	Аптека — *ліворуч* від банку.	Apteekki on pankista vasemmalla.
+праворуч	На перехресті поверніть *праворуч*.	Kääntykää risteyksessä oikealle.
+вниз	Ліфт не працює, тому ми йдемо *вниз* пішки.	Hissi ei toimi, joten kävelemme alas portaita.
+вгору	Дорога йде *вгору* до церкви.	Tie nousee ylös kirkolle.
+поруч	Мій готель був *поруч* з вокзалом.	Hotellini oli rautatieaseman vieressä.
+серед	*Серед* моїх друзів багато українців.	Ystävieni joukossa on monta ukrainalaista.
+замість	Я п'ю чай *замість* кави.	Juon teetä kahvin sijaan.
+протягом	*Протягом* тижня йшов дощ.	Viikon ajan satoi.
+повз	Автобус проїхав *повз* нашу зупинку.	Bussi ajoi pysäkkimme ohi.
+повільно	Говоріть, будь ласка, *повільно*.	Puhukaa hitaasti, olkaa hyvä.
+особливо	Я люблю фрукти, *особливо* яблука.	Pidän hedelmistä, erityisesti omenoista.
+інакше	Одягнися тепло, *інакше* застудишся.	Pukeudu lämpimästi, muuten vilustut.
+чий	*Чий* це телефон на столі?	Kenen puhelin tämä pöydällä on?
+прекрасно	Ти *прекрасно* говориш українською!	Puhut erinomaisesti ukrainaa!
+котрий	*Котра* зараз година?	Paljonko kello nyt on?
+ніяк	Я *ніяк* не можу знайти ключі.	En millään löydä avaimia.
+красивий	Рованіємі — дуже *красиве* місто.	Rovaniemi on tosi kaunis kaupunki.
+м'ясо	Мій брат не їсть *м'яса*.	Veljeni ei syö lihaa.
+цукор	Ви п'єте каву з *цукром*?	Juotteko kahvia sokerin kanssa?
+займатися	Чим ти *займаєшся* у вільний час?	Mitä harrastat vapaa-ajalla?
+прокидатися	Діти *прокидаються* о сьомій.	Lapset heräävät seitsemältä.
+починатися	Урок *починається* о десятій.	Oppitunti alkaa kymmeneltä.
+закінчуватися	Фільм *закінчується* пізно ввечері.	Elokuva loppuu myöhään illalla.
+відпустка	У липні я буду у *відпустці*.	Heinäkuussa olen lomalla.
+подарунок	Дякую за *подарунок*!	Kiitos lahjasta!
+короткий	Узимку дні дуже *короткі*.	Talvella päivät ovat tosi lyhyitä.
+низький	Мій брат *низький*, а я високий.	Veljeni on lyhyt, mutta minä olen pitkä.
+важкий	Ця валіза дуже *важка*.	Tämä matkalaukku on tosi painava.
+наче	Він говорить українською, *наче* українець.	Hän puhuu ukrainaa kuin ukrainalainen.
+легкий	Це *легке* завдання.	Tämä on helppo tehtävä.
+швидкий	Це дуже *швидкий* потяг.	Tämä on tosi nopea juna.
+повільний	Інтернет сьогодні дуже *повільний*.	Netti on tänään tosi hidas.
+складний	Українська граматика досить *складна*.	Ukrainan kielioppi on melko vaikea.
+сильний	Мій тато дуже *сильний*.	Isäni on tosi vahva.
+безпека	Для нас найважливіше — *безпека* дітей.	Meille tärkeintä on lasten turvallisuus.
+слабкий	Після хвороби бабуся ще *слабка*.	Sairauden jälkeen isoäiti on vielä heikko.
+щасливий	Ми дуже *щасливі* в новій квартирі.	Olemme tosi onnellisia uudessa asunnossa.
+сторона	Аптека на іншій *стороні* вулиці.	Apteekki on kadun toisella puolella.
+президент	*Президент* Фінляндії живе в Гельсінкі.	Suomen presidentti asuu Helsingissä.
+сумний	Чому ти сьогодні такий *сумний*?	Miksi olet tänään noin surullinen?
+зайнятий	Вибач, зараз я *зайнятий*.	Anteeksi, olen nyt kiireinen.
+правий	Так, ти *правий*!	Kyllä, olet oikeassa!
+лівий	У мене болить *ліва* рука.	Vasenta kättäni särkee.
+правильний	Це *правильна* відповідь.	Tämä on oikea vastaus.
+близький	Марія — моя *близька* подруга.	Maria on läheinen ystäväni.
+пізній	Був *пізній* вечір, і діти вже спали.	Oli myöhäinen ilta, ja lapset jo nukkuivat.
+різний	У нас із чоловіком *різні* смаки.	Minulla ja miehelläni on erilainen maku.
+повний	Уранці автобус *повний* людей.	Aamulla bussi on täynnä ihmisiä.
+абсолютно	Ти *абсолютно* правий.	Olet täysin oikeassa.
+чистий	Повітря в Лапландії дуже *чисте*.	Ilma Lapissa on tosi puhdasta.
+фінський	*Фінська* мова дуже складна.	Suomen kieli on tosi vaikea.
+зрозуміло	Тепер усе *зрозуміло*, дякую!	Nyt kaikki on selvää, kiitos!
+англійський	Мій син вивчає *англійську* мову.	Poikani opiskelee englannin kieltä.
+російський	Моя бабуся знає *російську* мову.	Isoäitini osaa venäjän kieltä.
+передати	*Передай* привіт мамі!	Kerro terveisiä äidille!
+темний	У грудні в Лапландії дуже *темні* дні.	Joulukuussa päivät ovat Lapissa tosi pimeitä.
+тихий	Ми живемо на *тихій* вулиці.	Asumme hiljaisella kadulla.
+ненавидіти	Мій син *ненавидить* прибирати кімнату.	Poikani vihaa huoneensa siivoamista.
+звичайний	Сьогодні *звичайний* робочий день.	Tänään on tavallinen työpäivä.
+певний	Я *певна*, що він прийде.	Olen varma, että hän tulee.
+можливий	Чи *можливий* пізній заїзд у готель?	Onko myöhäinen sisäänkirjautuminen hotelliin mahdollinen?
+вдячний	Я дуже *вдячний* вам за допомогу.	Olen teille tosi kiitollinen avusta.
+згодний	Чи ти *згоден* зі мною?	Oletko samaa mieltä kanssani?
+курс	Наш *курс* української мови починається в січні.	Ukrainan kielen kurssimme alkaa tammikuussa.
+дорослий	Квиток для *дорослого* коштує десять євро.	Aikuisen lippu maksaa kymmenen euroa.
+зупинитися	Автобус *зупинився* біля вокзалу.	Bussi pysähtyi rautatieaseman viereen.
+широкий	У центрі міста *широкі* вулиці.	Kaupungin keskustassa on leveät kadut.
+малий	Ця кімната занадто *мала* для нас.	Tämä huone on meille liian pieni.
+зупинити	Поліцейський *зупинив* машину.	Poliisi pysäytti auton.
+жахливий	Сьогодні *жахлива* погода.	Tänään on kauhea sää.
+страшний	Діти дивилися *страшний* фільм.	Lapset katsoivat pelottavaa elokuvaa.
+водити	Тато щодня *водить* дітей до школи.	Isä vie lapset joka päivä kouluun.
+знайомий	Його обличчя мені *знайоме*.	Hänen kasvonsa ovat minulle tutut.
+схожий	Донька дуже *схожа* на маму.	Tytär on tosi paljon äitinsä näköinen.
+Україна	Моя подруга живе в *Україні*.	Ystäväni asuu Ukrainassa.
+Фінляндія	Ми живемо у *Фінляндії*.	Asumme Suomessa.
+українець	Мій сусід — *українець* з Києва.	Naapurini on ukrainalainen Kiovasta.
+українка	Олена — *українка*, вона живе в Тампере.	Olena on ukrainalainen, hän asuu Tampereella.
+компанія	Мій брат працює у великій *компанії*.	Veljeni työskentelee suuressa yrityksessä.
+фін	Мій чоловік — *фін*, а я українка.	Mieheni on suomalainen, ja minä olen ukrainalainen.
+прізвище	Як ваше *прізвище*?	Mikä on sukunimenne?
+адреса	Напишіть, будь ласка, вашу *адресу*.	Kirjoittakaa osoitteenne, olkaa hyvä.
+вік	Діти різного *віку* граються в парку.	Eri-ikäiset lapset leikkivät puistossa.
+колега	Мій *колега* теж живе в Тампере.	Työtoverini asuu myös Tampereella.
+директор	*Директор* готелю зустрічає гостей.	Hotellin johtaja ottaa vieraat vastaan.
+гість	Сьогодні ввечері до нас прийдуть *гості*.	Tänä iltana meille tulee vieraita.
+сподобатися	Мені дуже *сподобався* цей готель.	Pidin kovasti tästä hotellista.
+працівник	*Працівник* готелю приніс нам ключ.	Hotellin työntekijä toi meille avaimen.
+онук	Бабуся гуляє з *онуком* у парку.	Isoäiti ulkoilee lapsenlapsensa kanssa puistossa.
+тітка	Моя *тітка* живе у Львові.	Tätini asuu Lvivissä.
+дядько	На вихідних ми їдемо до *дядька*.	Viikonloppuna menemme sedän luo.
+документ	Покажіть, будь ласка, ваші *документи*.	Näyttäkää, olkaa hyvä, asiakirjanne.
+паспорт	У готелі треба показати *паспорт*.	Hotellissa täytyy näyttää passi.
+група	Наша *група* вивчає українську мову.	Ryhmämme opiskelee ukrainan kieltä.
+сорочка	Він купив нову білу *сорочку*.	Hän osti uuden valkoisen paidan.
+сукня	На весілля вона одягла червону *сукню*.	Häihin hän puki punaisen mekon.
+штани	Мої сині *штани* лежать на ліжку.	Siniset housuni ovat sängyllä.
+куртка	Взимку у Фінляндії потрібна тепла *куртка*.	Talvella Suomessa tarvitaan lämmin takki.
+пальто	Моє *пальто* висить у шафі.	Päällystakkini roikkuu kaapissa.
+шапка	Надворі холодно, одягни *шапку*!	Ulkona on kylmä, laita pipo päähän!
+ключ	Де *ключ* від квартири?	Missä on asunnon avain?
+хвороба	Грип – дуже неприємна *хвороба*.	Influenssa on hyvin ikävä sairaus.
+щастя	Бажаю тобі *щастя* і здоров'я!	Toivotan sinulle onnea ja terveyttä!
+радість	Діти з *радістю* чекають на святого Миколая.	Lapset odottavat ilolla Pyhää Nikolausta.
+страх	Дитина плакала від *страху*.	Lapsi itki pelosta.
+війна	Багато людей виїхали з України через *війну*.	Monet ihmiset lähtivät Ukrainasta sodan takia.
+мета	Моя *мета* – добре говорити українською.	Tavoitteeni on puhua hyvin ukrainaa.
+приклад	Наведіть, будь ласка, *приклад*.	Antakaa, olkaa hyvä, esimerkki.
+повітря	У Лапландії дуже чисте *повітря*.	Lapissa on hyvin puhdas ilma.
+тварина	Яка твоя улюблена *тварина*?	Mikä on lempieläimesi?
+кінь	На фермі живуть два *коні*.	Maatilalla asuu kaksi hevosta.
+світло	Вимкни, будь ласка, *світло*.	Sammuta valo, ole hyvä.
+звук	Я чую дивний *звук* на кухні.	Kuulen oudon äänen keittiöstä.
+число	Яке сьогодні *число*?	Mikä päivämäärä tänään on?
+сторінка	Відкрийте підручник на *сторінці* сорок.	Avatkaa oppikirja sivulta neljäkymmentä.
+завдання	Виконайте *завдання* номер сім.	Tehkää tehtävä numero seitsemän.
+іспит	Завтра в мене *іспит* з української мови.	Huomenna minulla on ukrainan kielen koe.
+пісня	Ми разом співаємо українську *пісню*.	Laulamme yhdessä ukrainalaista laulua.
+спорт	Мій брат займається *спортом*.	Veljeni harrastaa urheilua.
+перемогти	Наша команда *перемогла* Швецію.	Joukkueemme voitti Ruotsin.
+виграти	Фінська команда *виграла* хокейний матч.	Suomen joukkue voitti jääkiekko-ottelun.
+зарплата	Він отримує хорошу *зарплату*.	Hän saa hyvää palkkaa.
+рахунок	Принесіть, будь ласка, *рахунок*!	Tuokaa lasku, kiitos!
+картка	Можна заплатити *карткою*?	Voiko maksaa kortilla?
+гривня	Кава коштує п'ятдесят *гривень*.	Kahvi maksaa viisikymmentä hryvniaa.
+долар	Номер коштує сто *доларів* за ніч.	Huone maksaa sata dollaria yöltä.
+кілограм	Купи, будь ласка, *кілограм* яблук.	Osta kilo omenoita, ole hyvä.
+метр	До моря лише сто *метрів*.	Merelle on vain sata metriä.
+вибір	У цьому магазині великий *вибір* одягу.	Tässä kaupassa on laaja valikoima vaatteita.
+брехати	Не *бреши* мені!	Älä valehtele minulle!
+інформація	Де можна знайти *інформацію* про готель?	Mistä voi löytää tietoa hotellista?
+чесно	*Чесно* кажучи, мені не подобається цей суп.	Rehellisesti sanottuna en pidä tästä keitosta.
+інтернет	Я знайшов квартиру в *інтернеті*.	Löysin asunnon internetistä.
+повідомлення	Я надішлю тобі *повідомлення* ввечері.	Lähetän sinulle viestin illalla.
+фото	Покажи мені *фото* твоєї нової квартири.	Näytä minulle kuva uudesta asunnostasi.
+дивно	*Дивно*, що сьогодні так тепло.	On outoa, että tänään on näin lämmintä.
+подорож	Наша *подорож* до Рованіємі була чудовою.	Matkamme Rovaniemelle oli upea.
+пляж	Влітку ми часто відпочиваємо на *пляжі*.	Kesällä lepäämme usein rannalla.
+початок	На *початку* грудня ми їдемо до Львова.	Joulukuun alussa matkustamme Lviviin.
+черга	У магазині була довга *черга*.	Kaupassa oli pitkä jono.
+випити	Хочеш *випити* чашку кави?	Haluatko juoda kupin kahvia?
+рішення	Це було дуже важке *рішення*.	Se oli hyvin vaikea päätös.
+результат	Ми чекаємо на *результати* іспиту.	Odotamme kokeen tuloksia.
+можливість	У Тампере є *можливість* вивчати українську.	Tampereella on mahdollisuus opiskella ukrainaa.
+надія	Ми не втрачаємо *надії*.	Emme menetä toivoa.
+почуття	У неї гарне *почуття* гумору.	Hänellä on hyvä huumorintaju.
+зміна	Завтра в мене нічна *зміна*.	Huomenna minulla on yövuoro.
+крок	Зроби *крок* уперед.	Ota askel eteenpäin.
+ситуація	Це дуже складна *ситуація*.	Tämä on hyvin vaikea tilanne.
+успіх	Бажаю тобі *успіху* на іспиті!	Toivotan sinulle menestystä kokeessa!
+весілля	У суботу ми йдемо на *весілля* до друзів.	Lauantaina menemme ystävien häihin.
+водій	*Водій* автобуса продає квитки.	Bussinkuljettaja myy lippuja.
+продавець	*Продавець* показав мені нову куртку.	Myyjä näytti minulle uuden takin.
+місцевий	На ринку ми купили *місцевий* мед.	Torilta ostimme paikallista hunajaa.
+чужий	Не бери *чужі* речі!	Älä ota toisten tavaroita!
+температура	У дитини висока *температура*.	Lapsella on kova kuume.
+сонячний	Сьогодні чудовий *сонячний* день.	Tänään on ihana aurinkoinen päivä.
+викликати	Треба *викликати* лікаря.	Täytyy kutsua lääkäri.
+свіжий	На кухні лежить *свіжий* хліб.	Keittiössä on tuoretta leipää.
+незручний	Цей диван дуже *незручний*.	Tämä sohva on hyvin epämukava.
+розумний	Ваша донька дуже *розумна*.	Tyttärenne on hyvin fiksu.
+чесний	Мій брат – дуже *чесна* людина.	Veljeni on hyvin rehellinen ihminen.
+будувати	Мій батько *будує* дачу біля озера.	Isäni rakentaa mökkiä järven rannalle.
+запросити	Я хочу *запросити* тебе на каву.	Haluan kutsua sinut kahville.
+надіслати	*Надішліть* мені, будь ласка, фото квартири.	Lähettäkää minulle, olkaa hyvä, kuvia asunnosta.
+відправити	Учора я *відправив* лист бабусі.	Eilen lähetin kirjeen isoäidille.
+згадати	Я ніяк не можу *згадати* його ім'я.	En millään muista hänen nimeään.
+довіряти	Я *довіряю* своїм друзям.	Luotan ystäviini.
+заробляти	Скільки ти *заробляєш* на місяць?	Paljonko ansaitset kuukaudessa?
+витрачати	Ми *витрачаємо* багато грошей на їжу.	Käytämme paljon rahaa ruokaan.
+одягатися	Взимку треба тепло *одягатися*.	Talvella täytyy pukeutua lämpimästi.
+одружитися	Мій брат *одружився* з українкою.	Veljeni meni naimisiin ukrainalaisen naisen kanssa.
+повторити	*Повторіть*, будь ласка, ще раз.	Toistakaa, olkaa hyvä, vielä kerran.
+перекласти	*Перекладіть* речення фінською мовою.	Kääntäkää lauseet suomeksi.
+боротися	Україна *бореться* за свободу.	Ukraina taistelee vapaudesta.
+впасти	Взимку я *впав* на льоду.	Talvella kaaduin jäällä.
+належати	Ця машина *належить* моєму батькові.	Tämä auto kuuluu isälleni.
+відпочити	Влітку ми хочемо *відпочити* на морі.	Kesällä haluamme lomailla meren rannalla.
+навчитися	Мій син хоче *навчитися* плавати.	Poikani haluaa oppia uimaan.
+вивчити	Я вже *вивчив* усі нові слова.	Olen jo opetellut kaikki uudet sanat.
+прочитати	Ти вже *прочитав* цю книжку?	Oletko jo lukenut tämän kirjan?
+прибирати	У суботу ми *прибираємо* квартиру.	Lauantaina siivoamme asunnon.
+курити	Тут не можна *курити*.	Täällä ei saa tupakoida.
+лягати	О котрій ти зазвичай *лягаєш* спати?	Mihin aikaan yleensä menet nukkumaan?
+страшно	Дитині *страшно* спати без світла.	Lasta pelottaa nukkua ilman valoa.
+везти	Тато *везе* дітей до школи на машині.	Isä vie lapset kouluun autolla.
+вести	Мама *веде* сина в дитячий садок.	Äiti vie poikaa päiväkotiin.
+літати	Ми щороку *літаємо* до Іспанії.	Lennämme joka vuosi Espanjaan.
+переїхати	Минулого року ми *переїхали* до Тампере.	Viime vuonna muutimme Tampereelle.
+запізнюватися	Він завжди *запізнюється* на роботу.	Hän myöhästyy aina töistä.
+поспішати	Вибач, я дуже *поспішаю*.	Anteeksi, minulla on kova kiire.
+встигнути	Ми ледве *встигли* на потяг.	Ehdimme juuri ja juuri junaan.
+мить	Це була чудова *мить*.	Se oli ihana hetki.
+двір	Діти граються у *дворі*.	Lapset leikkivät pihalla.
+поле	За селом велике зелене *поле*.	Kylän takana on iso vihreä pelto.
+будівля	Це найвища *будівля* в місті.	Tämä on kaupungin korkein rakennus.
+придумати	Ми *придумали* гарну назву для кафе.	Keksimme kahvilalle hyvän nimen.
+жартувати	Не сердься, я *жартую*!	Älä suutu, minä vitsailen!
+вихід	Вибачте, де тут *вихід*?	Anteeksi, missä täällä on uloskäynti?
+оцінка	Я отримав хорошу *оцінку* за іспит.	Sain kokeesta hyvän arvosanan.
+цукерка	Святий Миколай приніс дітям *цукерки*.	Pyhä Nikolaus toi lapsille karkkeja.
+морозиво	Влітку діти їдять багато *морозива*.	Kesällä lapset syövät paljon jäätelöä.
+салат	На вечерю я приготую *салат*.	Valmistan illalliseksi salaattia.
+ковбаса	Купи, будь ласка, *ковбасу* і сир.	Osta makkaraa ja juustoa, ole hyvä.
+помідор	Наріж *помідори* для салату.	Leikkaa tomaatit salaattia varten.
+обережно	*Обережно*, підлога мокра!	Varo, lattia on märkä!
+огірок	У салаті є *огірки* й помідори.	Salaatissa on kurkkuja ja tomaatteja.
+сало	Українці люблять *сало* з хлібом.	Ukrainalaiset pitävät silavasta leivän kanssa.
+вільний	Чи є у вас *вільний* номер?	Onko teillä vapaata huonetta?
+курка	На обід ми їмо суп з *куркою*.	Lounaaksi syömme kanakeittoa.
+корисний	Овочі дуже *корисні* для здоров'я.	Vihannekset ovat hyvin terveellisiä.
+торт	На день народження мама спекла *торт*.	Syntymäpäiväksi äiti leipoi kakun.
+борщ	Бабуся варить дуже смачний *борщ*.	Isoäiti keittää todella herkullista borssikeittoa.
+каша	Вранці я їм вівсяну *кашу*.	Aamulla syön kaurapuuroa.
+капуста	Для борщу потрібна *капуста*.	Borssikeittoon tarvitaan kaalia.
+олія	Додай трохи *олії* в салат.	Lisää vähän öljyä salaattiin.
+мед	Я люблю чай з *медом*.	Pidän teestä hunajan kanssa.
+вареник	На Святвечір ми їмо *вареники* з картоплею.	Jouluaattona syömme perunavarenykeja.
+ще не	Я *ще не* знаю, коли приїду.	En vielä tiedä, milloin tulen.
+нічого	Вибачте, я *нічого* не розумію.	Anteeksi, en ymmärrä mitään.
+дякую	*Дякую* вам за допомогу!	Kiitos teille avusta!
+англійська	Ви говорите *англійською*?	Puhutteko englantia?
+онука	Моя *онука* вже ходить до школи.	Lapsenlapseni käy jo koulua.
+дуже приємно	Мене звати Олена. — *Дуже приємно*, я Марко.	Nimeni on Olena. — Hauska tutustua, olen Marko.
+мені теж	Дуже приємно! — *Мені теж.*	Hauska tutustua! — Samoin.
+у мене є	*У мене є* брат і сестра.	Minulla on veli ja sisko.
+немає	У холодильнику *немає* молока.	Jääkaapissa ei ole maitoa.
+у мене немає	Вибачте, *у мене немає* готівки.	Anteeksi, minulla ei ole käteistä.
+так собі	Як справи? — *Так собі.*	Miten menee? — Niin ja näin.
+рок	Мій син любить слухати *рок*.	Poikani tykkää kuunnella rockia.
+корабель	Ми пливли до Стокгольма великим *кораблем*.	Matkustimme Tukholmaan suurella laivalla.
+надто	Цей номер *надто* дорогий.	Tämä huone on liian kallis.
+вечірка	У суботу ми йдемо на *вечірку* до друзів.	Lauantaina menemme ystävien bileisiin.
+пізніше	Я подзвоню тобі *пізніше*.	Soitan sinulle myöhemmin.
+захід	Сонце сідає на *заході*.	Aurinko laskee lännessä.
+дух	У грудні в місті відчувається різдвяний *дух*.	Joulukuussa kaupungissa tuntuu joulun henki.
+обидва	*Обидва* мої брати живуть у Києві.	Molemmat veljeni asuvat Kiovassa.
+боліти	У мене *болить* голова.	Päätäni särkee.
+недавно	Ми *недавно* переїхали в нову квартиру.	Muutimme äskettäin uuteen asuntoon.
+подія	Це була важлива *подія* в нашому житті.	Se oli tärkeä tapahtuma elämässämme.
+партнер	Наша фірма шукає нового *партнера*.	Yrityksemme etsii uutta kumppania.
+нікуди	Сьогодні ввечері я *нікуди* не йду.	Tänä iltana en mene minnekään.
+віра	*Віра* допомагає людям у важкі часи.	Usko auttaa ihmisiä vaikeina aikoina.
+роман	Я читаю дуже цікавий *роман*.	Luen todella kiinnostavaa romaania.
+привид	Кажуть, у цьому замку живе *привид*.	Sanotaan, että tässä linnassa asuu aave.
+молитися	Бабуся *молиться* щоранку.	Isoäiti rukoilee joka aamu.
+бізнес	Мій дядько має власний *бізнес*.	Sedälläni on oma yritys.
+американський	Учора ми дивилися *американський* фільм.	Eilen katsoimme amerikkalaista elokuvaa.
+приготувати	Мама *приготувала* смачну вечерю.	Äiti valmisti herkullisen illallisen.
+чоловічий	Де тут *чоловічий* одяг?	Missä täällä ovat miesten vaatteet?
+щодня	Я *щодня* вчу нові слова.	Opettelen joka päivä uusia sanoja.
+південь	Взимку багато фінів їдуть на *південь*.	Talvella monet suomalaiset matkustavat etelään.
+менеджер	*Менеджер* готелю відповів на мій лист.	Hotellin manageri vastasi kirjeeseeni.
+кудись	Ти *кудись* ідеш увечері?	Oletko menossa jonnekin illalla?
+горло	У мене болить *горло*.	Kurkkuni on kipeä.
+розмір	Який у вас *розмір* взуття?	Mikä on kenkäkokonne?
+озеро	Влітку ми плаваємо в *озері*.	Kesällä uimme järvessä.
+концерт	Увечері ми йдемо на *концерт* у Тампере.	Illalla menemme konserttiin Tampereella.
+радіо	Тато завжди слухає *радіо* на кухні.	Isä kuuntelee aina radiota keittiössä.
+рейс	Наш *рейс* до Варшави затримується на годину.	Lentomme Varsovaan on tunnin myöhässä.
+табір	Влітку діти їдуть у *табір* біля озера.	Kesällä lapset lähtevät leirille järven lähelle.
+досвід роботи	У вас є *досвід роботи* в готелі?	Onko teillä työkokemusta hotellista?
+канал	На цьому *каналі* щовечора показують новини.	Tällä kanavalla näytetään uutiset joka ilta.
+північ	Рованіємі розташоване на *півночі* Фінляндії.	Rovaniemi sijaitsee Pohjois-Suomessa.
+режисер	Цей *режисер* зняв новий фільм про Україну.	Tämä ohjaaja teki uuden elokuvan Ukrainasta.
+молодший	Мій *молодший* брат живе в Гельсінкі.	Pikkuveljeni asuu Helsingissä.
+мільярд	У світі живе понад вісім *мільярдів* людей.	Maailmassa asuu yli kahdeksan miljardia ihmistä.
+актор	Її чоловік – відомий *актор*.	Hänen miehensä on tunnettu näyttelijä.
+інколи	*Інколи* ми вечеряємо в ресторані.	Joskus syömme illallista ravintolassa.
+завод	Брат працює на *заводі* в Тампере.	Veli on töissä tehtaalla Tampereella.
+дід	Мій *дід* живе в селі біля Львова.	Isoisäni asuu kylässä Lvivin lähellä.
+однак	Квартира гарна, *однак* дуже дорога.	Asunto on kaunis, se on kuitenkin hyvin kallis.
+сайт	Номер можна забронювати на *сайті* готелю.	Huoneen voi varata hotellin verkkosivuilla.
+свиня	На фермі живуть корови і *свині*.	Maatilalla asuu lehmiä ja sikoja.
+храм	Ми відвідали старий *храм* у центрі Києва.	Vierailimme vanhassa kirkossa Kiovan keskustassa.
+медсестра	Моя сестра працює *медсестрою* в лікарні.	Siskoni työskentelee sairaanhoitajana sairaalassa.
+символ	Калина – *символ* України.	Koiranheisi on Ukrainan symboli.
+вірш	Діти вчать *вірш* Тараса Шевченка.	Lapset opettelevat Taras Ševtšenkon runoa.
+організація	Вона працює в міжнародній *організації*.	Hän työskentelee kansainvälisessä järjestössä.
+гурт	Мій улюблений *гурт* – «Океан Ельзи».	Lempibändini on Okean Elzy.
+футбол	Хлопці грають у *футбол* у парку.	Pojat pelaavat jalkapalloa puistossa.
+програти	Наша команда *програла* матч.	Joukkueemme hävisi ottelun.
+цирк	У *цирку* діти бачили клоунів.	Sirkuksessa lapset näkivät klovneja.
+слон	У зоопарку живе великий *слон*.	Eläintarhassa asuu iso norsu.
+шостий	Мій син навчається в *шостому* класі.	Poikani on kuudennella luokalla.
+окуляри	Мої *окуляри* лежать на столі.	Silmälasini ovat pöydällä.
+студія	Гурт записує пісні в *студії*.	Bändi äänittää kappaleita studiossa.
+нудно	Коли йде дощ, дітям *нудно* вдома.	Kun sataa, lapsilla on tylsää kotona.
+художник	Цю картину намалював відомий *художник*.	Tämän taulun maalasi tunnettu taiteilija.
+файл	Надішли мені, будь ласка, цей *файл*.	Lähetä minulle tämä tiedosto, ole hyvä.
+сумно	Мені *сумно*, коли ти їдеш.	Minulla on surullinen olo, kun lähdet.
+технологія	Фінляндія відома своїми *технологіями*.	Suomi tunnetaan teknologiastaan.
+де-небудь	Ти *де-небудь* бачив мої ключі?	Oletko nähnyt avaimiani missään?
+куди-небудь	Ви їдете *куди-небудь* на вихідні?	Lähdettekö minnekään viikonloppuna?
+хто-небудь	Тут *хто-небудь* говорить українською?	Puhuuko täällä kukaan ukrainaa?
+що-небудь	Хочеш *що-небудь* випити?	Haluatko juoda jotain?
+гравець	Він найкращий *гравець* нашої команди.	Hän on joukkueemme paras pelaaja.
+актриса	Ця *актриса* грає в новому серіалі.	Tämä näyttelijä esiintyy uudessa sarjassa.
+дружба	Наша *дружба* триває вже двадцять років.	Ystävyytemme on kestänyt jo kaksikymmentä vuotta.
+дорого	У Гельсінкі жити дуже *дорого*.	Helsingissä asuminen on hyvin kallista.
+учень	У класі двадцять *учнів*.	Luokassa on kaksikymmentä oppilasta.
+футболка	Влітку він носить білу *футболку*.	Kesällä hän käyttää valkoista T-paitaa.
+хмара	Сьогодні на небі багато *хмар*.	Tänään taivaalla on paljon pilviä.
+сьомий	Сьогодні наш *сьомий* урок української.	Tänään on seitsemäs ukrainan tuntimme.
+мода	Ця сукня зараз у *моді*.	Tämä mekko on nyt muodissa.
+призначити	Ми *призначили* зустріч на п'ятницю.	Sovimme tapaamisen perjantaiksi.
+збори	У четвер у нас *збори* о десятій.	Torstaina meillä on kokous kello kymmenen.
+туфлі	Вона купила нові червоні *туфлі*.	Hän osti uudet punaiset avokkaat.
+схід	Харків розташований на *сході* України.	Harkova sijaitsee Itä-Ukrainassa.
+передзвонити	Вибачте, я *передзвоню* вам пізніше.	Anteeksi, soitan teille takaisin myöhemmin.
+персонал	*Персонал* готелю дуже привітний.	Hotellin henkilökunta on hyvin ystävällinen.
+жіночий	На другому поверсі є відділ *жіночого* одягу.	Toisessa kerroksessa on naistenvaateosasto.
+транспорт	У Тампере зручний *громадський транспорт*.	Tampereella on kätevä julkinen liikenne.
+ведмідь	У фінських лісах живуть *ведмеді*.	Suomen metsissä elää karhuja.
+письменник	Іван Франко – відомий український *письменник*.	Ivan Franko on tunnettu ukrainalainen kirjailija.
+інженер	Мій брат працює *інженером* на заводі.	Veljeni työskentelee insinöörinä tehtaalla.
+птах	На дереві сидить маленький *птах*.	Puussa istuu pieni lintu.
+миша	Кіт ловить *мишу* на кухні.	Kissa pyydystää hiirtä keittiössä.
+десерт	На *десерт* у нас яблучний пиріг.	Jälkiruoaksi meillä on omenapiirakkaa.
+мобільний	Вчора я забув *мобільний* удома.	Eilen unohdin kännykän kotiin.
+стаття	Вона пише *статтю* для газети.	Hän kirjoittaa artikkelia lehteen.
+багаж	Ваш *багаж* уже в номері.	Matkatavaranne ovat jo huoneessa.
+туман	Уранці над озером був густий *туман*.	Aamulla järven yllä oli sakea sumu.
+павук	У кутку кімнати висить *павук*.	Huoneen nurkassa roikkuu hämähäkki.
+євро	Номер коштує сто *євро* за ніч.	Huone maksaa sata euroa yöltä.
+пасувати	Тобі дуже *пасує* ця сукня.	Tämä mekko sopii sinulle todella hyvin.
+секретар	*Секретар* директора відповідає на дзвінки.	Johtajan sihteeri vastaa puheluihin.
+восьмий	Наш номер на *восьмому* поверсі.	Huoneemme on kahdeksannessa kerroksessa.
+тренування	У вівторок у мене *тренування* з футболу.	Tiistaina minulla on jalkapalloharjoitukset.
+блискавка	У небі блиснула *блискавка*.	Taivaalla välähti salama.
+журналіст	*Журналіст* бере інтерв'ю в актора.	Toimittaja haastattelee näyttelijää.
+хобі	Моє *хобі* – фотографія.	Harrastukseni on valokuvaus.
+вуса	У мого діда сиві *вуса*.	Isoisälläni on harmaat viikset.
+релігія	Ми говорили про історію і *релігію*.	Puhuimme historiasta ja uskonnosta.
+борода	Санта-Клаус має довгу білу *бороду*.	Joulupukilla on pitkä valkoinen parta.
+підліток	Їхній син уже *підліток*.	Heidän poikansa on jo teini.
+населення	*Населення* Фінляндії – приблизно п'ять із половиною мільйонів.	Suomen väkiluku on noin viisi ja puoli miljoonaa.
+посольство	*Посольство* України розташоване в Гельсінкі.	Ukrainan suurlähetystö sijaitsee Helsingissä.
+басейн	У готелі є *басейн* і сауна.	Hotellissa on uima-allas ja sauna.
+композитор	Сібеліус – відомий фінський *композитор*.	Sibelius on tunnettu suomalainen säveltäjä.
+бейсбол	В Америці дуже люблять *бейсбол*.	Amerikassa pidetään kovasti baseballista.
+фестиваль	Влітку в Тампере багато музичних *фестивалів*.	Kesällä Tampereella on paljon musiikkifestivaaleja.
+зоопарк	Діти дуже люблять ходити в *зоопарк*.	Lapset tykkäävät kovasti käydä eläintarhassa.
+скасувати	Через погоду *скасували* наш рейс.	Lentomme peruttiin sään takia.
+бутерброд	На сніданок я їм *бутерброд* із сиром.	Aamupalaksi syön juustovoileivän.
+екзамен	Завтра в мене *екзамен* з української.	Huomenna minulla on ukrainan koe.
+освіта	У Фінляндії безкоштовна *освіта*.	Suomessa koulutus on maksutonta.
+десятий	Сьогодні *десяте* листопада.	Tänään on marraskuun kymmenes päivä.
+каса	Квитки можна купити в *касі*.	Lippuja voi ostaa lippukassalta.
+блог	Вона пише *блог* про подорожі.	Hän kirjoittaa matkablogia.
+джаз	Мій тато любить слухати *джаз*.	Isäni tykkää kuunnella jazzia.
+страйк	Через *страйк* автобуси сьогодні не їздять.	Lakon takia bussit eivät tänään kulje.
+піца	Замовмо *піцу* на вечерю!	Tilataan pizzaa illalliseksi!
+ресурс	У компанії мало *ресурсів*.	Yrityksellä on vähän resursseja.
+розклад	Подивися *розклад* автобусів на сайті.	Katso bussiaikataulu verkkosivuilta.
+спортивний	Біля школи є великий *спортивний* майданчик.	Koulun lähellä on iso urheilukenttä.
+грім	Уночі гримів *грім*.	Yöllä jyrisi ukkonen.
+бюджет	Який у вас *бюджет* на квартиру?	Mikä on budjettinne asuntoa varten?
+пасажир	*Пасажири* чекають на потяг на пероні.	Matkustajat odottavat junaa laiturilla.
+післязавтра	Ми повертаємося додому *післязавтра*.	Palaamme kotiin ylihuomenna.
+візит	Дякуємо за ваш *візит*!	Kiitos vierailustanne!
+популярний	Ця пісня дуже *популярна* в Україні.	Tämä laulu on hyvin suosittu Ukrainassa.
+українська	На уроці ми говоримо *українською*.	Tunnilla puhumme ukrainaa.
+чоботи	Взимку я ношу теплі *чоботи*.	Talvella käytän lämpimiä saappaita.
+вагон	Наші місця в п'ятому *вагоні*.	Paikkamme ovat viidennessä vaunussa.
+шахи	Дідусь навчив мене грати в *шахи*.	Isoisä opetti minut pelaamaan shakkia.
+психолог	Вона працює шкільним *психологом*.	Hän työskentelee koulupsykologina.
+конференція	Наступного тижня я їду на *конференцію* до Відня.	Ensi viikolla lähden konferenssiin Wieniin.
+влітку	*Влітку* ми відпочиваємо на дачі.	Kesällä lomailemme mökillä.
+література	Мій син вивчає *літературу* в університеті.	Poikani opiskelee kirjallisuutta yliopistossa.
+факультет	Вона навчається на історичному *факультеті*.	Hän opiskelee historian tiedekunnassa.
+самотньо	Без родини мені *самотньо*.	Ilman perhettä tunnen oloni yksinäiseksi.
+сосиска	Діти їдять *сосиски* на сніданок.	Lapset syövät nakkeja aamupalaksi.
+коментар	Напишіть свій *коментар* під статтею.	Kirjoittakaa kommenttinne artikkelin alle.
+фарба	Нам треба купити білу *фарбу* для кухні.	Meidän täytyy ostaa valkoista maalia keittiöön.
+парад	У День міста в центрі був *парад*.	Kaupungin päivänä keskustassa oli paraati.
+романтичний	Ми провели *романтичний* вечір у Парижі.	Vietimme romanttisen illan Pariisissa.
+офіціантка	*Офіціантка* принесла нам меню.	Tarjoilija toi meille ruokalistan.
+триста	Квиток коштує *триста* гривень.	Lippu maksaa kolmesataa hryvnaa.
+поет	Тарас Шевченко – великий український *поет*.	Taras Ševtšenko on suuri ukrainalainen runoilija.
+банджо	Мій друг грає на *банджо*.	Ystäväni soittaa banjoa.
+офіціант	*Офіціанте*, принесіть нам, будь ласка, рахунок!	Tarjoilija, tuokaa meille lasku, kiitos!
+за професією	Моя мама *за професією* вчителька.	Äitini on ammatiltaan opettaja.
+резюме	Надішліть своє *резюме* на нашу електронну пошту.	Lähettäkää ansioluettelonne sähköpostiimme.
+стадіон	Матч буде на новому *стадіоні*.	Ottelu pelataan uudella stadionilla.
+турист	Взимку до Рованіємі приїжджає багато *туристів*.	Talvella Rovaniemelle tulee paljon turisteja.
+лимон	Мені чай з *лимоном*, будь ласка.	Minulle teetä sitruunalla, kiitos.
+навчатися	Моя донька *навчається* в університеті.	Tyttäreni opiskelee yliopistossa.
+релігійний	Різдво – важливе *релігійне* свято.	Joulu on tärkeä uskonnollinen juhla.
+молодь	*Молодь* часто збирається в цьому парку.	Nuoret kokoontuvat usein tässä puistossa.
+светр	Візьми теплий *светр*, надворі холодно.	Ota lämmin villapaita, ulkona on kylmä.
+семестр	Новий *семестр* починається у вересні.	Uusi lukukausi alkaa syyskuussa.
+незалежність	Україна святкує День *Незалежності* двадцять четвертого серпня.	Ukraina juhlii itsenäisyyspäivää elokuun 24. päivänä.
+дешево	На ринку овочі можна купити *дешево*.	Torilta voi ostaa vihanneksia halvalla.
+баскетбол	Мій син грає в *баскетбол* щосуботи.	Poikani pelaa koripalloa joka lauantai.
+спідниця	Вона одягла синю *спідницю*.	Hän puki sinisen hameen.
+безробітний	Зараз мій сусід *безробітний*.	Naapurini on nyt työtön.
+купе	Ми їхали до Львова в *купе*.	Matkustimme Lviviin makuuvaunun hytissä.
+християнин	Він *християнин* і щонеділі ходить до церкви.	Hän on kristitty ja käy kirkossa joka sunnuntai.
+секретарка	Запитайте в *секретарки*, де кабінет директора.	Kysykää sihteeriltä, missä johtajan huone on.
+щоночі	Сусідський собака гавкає *щоночі*.	Naapurin koira haukkuu joka yö.
+перекладач	Мені потрібен *перекладач* з української на фінську.	Tarvitsen kääntäjän ukrainasta suomeen.
+щовечора	*Щовечора* ми гуляємо біля озера.	Joka ilta kävelemme järven rannalla.
+завантажити	*Завантаж* цей додаток на телефон.	Lataa tämä sovellus puhelimeen.
+програміст	Багато *програмістів* працює з дому.	Monet ohjelmoijat tekevät töitä kotoa.
+диплом	Після університету вона отримала *диплом*.	Yliopiston jälkeen hän sai tutkintotodistuksen.
+рудий	У сусідів живе *рудий* кіт.	Naapureilla asuu punainen kissa.
+кінотеатр	Підемо ввечері в *кінотеатр*?	Mennäänkö illalla elokuvateatteriin?
+фонтан	На площі стоїть гарний *фонтан*.	Aukiolla on kaunis suihkulähde.
+критик	*Критики* високо оцінили новий фільм.	Kriitikot arvostivat uutta elokuvaa suuresti.
+шарф	Надворі мороз, не забудь *шарф*!	Ulkona on pakkasta, älä unohda kaulahuivia!
+шорти	Влітку діти бігають у *шортах*.	Kesällä lapset juoksentelevat shortseissa.
+мороз	Сьогодні сильний *мороз* – мінус двадцять.	Tänään on kova pakkanen, miinus kaksikymmentä.
+незалежний	Україна стала *незалежною* державою в 1991 році.	Ukrainasta tuli itsenäinen valtio vuonna 1991.
+котлета	На обід у нас *котлети* з картоплею.	Lounaaksi meillä on jauhelihapihvejä ja perunoita.
+позавчора	*Позавчора* ми були в театрі.	Toissapäivänä olimme teatterissa.
+бізнесмен	Її батько – успішний *бізнесмен*.	Hänen isänsä on menestyvä liikemies.
+кетчуп	Я люблю картоплю фрі з *кетчупом*.	Pidän ranskalaisista ketsupin kanssa.
+уранці	*Уранці* я п'ю каву на балконі.	Aamulla juon kahvia parvekkeella.
+щоранку	Сусід *щоранку* бігає в парку.	Naapuri juoksee joka aamu puistossa.
+презентація	Колега підготував цікаву *презентацію*.	Kollega valmisteli mielenkiintoisen esityksen.
+урядовий	Це *урядове* рішення стосується всіх.	Tämä hallituksen päätös koskee kaikkia.
+класика	«Кобзар» – *класика* української літератури.	Kobzar on ukrainalaisen kirjallisuuden klassikko.
+довідка	Для роботи потрібна *довідка* від лікаря.	Töitä varten tarvitaan lääkärintodistus.
+дванадцятий	Грудень – *дванадцятий* місяць року.	Joulukuu on vuoden kahdestoista kuukausi.
+племінник	Мій *племінник* ходить у перший клас.	Sisarenpoikani käy ensimmäistä luokkaa.
+проїзд	*Проїзд* в автобусі коштує три євро.	Bussimatka maksaa kolme euroa.
+алея	Ми гуляли довгою *алеєю* в парку.	Kävelimme pitkää puistokujaa pitkin.
+кросівки	Для тренування потрібні зручні *кросівки*.	Treeniin tarvitaan mukavat lenkkarit.
+хокей	Фіни дуже люблять *хокей*.	Suomalaiset rakastavat jääkiekkoa.
+читач	Цей блог має багато *читачів*.	Tällä blogilla on paljon lukijoita.
+восени	*Восени* у Тампере часто йде дощ.	Syksyllä Tampereella sataa usein.
+чотириста	Квартира коштує *чотириста* євро на місяць.	Asunto maksaa neljäsataa euroa kuukaudessa.
+заєць	У лісі ми бачили білого *зайця*.	Metsässä näimme valkoisen jäniksen.
+племінниця	Моя *племінниця* живе в Гельсінкі.	Sisarentyttäreni asuu Helsingissä.
+банкомат	Де тут найближчий *банкомат*?	Missä täällä on lähin pankkiautomaatti?
+мечеть	У центрі міста є велика *мечеть*.	Kaupungin keskustassa on suuri moskeija.
+марафон	Мій брат щороку бігає *марафон*.	Veljeni juoksee maratonin joka vuosi.
+двоюрідний	Мій *двоюрідний* брат живе в Києві.	Serkkuni asuu Kiovassa.
+прохолодно	Сьогодні на вулиці *прохолодно*.	Tänään ulkona on viileää.
+навесні	*Навесні* в саду цвітуть дерева.	Keväällä puutarhassa kukkivat puut.
+викладач	Наш *викладач* української мови дуже терплячий.	Ukrainan kielen opettajamme on hyvin kärsivällinen.
+удень	*Удень* я працюю, а ввечері вчу українську.	Päivällä olen töissä ja illalla opiskelen ukrainaa.
+виноград	Бабуся купила на ринку *виноград*.	Isoäiti osti torilta viinirypäleitä.
+провідник	*Провідник* перевіряє квитки в поїзді.	Konduktööri tarkastaa liput junassa.
+персик	Цей *персик* дуже солодкий.	Tämä persikka on hyvin makea.
+усміхатися	Дитина *усміхається* мамі.	Lapsi hymyilee äidilleen.
+модний	Вона купила *модну* сукню.	Hän osti muodikkaan mekon.
+собор	Ми відвідали Софійський *собор* у Києві.	Kävimme Pyhän Sofian katedraalissa Kiovassa.
+морква	Мама зробила салат з *морквою*.	Äiti teki salaatin, jossa on porkkanaa.
+оповідання	На уроці ми читали коротке *оповідання*.	Tunnilla luimme lyhyen novellin.
+магістр	Сестра має ступінь *магістра* економіки.	Siskollani on kauppatieteiden maisterin tutkinto.
+забобон	Чорний кіт – це просто *забобон*.	Musta kissa on vain taikausko.
+теніс	Влітку ми граємо в *теніс*.	Kesällä pelaamme tennistä.
+майонез	У салат я додаю трохи *майонезу*.	Lisään salaattiin vähän majoneesia.
+словник	Подивися це слово в *словнику*.	Katso tämä sana sanakirjasta.
+візитка	Ось моя *візитка* з номером телефону.	Tässä on käyntikorttini, jossa on puhelinnumero.
+пенсіонер	Мій дідусь – *пенсіонер*.	Isoisäni on eläkeläinen.
+вісімсот	Від Гельсінкі до Рованіємі понад *вісімсот* кілометрів.	Helsingistä Rovaniemelle on yli kahdeksansataa kilometriä.
+карий	У моєї доньки *карі* очі.	Tyttärelläni on ruskeat silmät.
+елегантний	Тато прийшов на свято в *елегантному* костюмі.	Isä tuli juhliin tyylikkäässä puvussa.
+лазня	У суботу ми йдемо в *лазню*.	Lauantaina menemme saunaan.
+страйкувати	Сьогодні водії автобусів *страйкують*.	Tänään bussinkuljettajat lakkoilevat.
+обміняти	Мені треба *обміняти* євро на гривні.	Minun täytyy vaihtaa euroja hryvnioiksi.
+медитація	*Медитація* допомагає мені розслабитися.	Meditaatio auttaa minua rentoutumaan.
+ідеаліст	Мій друг – великий *ідеаліст*.	Ystäväni on suuri idealisti.
+імейл	Напиши мені *імейл*, будь ласка.	Kirjoita minulle sähköpostia, ole hyvä.
+інтерв'ю	Журналіст бере *інтерв'ю* в письменника.	Toimittaja haastattelee kirjailijaa.
+іудейський	Синагога – це *іудейський* храм.	Synagoga on juutalainen temppeli.
+автостанція	*Автостанція* знаходиться біля вокзалу.	Linja-autoasema on rautatieaseman vieressä.
+атеїст	Він *атеїст* і не ходить до церкви.	Hän on ateisti eikä käy kirkossa.
+бакалавр	Наступного року я стану *бакалавром*.	Ensi vuonna minusta tulee kandidaatti.
+блондин	Її чоловік – високий *блондин*.	Hänen miehensä on pitkä ja vaaleatukkainen.
+брюнет	Мій брат – *брюнет* із зеленими очима.	Veljeni on tummatukkainen mies, jolla on vihreät silmät.
+буддійський	У Таїланді багато *буддійських* храмів.	Thaimaassa on paljon buddhalaisia temppeleitä.
+буддист	Мій колега – *буддист*.	Kollegani on buddhalainen.
+валюта	Гривня – це *валюта* України.	Hryvnia on Ukrainan valuutta.
+вебдизайн	Оксана займається *вебдизайном*.	Oksana tekee verkkosivusuunnittelua.
+вегетаріанець	Андрій – *вегетаріанець*, він не їсть м'яса.	Andri on kasvissyöjä, hän ei syö lihaa.
+вегетаріанка	Моя подруга – *вегетаріанка*, тому вона замовила салат.	Ystäväni on kasvissyöjä, joten hän tilasi salaatin.
+веселка	Після дощу на небі з'явилася *веселка*.	Sateen jälkeen taivaalle ilmestyi sateenkaari.
+гумористичний	Я люблю дивитися *гумористичні* програми.	Tykkään katsoa humoristisia ohjelmia.
+дев'ятсот	Цей телефон коштує *дев'ятсот* євро.	Tämä puhelin maksaa yhdeksänsataa euroa.
+журналістка	*Журналістка* пише статтю про Фінляндію.	Toimittaja kirjoittaa artikkelia Suomesta.
+зошит	Запишіть нові слова в *зошит*.	Kirjoittakaa uudet sanat vihkoon.
+Карпати	Влітку ми їдемо в *Карпати*.	Kesällä matkustamme Karpaateille.
+м'яч	Діти грають з *м'ячем* у дворі.	Lapset leikkivät pallolla pihalla.
+мітинг	На площі відбувся великий *мітинг*.	Aukiolla pidettiin suuri mielenosoitus.
+маршрутка	Я їжджу на роботу на *маршрутці*.	Kuljen töihin reittitaksilla.
+медитувати	Щоранку мама *медитує* десять хвилин.	Joka aamu äiti meditoi kymmenen minuuttia.
+мусульманин	Ахмед – *мусульманин*, він не їсть свинини.	Ahmed on muslimi, hän ei syö sianlihaa.
+мусульманський	Рамадан – це *мусульманський* священний місяць.	Ramadan on muslimien pyhä kuukausi.
+мюслі	На сніданок я їм *мюслі* з йогуртом.	Aamupalaksi syön myslia jogurtin kanssa.
+тролейбус	Ми поїхали в центр на *тролейбусі*.	Menimme keskustaan johdinautolla.
+одинадцятий	Наш номер на *одинадцятому* поверсі.	Huoneemme on yhdennessätoista kerroksessa.
+оптиміст	Попри все, я *оптиміст*.	Kaikesta huolimatta olen optimisti.
+п'ятсот	У залі було *п'ятсот* людей.	Salissa oli viisisataa ihmistä.
+піцерія	Увечері ми ходили в *піцерію*.	Illalla kävimme pizzeriassa.
+парасоля	Візьми *парасолю*, бо йде дощ.	Ota sateenvarjo, koska sataa.
+пенсіонерка	Моя сусідка – *пенсіонерка*, але дуже активна.	Naapurini on eläkeläinen, mutta hyvin aktiivinen.
+песиміст	Не будь *песимістом*, усе буде добре!	Älä ole pessimisti, kaikki järjestyy!
+письменниця	Леся Українка – відома українська *письменниця*.	Lesja Ukrajinka on tunnettu ukrainalainen kirjailija.
+планшет	Діти дивляться мультики на *планшеті*.	Lapset katsovat piirrettyjä tabletilta.
+поміряти	Можна *поміряти* цю куртку?	Voinko sovittaa tätä takkia?
+постмодернізм	Ми говорили про *постмодернізм* у літературі.	Puhuimme postmodernismista kirjallisuudessa.
+рекламувати	Готель *рекламує* свої послуги в інтернеті.	Hotelli mainostaa palvelujaan internetissä.
+сімсот	Квиток на поїзд коштував *сімсот* гривень.	Junalippu maksoi seitsemänsataa hryvniaa.
+сивий	У дідуся *сиве* волосся.	Isoisällä on harmaat hiukset.
+синагога	У Києві є стара *синагога*.	Kiovassa on vanha synagoga.
+скептик	Мій тато – *скептик*, він не вірить рекламі.	Isäni on skeptikko, hän ei usko mainoksia.
+смартфон	Учора я купив новий *смартфон*.	Eilen ostin uuden älypuhelimen.
+фіолетовий	На столі стоїть *фіолетова* ваза.	Pöydällä on violetti maljakko.
+фітнес-зал	Тричі на тиждень я ходжу до *фітнес-залу*.	Käyn kuntosalilla kolme kertaa viikossa.
+фентезі	Мій син любить книжки в жанрі *фентезі*.	Poikani pitää fantasiakirjoista.
+хор	Бабуся співає в церковному *хорі*.	Isoäiti laulaa kirkkokuorossa.
+християнський	Різдво – *християнське* свято.	Joulu on kristillinen juhla.
+шістсот	Номер у готелі коштує *шістсот* євро за тиждень.	Hotellihuone maksaa kuusisataa euroa viikossa.
+познайомитися з	На курсі я *познайомився з* Ганною.	Kurssilla tutustuin Hannaan.
+Свят-вечір	На *Свят-вечір* уся родина збирається разом.	Jouluaattona koko perhe kokoontuu yhteen.
+меню	Дайте, будь ласка, *меню*.	Saisinko ruokalistan, kiitos.
+Я б хотів…	*Я б хотів* замовити борщ. — Добре, зараз принесу.	Haluaisin tilata borssikeittoa. — Selvä, tuon sen heti.
+душа	У неї добра *душа*.	Hänellä on hyvä sielu.
+святий	*Святий* Миколай приносить дітям подарунки.	Pyhä Nikolaus tuo lapsille lahjoja.
+Почекай хвилинку!	*Почекай хвилинку!* — Добре, я почекаю.	Odota hetki! — Hyvä on, odotan.
+мрія	Моя *мрія* – побачити північне сяйво.	Unelmani on nähdä revontulet.
+зірка	Уночі на небі багато *зірок*.	Yöllä taivaalla on paljon tähtiä.
+небезпечний	Узимку дорога може бути *небезпечною*.	Talvella tie voi olla vaarallinen.
+більшість	*Більшість* студентів живе в гуртожитку.	Useimmat opiskelijat asuvat asuntolassa.
+клієнт	Офіціант приносить *клієнтові* меню.	Tarjoilija tuo asiakkaalle ruokalistan.
+мак	Бабуся спекла булочки з *маком*.	Isoäiti leipoi unikonsiemenpullia.
+втомитися	Після роботи я дуже *втомився*.	Töiden jälkeen olen todella väsynyt.
+замовити	Що ти хочеш *замовити* на обід?	Mitä haluat tilata lounaaksi?
+готуватися до	Ми вже *готуємося до* Різдва.	Valmistaudumme jo jouluun.
+мистецтво	Оксана цікавиться сучасним *мистецтвом*.	Oksana on kiinnostunut nykytaiteesta.
+запрошувати	Ми *запрошуємо* вас на день народження.	Kutsumme teidät syntymäpäiville.
+мріяти	Діти *мріють* про подорож до Лапландії.	Lapset unelmoivat matkasta Lappiin.
+швидка їжа	*Швидка їжа* шкідлива для здоров'я.	Pikaruoka on haitallista terveydelle.
+замовити столик	Можна *замовити столик* на сьому вечора?	Voinko varata pöydän kello seitsemäksi illalla?
+обожнювати	Моя донька *обожнює* шоколад.	Tyttäreni rakastaa suklaata.
+безпечний	Фінляндія – дуже *безпечна* країна.	Suomi on hyvin turvallinen maa.
+рецепт	Дай мені, будь ласка, *рецепт* цього пирога.	Anna minulle tämän piirakan resepti, ole hyvä.
+соус	Я люблю макарони з томатним *соусом*.	Pidän pastasta tomaattikastikkeen kanssa.
+цікавитися	Мій син *цікавиться* історією.	Poikani on kiinnostunut historiasta.
+священик	На Великдень *священик* освячує паски.	Pääsiäisenä pappi siunaa pääsiäisleivät.
+страва	Борщ – моя улюблена *страва*.	Borssikeitto on lempiruokani.
+святкувати	Як ви *святкуєте* Різдво у Фінляндії?	Miten te juhlitte joulua Suomessa?
+чистити	Тато *чистить* картоплю на кухні.	Isä kuorii perunoita keittiössä.
+несподівано	*Несподівано* почався сильний дощ.	Yllättäen alkoi kova sade.
+Хто пізно приходить, той сам собі шкодить.	*Хто пізно приходить, той сам собі шкодить.* — Так, наступного разу прийду вчасно.	Joka myöhään tulee, se itseään vahingoittaa. — Niin, ensi kerralla tulen ajoissa.
+канікули	На літніх *канікулах* діти відпочивають у бабусі.	Kesälomalla lapset lomailevat isoäidin luona.
+захоплюватися	Андрій *захоплюється* футболом.	Andri on innostunut jalkapallosta.
+кориця	У яблучний пиріг ми додаємо *корицю*.	Laitamme omenapiirakkaan kanelia.
+зелень	Посипте суп *зеленню*.	Ripotelkaa keiton päälle yrttejä.
+додавати	Мама завжди *додає* в борщ трохи цукру.	Äiti lisää aina borssiin vähän sokeria.
+алергія на	У мене *алергія на* горіхи.	Minulla on allergia pähkinöille.
+закуска	На *закуску* ми замовили салат.	Alkupalaksi tilasimme salaatin.
+Христос народився! – Славімо Його!	На Різдво українці вітаються: *Христос народився! – Славімо Його!*	Jouluna ukrainalaiset tervehtivät: Kristus on syntynyt! – Ylistäkäämme häntä!
+сіно	На Свят-вечір під скатертину кладуть *сіно*.	Jouluaattona pöytäliinan alle laitetaan heinää.
+паска	На Великдень бабуся пече *паску*.	Pääsiäisenä isoäiti leipoo pääsiäisleivän.
+шинка	Купи, будь ласка, двісті грамів *шинки*.	Osta kaksisataa grammaa kinkkua, ole hyvä.
+цибуля	Від *цибулі* в мене завжди сльози.	Sipulista minulle tulee aina kyyneleet.
+гамбургер	Син замовив *гамбургер* і картоплю фрі.	Poika tilasi hampurilaisen ja ranskalaiset.
+яблучний пиріг	Восени ми печемо *яблучний пиріг*.	Syksyllä leivomme omenapiirakkaa.
+Великдень	На *Великдень* ми фарбуємо яйця.	Pääsiäisenä värjäämme munia.
+Христос воскрес! – Воістину воскрес!	На Великдень люди вітаються: *Христос воскрес! – Воістину воскрес!*	Pääsiäisenä ihmiset tervehtivät: Kristus nousi kuolleista! – Totisesti nousi!
+горох	У Фінляндії по четвергах їдять суп із *гороху*.	Suomessa syödään torstaisin hernekeittoa.
+макарони	На вечерю в нас *макарони* з сиром.	Illalliseksi meillä on pastaa juuston kanssa.
+варення	Бабуся варить полуничне *варення*.	Isoäiti keittää mansikkahilloa.
+дієта	Ця *дієта* дуже сувора.	Tämä dieetti on hyvin tiukka.
+сідати на дієту	З понеділка я *сідаю на дієту*.	Maanantaista alkaen aloitan dieetin.
+борошно	Для млинців потрібні *борошно*, яйця і молоко.	Lettuihin tarvitaan jauhoja, munia ja maitoa.
+буряк	Для борщу потрібен *буряк*.	Borssikeittoon tarvitaan punajuurta.
+вишня	Вареники з *вишнями* – це дуже смачно.	Kirsikkavarenykit ovat todella herkullisia.
+газований напій	Дітям не варто пити багато *газованих напоїв*.	Lasten ei kannata juoda paljon hiilihapollisia juomia.
+негазована вода	Пляшку *негазованої води*, будь ласка.	Pullo hiilihapotonta vettä, kiitos.
+гарнір	Що у вас є на *гарнір*?	Mitä teillä on lisukkeeksi?
+горіхове масло	Син любить хліб із *горіховим маслом*.	Poika pitää leivästä pähkinävoin kanssa.
+картопляне пюре	До котлет мама подає *картопляне пюре*.	Äiti tarjoilee pihvien kanssa perunamuusia.
+ківі	Дитина з'їла два *ківі*.	Lapsi söi kaksi kiiviä.
+компот	Улітку бабуся варить вишневий *компот*.	Kesällä isoäiti keittää kirsikkakompottia.
+шкідливий	Цукор *шкідливий* для зубів.	Sokeri on haitallista hampaille.
+оливка	Додайте в салат кілька *оливок*.	Lisätkää salaattiin muutama oliivi.
+полуниця	У червні у Фінляндії вже є свіжа *полуниця*.	Kesäkuussa Suomessa on jo tuoreita mansikoita.
+сметана	Борщ подають зі *сметаною*.	Borssikeitto tarjoillaan smetanan kanssa.
+бульйон	Коли я хворію, мама варить курячий *бульйон*.	Kun olen sairas, äiti keittää kanalientä.
+гречка	На обід у нас *гречка* з грибами.	Lounaaksi meillä on tattaria sienten kanssa.
+родзинка	Мама додала в сирники *родзинки*.	Äiti lisäsi syrnykeihin rusinoita.
+голубець	Бабуся приготувала смачні *голубці*.	Isoäiti valmisti herkullisia kaalikääryleitä.
+писанка	Діти розписують *писанки* до Великодня.	Lapset koristelevat pääsiäismunia pääsiäiseksi.
+кутя	*Кутя* – головна страва на Свят-вечір.	Kutja on jouluaaton tärkein ruokalaji.
+узвар	До куті подають *узвар*.	Kutjan kanssa tarjoillaan uzvaria.
+колядка	Діти співають *колядку* під вікном.	Lapset laulavat joululaulua ikkunan alla.
+колядувати	На Різдво діти ходять *колядувати*.	Jouluna lapset kulkevat talosta taloon laulamassa joululauluja.
+дріжджі	Для тіста потрібні *дріжджі*.	Taikinaan tarvitaan hiivaa.
+сушений	Узвар варять із *сушених* фруктів.	Uzvaria keitetään kuivatuista hedelmistä.
+чорниця	У лісах Фінляндії багато *чорниці*.	Suomen metsissä on paljon mustikoita.
+кар'єра	Вона робить *кар'єру* в банку.	Hän luo uraa pankissa.
+сирник	На сніданок я їм *сирники* зі сметаною.	Aamupalaksi syön syrnykejä smetanan kanssa.
+гарбуз	Восени ми варимо суп із *гарбуза*.	Syksyllä keitämme kurpitsakeittoa.
+індичка	В Америці на День подяки готують *індичку*.	Amerikassa kiitospäivänä valmistetaan kalkkunaa.
+смажити	Тато *смажить* рибу на сковороді.	Isä paistaa kalaa pannulla.
+сонцезахисні окуляри	Улітку не забудь *сонцезахисні окуляри*!	Kesällä älä unohda aurinkolaseja!
+порекомендувати	Що ви можете нам *порекомендувати*?	Mitä voitte suositella meille?
+мішати	*Мішай* суп, щоб він не пригорів.	Sekoita keittoa, ettei se pala pohjaan.
+нарізати	*Наріж*, будь ласка, хліб і сир.	Leikkaa leipä ja juusto, ole hyvä.
