@@ -33,8 +33,11 @@ def load_words():
             lid, title = (line[1:].split("\t") + [""])[:2]
             lesson = lid.strip(); lessons[lesson] = title.strip(); continue
         parts = line.split("\t")
-        if len(parts) >= 2 and parts[0].strip() not in words:
-            words[parts[0].strip()] = {"fi": parts[1].strip(), "lesson": lesson}
+        uk = parts[0].strip()
+        if uk in words:  # sama sana useassa osiossa (viiterivi)
+            words[uk]["lessons"].add(lesson)
+        elif len(parts) >= 2:
+            words[uk] = {"fi": parts[1].strip(), "lesson": lesson, "lessons": {lesson}}
     return words, lessons
 
 
@@ -76,7 +79,7 @@ def main():
     for lid, title in lessons.items():
         cnt = defaultdict(int)
         for w, info in words.items():
-            if info["lesson"] == lid:
+            if lid in info["lessons"]:
                 for d in ("uf", "fu"): cnt[status(cards.get((w, d)))] += 1
         print(f"  {title[:48]:48s} {cnt['uusi']:3d} {cnt['opettelussa']:3d} {cnt['osattu']:3d} {cnt['vahva']:3d}")
 

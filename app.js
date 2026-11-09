@@ -16,7 +16,7 @@ const store = {
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
 };
 
-let WORDS = [];          // {uk, fi, note, lesson, ex?: {uk, fi}}
+let WORDS = [];          // {uk, fi, note, lesson, lessons: [id…], ex?: {uk, fi}}; lesson = ensisijainen osio
 let LESSONS = [];        // {id, title}
 let events = store.get(LS.events, []);
 let settings = Object.assign({
@@ -29,7 +29,7 @@ const app = document.getElementById('app');
 /* ---------- Data ---------- */
 async function loadWords() {
   const txt = await (await fetch('data/words.tsv', { cache: 'no-cache' })).text();
-  let lesson = null; const seen = new Set();
+  let lesson = null, order = 0; const seen = new Map();
   for (const raw of txt.split('\n')) {
     const line = raw.replace(/\r$/, '');
     if (!line.trim() || line.startsWith('#')) continue;
@@ -37,10 +37,16 @@ async function loadWords() {
       const [id, title, flag] = line.slice(1).split('\t');
       lesson = { id: id.trim(), title: (title || id).trim(), off: (flag || '').trim() === 'off' }; LESSONS.push(lesson); continue;
     }
+    // Sama sana voi kuulua useaan osioon: myöhempi rivi (pelkkä ukrainankielinen sana riittää)
+    // liittää jo olemassa olevan sanan myös tähän osioon. Edistyminen on sanakohtainen, joten se näkyy kaikissa osioissa.
     const [uk, fi, note] = line.split('\t').map(s => (s || '').trim());
-    if (!uk || !fi || seen.has(uk)) continue;
-    seen.add(uk);
-    WORDS.push({ uk, fi, note: note || '', lesson: lesson ? lesson.id : '?' });
+    const lid = lesson ? lesson.id : '?';
+    if (!uk) continue;
+    const prev = seen.get(uk);
+    if (prev) { if (!prev.lessons.includes(lid)) { prev.lessons.push(lid); prev.pos[lid] = order++; } continue; }
+    if (!fi) continue;
+    const w = { uk, fi, note: note || '', lesson: lid, lessons: [lid], pos: { [lid]: order++ } };
+    seen.set(uk, w); WORDS.push(w);
   }
   await loadExamples();
   // Uudet osiot valitaan automaattisesti (paitsi "off"-merkityt), vanhat valinnat säilyvät
@@ -220,7 +226,7 @@ async function grammarView() {
 function home() {
   const now = Date.now(), sel = new Set(settings.lessons), dirs = dirsFor(settings.dir);
   let due = 0, fresh = 0;
-  for (const w of WORDS) if (sel.has(w.lesson)) for (const d of dirs) { const c = card(w, d); if (!c || !c.n) fresh++; else if (c.due <= now) due++; }
+  for (const w of WORDS) if (w.lessons.some(id => sel.has(id))) for (const d of dirs) { const c = card(w, d); if (!c || !c.n) fresh++; else if (c.due <= now) due++; }
   const today = events.filter(e => dayKey(e.t) === dayKey(now)).length;
   app.innerHTML = `
     <h1>Treeni</h1>
@@ -238,7 +244,7 @@ function home() {
     <h2>Osiot</h2>
     <div class="row small" style="margin-bottom:6px"><button class="btn" id="all">Kaikki</button><button class="btn" id="none">Ei mitään</button></div>
     <div class="lessons">${LESSONS.map(l => {
-      const ws = WORDS.filter(w => w.lesson === l.id); const cnt = { new: 0, learn: 0, known: 0, strong: 0 };
+      const ws = WORDS.filter(w => w.lessons.includes(l.id)); const cnt = { new: 0, learn: 0, known: 0, strong: 0 };
       for (const w of ws) for (const d of dirs) cnt[status(card(w, d))]++;
       const tot = ws.length * dirs.length;
       return `<label class="lesson"><input type="checkbox" value="${l.id}" ${sel.has(l.id) ? 'checked' : ''}>
@@ -261,11 +267,14 @@ let session = null;
 function startSession() {
   const now = Date.now(), sel = new Set(settings.lessons), dirs = dirsFor(settings.dir);
   const due = [], fresh = [];
-  for (const w of WORDS) if (sel.has(w.lesson)) for (const d of dirs) {
+  for (const w of WORDS) if (w.lessons.some(id => sel.has(id))) for (const d of dirs) {
     const c = card(w, d);
     if (!c || !c.n) fresh.push({ w, d }); else if (c.due <= now) due.push({ w, d, due: c.due });
   }
   due.sort((a, b) => a.due - b.due);
+  // Uudet sanat valittujen osioiden omassa järjestyksessä (sana, joka on myös aiemmassa osiossa, tulee tämän osion kohdalla)
+  const rank = w => Math.min(...w.lessons.filter(id => sel.has(id)).map(id => w.pos[id]));
+  fresh.sort((a, b) => rank(a.w) - rank(b.w));
   // Ensin erääntyneet kertaukset (sekoitettuna), sitten uudet sanat osion järjestyksessä
   const dueTake = due.slice(0, settings.size);
   const newTake = fresh.slice(0, Math.max(0, Math.min(settings.newPerSession, settings.size - dueTake.length)));
@@ -280,7 +289,7 @@ function sessionView() {
   const c = card(w, d), isNew = !c || !c.n;
   session.shown = Date.now(); session.revealed = false;
   app.innerHTML = `
-    <div class="row small muted"><span class="grow">${esc(lessonTitle(w.lesson))}</span><span>${session.i + 1} / ${session.queue.length}</span></div>
+    <div class="row small muted"><span class="grow">${esc(lessonTitle(w.lessons.find(id => settings.lessons.includes(id)) || w.lesson))}</span><span>${session.i + 1} / ${session.queue.length}</span></div>
     <div class="progress"><i style="width:${pct(session.i, session.queue.length)}%"></i></div>
     <div class="card" id="card">
       <div class="dirlbl">${DIRS[d]} ${isNew ? '<span class="tag">uusi</span>' : ''}</div>
@@ -428,7 +437,7 @@ function wordsView() {
   const draw = q => {
     q = norm(q || '');
     app.querySelector('#list').innerHTML = LESSONS.map(l => {
-      const ws = WORDS.filter(w => w.lesson === l.id && (!q || norm(w.uk).includes(q) || norm(w.fi).includes(q) || (w.ex && norm(exPlain(w.ex.uk)).includes(q))));
+      const ws = WORDS.filter(w => w.lessons.includes(l.id) && (!q || norm(w.uk).includes(q) || norm(w.fi).includes(q) || (w.ex && norm(exPlain(w.ex.uk)).includes(q))));
       if (!ws.length) return '';
       return `<h2>${esc(l.title)}</h2><div class="panel"><table>${ws.map(w => `<tr>
         <td style="white-space:nowrap">${['uf', 'fu'].map(d => `<span class="dot" title="${DIRS[d]}: ${STATUS[status(card(w, d))]}" style="background:${colors[status(card(w, d))]}"></span>`).join('')}</td>
