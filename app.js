@@ -29,7 +29,10 @@ const app = document.getElementById('app');
 /* ---------- Data ---------- */
 async function loadWords() {
   const txt = await (await fetch('data/words.tsv', { cache: 'no-cache' })).text();
-  let lesson = null, order = 0; const seen = new Map();
+  // Sama sana voi kuulua useaan osioon: käännöksellinen rivi luo sanan (ensimmäinen on ensisijainen),
+  // viiterivi (pelkkä ukrainankielinen sana) liittää sen myös toiseen osioon – missä kohtaa tiedostoa tahansa.
+  // Edistyminen on sanakohtainen, joten se näkyy kaikissa osioissa.
+  let lesson = null; const rows = [], seen = new Map();
   for (const raw of txt.split('\n')) {
     const line = raw.replace(/\r$/, '');
     if (!line.trim() || line.startsWith('#')) continue;
@@ -37,17 +40,14 @@ async function loadWords() {
       const [id, title, flag] = line.slice(1).split('\t');
       lesson = { id: id.trim(), title: (title || id).trim(), off: (flag || '').trim() === 'off' }; LESSONS.push(lesson); continue;
     }
-    // Sama sana voi kuulua useaan osioon: myöhempi rivi (pelkkä ukrainankielinen sana riittää)
-    // liittää jo olemassa olevan sanan myös tähän osioon. Edistyminen on sanakohtainen, joten se näkyy kaikissa osioissa.
     const [uk, fi, note] = line.split('\t').map(s => (s || '').trim());
-    const lid = lesson ? lesson.id : '?';
-    if (!uk) continue;
-    const prev = seen.get(uk);
-    if (prev) { if (!prev.lessons.includes(lid)) { prev.lessons.push(lid); prev.pos[lid] = order++; } continue; }
-    if (!fi) continue;
-    const w = { uk, fi, note: note || '', lesson: lid, lessons: [lid], pos: { [lid]: order++ } };
-    seen.set(uk, w); WORDS.push(w);
+    if (uk) rows.push({ uk, fi, note, lid: lesson ? lesson.id : '?', pos: rows.length });
   }
+  for (const r of rows) if (r.fi && !seen.has(r.uk)) {
+    const w = { uk: r.uk, fi: r.fi, note: r.note || '', lesson: r.lid, lessons: [], pos: {} };
+    seen.set(r.uk, w); WORDS.push(w);
+  }
+  for (const r of rows) { const w = seen.get(r.uk); if (w && !(r.lid in w.pos)) { w.lessons.push(r.lid); w.pos[r.lid] = r.pos; } }
   await loadExamples();
   // Uudet osiot valitaan automaattisesti (paitsi "off"-merkityt), vanhat valinnat säilyvät
   const known = new Set(settings.knownLessons || (settings.lessons ? LESSONS.filter(l => settings.lessons.includes(l.id)).map(l => l.id) : []));

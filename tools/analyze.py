@@ -25,7 +25,7 @@ def load_events():
 
 
 def load_words():
-    words, lessons, lesson = {}, {}, None
+    words, lessons, lesson, rows = {}, {}, None, []
     for line in (ROOT / "data/words.tsv").read_text().splitlines():
         if not line.strip() or line.startswith("#"):
             continue
@@ -33,11 +33,13 @@ def load_words():
             lid, title = (line[1:].split("\t") + [""])[:2]
             lesson = lid.strip(); lessons[lesson] = title.strip(); continue
         parts = line.split("\t")
-        uk = parts[0].strip()
-        if uk in words:  # sama sana useassa osiossa (viiterivi)
+        rows.append((lesson, parts[0].strip(), parts[1].strip() if len(parts) > 1 else ""))
+    for lesson, uk, fi in rows:  # käännöksellinen rivi luo sanan, viiterivi (pelkkä uk) liittää sen toiseen osioon
+        if fi and uk not in words:
+            words[uk] = {"fi": fi, "lesson": lesson, "lessons": set()}
+    for lesson, uk, fi in rows:
+        if uk in words:
             words[uk]["lessons"].add(lesson)
-        elif len(parts) >= 2:
-            words[uk] = {"fi": parts[1].strip(), "lesson": lesson, "lessons": {lesson}}
     return words, lessons
 
 
