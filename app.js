@@ -8,6 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
+const APP_VERSION = '2026-11-10';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -118,7 +119,7 @@ function record(w, d, m, g, ms) {
   apply(cards.get(w.uk + '|' + d) || cards.set(w.uk + '|' + d, blank()).get(w.uk + '|' + d), g, e.t);
   store.set(LS.events, events);
   pendingSync++;
-  if (pendingSync >= 15) sync();
+  if (pendingSync >= 5) sync();
 }
 
 /* ---------- Synkronointi (GitHub Gist) ---------- */
@@ -164,21 +165,44 @@ async function sync() {
     else { const g = await gh('/gists', { method: 'POST', body: JSON.stringify(Object.assign({ description: GIST_DESC, public: false }, payload)) }); settings.gistId = g.id; }
     settings.lastSync = Date.now(); saveSettings(); pendingSync = 0;
     syncMsg('Synkronoitu ' + new Date().toLocaleTimeString('fi-FI', { hour: '2-digit', minute: '2-digit' }) + (added ? ` · ${added} uutta toisesta laitteesta` : ''));
-    if (added && view === 'home') render();
+    if (added && ['home', 'stats', 'words'].includes(view)) render();
   } catch (e) { syncMsg('Synkronointi epäonnistui: ' + e.message, true); }
   syncing = false;
 }
-document.addEventListener('visibilitychange', () => { if (document.hidden && pendingSync) sync(); });
+// Lähtiessä lähetetään omat vastaukset, palatessa haetaan muiden laitteiden vastaukset
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) { if (pendingSync) sync(); }
+  else if (Date.now() - settings.lastSync > 30000) sync();
+});
 function saveSettings() { store.set(LS.settings, settings); }
 
 /* ---------- Puhe ---------- */
 let ukVoice = null;
 function pickVoice() { ukVoice = (speechSynthesis.getVoices() || []).find(v => /^uk/i.test(v.lang)) || null; }
 if ('speechSynthesis' in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-function speak(text) {
+function speakSynth(text) {
   if (!('speechSynthesis' in window)) return;
   const u = new SpeechSynthesisUtterance(text); u.lang = 'uk-UA'; if (ukVoice) u.voice = ukVoice; u.rate = 0.9;
   speechSynthesis.cancel(); speechSynthesis.speak(u);
+}
+// Ensisijaisesti valmis neuroääni audio/<sha1(teksti)[:16]>.mp3 (tools/make_audio.py), muuten selaimen puhesynteesi
+// Tiedostonimet lasketaan valmiiksi latauksen jälkeen, jotta soitto alkaa suoraan napautuksesta (iOS vaatii).
+let audioEl = null; const audioUrls = new Map();
+async function audioUrl(text) {
+  if (audioUrls.has(text)) return audioUrls.get(text);
+  const h = await crypto.subtle.digest('SHA-1', new TextEncoder().encode(text));
+  const url = 'audio/' + [...new Uint8Array(h)].map(b => b.toString(16).padStart(2, '0')).join('').slice(0, 16) + '.mp3';
+  audioUrls.set(text, url); return url;
+}
+async function prepareAudio() {
+  try { for (const w of WORDS) { await audioUrl(w.uk); if (w.ex) await audioUrl(exPlain(w.ex.uk)); } } catch {}
+}
+function speak(text) {
+  if ('speechSynthesis' in window) speechSynthesis.cancel();
+  if (audioEl) audioEl.pause();
+  const play = url => { audioEl = new Audio(url); audioEl.play().catch(() => speakSynth(text)); };
+  const url = audioUrls.get(text);
+  if (url) play(url); else audioUrl(text).then(play, () => speakSynth(text));
 }
 
 /* ---------- Apu ---------- */
@@ -420,6 +444,7 @@ function stats() {
       <div class="kpi"><b>${due}</b><span>kerrattavaa nyt</span></div><div class="kpi"><b>${acc7}%</b><span>oikein 7 pv</span></div><div class="kpi"><b>${streak}</b><span>päivän putki</span></div></div>
     <div class="panel"><div class="bar">${['strong', 'known', 'learn'].map(s => `<i class="c-${s}" style="width:${pct(cnt[s], all)}%"></i>`).join('')}</div>
       <div class="legend">${Object.entries(STATUS).map(([k, v]) => `<span><i class="c-${k}"></i>${v} ${cnt[k]}</span>`).join('')}</div>
+      <p class="small muted" style="margin:10px 0 0">${events.length} vastausta tällä laitteella · ${settings.lastSync ? 'synkronoitu ' + new Date(settings.lastSync).toLocaleString('fi-FI', { day: 'numeric', month: 'numeric', hour: '2-digit', minute: '2-digit' }) : 'ei synkronoitu'} · versio ${APP_VERSION}</p>
       <p class="small muted" style="margin:10px 0 0">Kortti = sana yhteen suuntaan, eli jokaisella sanalla on kaksi korttia. "Osattu" = seuraava kertaus aikaisintaan 3 päivän päästä, "vahva" = 3 viikon päästä.</p></div>
     <h2>Vastaukset 14 päivää</h2>
     <div class="panel"><div style="display:flex;align-items:flex-end;gap:4px;height:90px">${perDay.map(x => `<div title="${x.k}: ${x.n}" style="flex:1;background:var(--accent);opacity:${x.n ? 1 : .15};height:${Math.max(3, 90 * x.n / maxN)}px;border-radius:4px 4px 0 0"></div>`).join('')}</div>
@@ -493,6 +518,6 @@ function settingsView() {
 /* ---------- Käynnistys ---------- */
 (async () => {
   try { await loadWords(); } catch (e) { app.innerHTML = `<p class="center">Sanaston lataus epäonnistui: ${esc(e.message)}</p>`; return; }
-  rebuild(); go('home');
+  rebuild(); go('home'); prepareAudio();
   if (settings.token) sync();
 })();

@@ -8,7 +8,7 @@ Sanatreeni Ukrainan kielen jatkokurssi 1:n (Tampereen kesäyliopisto, syksy 2026
 - Välitoisto (SM-2-tyyppinen): vaikeat sanat tulevat useammin, osatut harvemmin
 - Jokainen vastaus tallennetaan; tulokset synkronoidaan yksityiseen GitHub Gistiin (asetuksista)
 - Jokaisella sanalla esimerkkilause suomennoksineen (`data/examples.tsv`), näkyy vastauksen yhteydessä ja sanastossa
-- Ääntäminen selaimen puhesynteesillä (jos laitteessa on ukrainankielinen ääni)
+- Ääntäminen: valmiit neuroääni-mp3:t (`audio/`, Microsoftin uk-UA-PolinaNeural, luodaan `tools/make_audio.py`:llä edge-tts-kirjastolla; aja sanojen lisäämisen jälkeen). Jos tiedostoa ei ole, käytetään selaimen puhesynteesiä.
 
 ## Sanaston lisääminen
 
