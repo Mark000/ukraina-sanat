@@ -8,7 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
-const APP_VERSION = '2026-11-11c';
+const APP_VERSION = '2026-11-11d';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -116,8 +116,8 @@ const STATUS = { new: 'Uusi', learn: 'Opettelussa', known: 'Osattu', strong: 'Va
 const STATUS_HELP = {
   new: 'Uusi: korttia ei ole vielä kysytty kertaakaan.',
   learn: 'Opettelussa: kortti on kysytty, mutta seuraava kertaus on alle 3 päivän päästä. Väärä vastaus palauttaa kortin tähän.',
-  known: 'Osattu: seuraava kertaus aikaisintaan 3 päivän päästä. Yleensä kaksi oikeaa vastausta eri päivinä.',
-  strong: 'Vahva: seuraava kertaus aikaisintaan 3 viikon päästä. Yleensä neljä oikeaa vastausta viikkojen aikana.',
+  known: 'Osattu: seuraava kertaus aikaisintaan 3 päivän päästä. Yleensä kaksi oikeaa vastausta peräkkäisinä kertauksina.',
+  strong: 'Vahva: seuraava kertaus aikaisintaan 3 viikon päästä. Yleensä viisi peräkkäistä oikeaa vastausta (Helppo-vastauksilla kolme), noin kuukauden aikana.',
 };
 const legendHtml = cnt => `<div class="legend">${['strong', 'known', 'learn', 'new'].map(k => `<span title="${STATUS_HELP[k]}"><i class="c-${k}"></i>${STATUS[k]}${cnt ? ' ' + cnt[k] : ''}</span>`).join('')}</div>`;
 const barHtml = (cnt, tot, style = '') => `<div class="bar"${style}>${['strong', 'known', 'learn'].map(s => `<i class="c-${s}" title="${STATUS[s]}: ${cnt[s]} / ${tot} korttia (${pct(cnt[s], tot)} %). ${STATUS_HELP[s].replace(/^[^:]+: /, '')}" style="width:${pct(cnt[s], tot)}%"></i>`).join('')}</div>`;
@@ -368,7 +368,7 @@ function flip() {
   if (session.revealed) return;
   session.ms = Date.now() - session.shown; showBack();
   const { w, d } = current(), c = Object.assign(blank(), card(w, d) || {});
-  const nxt = g => { const x = apply(Object.assign({}, c), g, Date.now()); return g === 0 ? '<1 min' : x.ivl < 1 ? '12 h' : Math.round(x.ivl) + ' pv'; };
+  const nxt = g => ivlText(predict(w, d, g));
   app.querySelector('#controls').innerHTML = `<div class="grades">
     <button class="g0" data-g="0">En muistanut<small>${nxt(0)}</small></button>
     <button class="g1" data-g="1">Vaikea<small>${nxt(1)}</small></button>
@@ -377,6 +377,11 @@ function flip() {
     <div class="hint">1 = en muistanut · 2 = vaikea · 3 = muistin · 4 = helppo</div>`;
   app.querySelectorAll('.grades button').forEach(b => b.onclick = () => grade(+b.dataset.g));
 }
+// Ennuste: millainen kortti on, jos siihen vastataan arviolla g nyt
+function predict(w, d, g) { return apply(Object.assign(blank(), card(w, d) || {}), g, Date.now()); }
+const ivlText = x => x.lastG === 0 ? '<1 min' : x.ivl < 1 ? Math.round(x.ivl * 24) + ' h' : Math.round(x.ivl) + ' pv';
+const dueText = c => { if (!c || !c.n) return ''; const ms = c.due - Date.now(); return ms <= 0 ? ' · kertaus nyt' : ' · seuraava kertaus ' + new Date(c.due).toLocaleString('fi-FI', ms < DAY ? { hour: '2-digit', minute: '2-digit' } : { day: 'numeric', month: 'numeric' }); };
+const nextText = (w, d, g) => { const x = predict(w, d, g); return `Seuraava kertaus ${g === 0 ? 'vielä tässä treenissä' : ivlText(x) + ' päästä'} · ${STATUS[status(x)]}`; };
 function choose(i) {
   if (session.revealed) return;
   const { w } = current(), ok = session.opts[i] === w, ms = Date.now() - session.shown;
@@ -386,6 +391,7 @@ function choose(i) {
   showBack(ok ? 'ok' : 'ko');
   const g = ok ? (ms < 6000 ? 2 : 1) : 0;
   nextAfter(g, ms, ok);
+  app.querySelector('#next').insertAdjacentHTML('beforebegin', `<div class="hint">${nextText(w, current().d, g)}</div>`);
 }
 function typed(val) {
   if (session.revealed) return;
@@ -394,10 +400,12 @@ function typed(val) {
   showBack(ok ? 'ok' : 'ko');
   const ctl = app.querySelector('#controls');
   ctl.innerHTML = `<div class="verdict ${ok ? 'ok' : 'ko'}">${ok ? 'Oikein!' : val.trim() ? `Vastasit: <b>${esc(val)}</b>` : 'Ei vastausta'}</div>
+    <div class="hint" id="nextrev"></div>
     ${ok ? '' : '<button class="btn" id="override" style="margin-top:8px">Vastaukseni oli oikein</button>'}`;
   const g = ok ? 2 : 0;
+  ctl.querySelector('#nextrev').textContent = nextText(w, d, g);
   session.pending = { g, ms };
-  if (!ok) ctl.querySelector('#override').onclick = () => { session.pending.g = 2; ctl.querySelector('.verdict').className = 'verdict ok'; ctl.querySelector('.verdict').textContent = 'Merkitty oikeaksi'; ctl.querySelector('#override').remove(); };
+  if (!ok) ctl.querySelector('#override').onclick = () => { session.pending.g = 2; ctl.querySelector('.verdict').className = 'verdict ok'; ctl.querySelector('.verdict').textContent = 'Merkitty oikeaksi'; ctl.querySelector('#nextrev').textContent = nextText(w, d, 2); ctl.querySelector('#override').remove(); };
   ctl.insertAdjacentHTML('beforeend', '<button class="btn primary big" id="next" style="margin-top:10px">Seuraava</button>');
   ctl.querySelector('#next').onclick = () => { const p = session.pending; session.pending = null; grade(p.g, p.ms); };
   ctl.querySelector('#next').focus();
@@ -480,7 +488,7 @@ function wordsView() {
       const ws = WORDS.filter(w => w.lessons.includes(l.id) && (!q || norm(w.uk).includes(q) || norm(w.fi).includes(q) || (w.ex && norm(exPlain(w.ex.uk)).includes(q))));
       if (!ws.length) return '';
       return `<h2>${esc(l.title)}</h2><div class="panel"><table>${ws.map(w => `<tr>
-        <td style="white-space:nowrap">${['uf', 'fu'].map(d => `<span class="dot" title="${DIRS[d]}: ${STATUS[status(card(w, d))]}" style="background:${colors[status(card(w, d))]}"></span>`).join('')}</td>
+        <td style="white-space:nowrap">${['uf', 'fu'].map(d => `<span class="dot" title="${DIRS[d]}: ${STATUS[status(card(w, d))]}${dueText(card(w, d))}" style="background:${colors[status(card(w, d))]}"></span>`).join('')}</td>
         <td class="uk">${esc(w.uk)} <button class="speak" data-say="${esc(w.uk)}" aria-label="Kuuntele">🔊</button></td><td>${esc(w.fi)}${w.note ? `<div class="small muted">${esc(w.note)}</div>` : ''}${w.ex ? `<div class="small ex-row"><span class="uk">${exHtml(w.ex.uk)}</span> <button class="speak" data-say="${esc(exPlain(w.ex.uk))}" aria-label="Kuuntele lause">🔊</button><br><span class="muted">${esc(w.ex.fi)}</span></div>` : ''}</td></tr>`).join('')}</table></div>`;
     }).join('');
     wireSpeak();
