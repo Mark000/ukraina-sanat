@@ -8,7 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
-const APP_VERSION = '2026-11-11';
+const APP_VERSION = '2026-11-11b';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -174,6 +174,7 @@ document.addEventListener('visibilitychange', () => {
   if (document.hidden) { if (pendingSync) sync(); }
   else if (Date.now() - settings.lastSync > 30000) sync();
 });
+const syncLine = () => `${events.length} vastausta tällä laitteella · ${settings.lastSync ? 'synkronoitu ' + new Date(settings.lastSync).toLocaleString('fi-FI', { day: 'numeric', month: 'numeric', hour: '2-digit', minute: '2-digit' }) : 'ei synkronoitu'} · versio ${APP_VERSION}`;
 function saveSettings() { store.set(LS.settings, settings); }
 
 /* ---------- Puhe ---------- */
@@ -280,6 +281,7 @@ function home() {
         <span class="meta">${ws.length} sanaa</span></label>`;
     }).join('')}</div>
     <div class="legend"><span><i class="c-strong"></i>Vahva</span><span><i class="c-known"></i>Osattu</span><span><i class="c-learn"></i>Opettelussa</span><span><i class="c-new"></i>Uusi</span></div>
+    <p class="small muted" style="margin-top:14px">${syncLine()}</p>
     ${settings.token ? '' : `<p class="small muted" style="margin-top:20px">Tulokset tallentuvat nyt vain tähän selaimeen. Ota synkronointi käyttöön <a href="#" id="toset">asetuksissa</a>, niin edistyminen näkyy myös muilla laitteilla ja Clauden analyysissä.</p>`}`;
   const segs = { dir: v => settings.dir = v, mode: v => settings.mode = v, size: v => settings.size = +v, newn: v => settings.newPerSession = +v };
   for (const [id, fn] of Object.entries(segs)) app.querySelector('#' + id).addEventListener('click', e => { const v = e.target.dataset.v; if (v === undefined) return; fn(v); saveSettings(); home(); });
@@ -448,7 +450,7 @@ function stats() {
       <div class="kpi"><b>${due}</b><span>kerrattavaa nyt</span></div><div class="kpi"><b>${acc7}%</b><span>oikein 7 pv</span></div><div class="kpi"><b>${streak}</b><span>päivän putki</span></div></div>
     <div class="panel"><div class="bar">${['strong', 'known', 'learn'].map(s => `<i class="c-${s}" style="width:${pct(cnt[s], all)}%"></i>`).join('')}</div>
       <div class="legend">${Object.entries(STATUS).map(([k, v]) => `<span><i class="c-${k}"></i>${v} ${cnt[k]}</span>`).join('')}</div>
-      <p class="small muted" style="margin:10px 0 0">${events.length} vastausta tällä laitteella · ${settings.lastSync ? 'synkronoitu ' + new Date(settings.lastSync).toLocaleString('fi-FI', { day: 'numeric', month: 'numeric', hour: '2-digit', minute: '2-digit' }) : 'ei synkronoitu'} · versio ${APP_VERSION}</p>
+      <p class="small muted" style="margin:10px 0 0">${syncLine()}</p>
       <p class="small muted" style="margin:10px 0 0">Kortti = sana yhteen suuntaan, eli jokaisella sanalla on kaksi korttia. "Osattu" = seuraava kertaus aikaisintaan 3 päivän päästä, "vahva" = 3 viikon päästä.</p></div>
     <h2>Vastaukset 14 päivää</h2>
     <div class="panel"><div style="display:flex;align-items:flex-end;gap:4px;height:90px">${perDay.map(x => `<div title="${x.k}: ${x.n}" style="flex:1;background:var(--accent);opacity:${x.n ? 1 : .15};height:${Math.max(3, 90 * x.n / maxN)}px;border-radius:4px 4px 0 0"></div>`).join('')}</div>
