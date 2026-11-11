@@ -8,7 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
-const APP_VERSION = '2026-11-10';
+const APP_VERSION = '2026-11-11';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -200,7 +200,11 @@ async function prepareAudio() {
 function speak(text) {
   if ('speechSynthesis' in window) speechSynthesis.cancel();
   if (audioEl) audioEl.pause();
-  const play = url => { audioEl = new Audio(url); audioEl.play().catch(() => speakSynth(text)); };
+  // Varaääni vain, jos tiedostoa ei saada soimaan. Keskeytys (uusi 🔊-painallus, AbortError) ei ole virhe.
+  const play = url => {
+    const a = audioEl = new Audio(url);
+    a.play().catch(e => { if (e.name !== 'AbortError' && audioEl === a) speakSynth(text); });
+  };
   const url = audioUrls.get(text);
   if (url) play(url); else audioUrl(text).then(play, () => speakSynth(text));
 }
