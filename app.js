@@ -8,7 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
-const APP_VERSION = '2026-11-11b';
+const APP_VERSION = '2026-11-11c';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -112,6 +112,15 @@ function status(c) {
   return 'strong';
 }
 const STATUS = { new: 'Uusi', learn: 'Opettelussa', known: 'Osattu', strong: 'Vahva' };
+// Hiiren alle tuleva selitys (title). Raja = seuraavan kertauksen väli, joka kasvaa jokaisesta oikeasta vastauksesta.
+const STATUS_HELP = {
+  new: 'Uusi: korttia ei ole vielä kysytty kertaakaan.',
+  learn: 'Opettelussa: kortti on kysytty, mutta seuraava kertaus on alle 3 päivän päästä. Väärä vastaus palauttaa kortin tähän.',
+  known: 'Osattu: seuraava kertaus aikaisintaan 3 päivän päästä. Yleensä kaksi oikeaa vastausta eri päivinä.',
+  strong: 'Vahva: seuraava kertaus aikaisintaan 3 viikon päästä. Yleensä neljä oikeaa vastausta viikkojen aikana.',
+};
+const legendHtml = cnt => `<div class="legend">${['strong', 'known', 'learn', 'new'].map(k => `<span title="${STATUS_HELP[k]}"><i class="c-${k}"></i>${STATUS[k]}${cnt ? ' ' + cnt[k] : ''}</span>`).join('')}</div>`;
+const barHtml = (cnt, tot, style = '') => `<div class="bar"${style}>${['strong', 'known', 'learn'].map(s => `<i class="c-${s}" title="${STATUS[s]}: ${cnt[s]} / ${tot} korttia (${pct(cnt[s], tot)} %). ${STATUS_HELP[s].replace(/^[^:]+: /, '')}" style="width:${pct(cnt[s], tot)}%"></i>`).join('')}</div>`;
 
 function record(w, d, m, g, ms) {
   const e = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 7), t: Date.now(), w: w.uk, d, m, g, ms };
@@ -277,10 +286,10 @@ function home() {
       for (const w of ws) for (const d of dirs) cnt[status(card(w, d))]++;
       const tot = ws.length * dirs.length;
       return `<label class="lesson"><input type="checkbox" value="${l.id}" ${sel.has(l.id) ? 'checked' : ''}>
-        <span class="name">${esc(l.title)}<div class="bar" style="margin-top:6px">${['strong', 'known', 'learn'].map(s => `<i class="c-${s}" style="width:${pct(cnt[s], tot)}%"></i>`).join('')}</div></span>
+        <span class="name">${esc(l.title)}${barHtml(cnt, tot, ' style="margin-top:6px"')}</span>
         <span class="meta">${ws.length} sanaa</span></label>`;
     }).join('')}</div>
-    <div class="legend"><span><i class="c-strong"></i>Vahva</span><span><i class="c-known"></i>Osattu</span><span><i class="c-learn"></i>Opettelussa</span><span><i class="c-new"></i>Uusi</span></div>
+    ${legendHtml()}
     <p class="small muted" style="margin-top:14px">${syncLine()}</p>
     ${settings.token ? '' : `<p class="small muted" style="margin-top:20px">Tulokset tallentuvat nyt vain tähän selaimeen. Ota synkronointi käyttöön <a href="#" id="toset">asetuksissa</a>, niin edistyminen näkyy myös muilla laitteilla ja Clauden analyysissä.</p>`}`;
   const segs = { dir: v => settings.dir = v, mode: v => settings.mode = v, size: v => settings.size = +v, newn: v => settings.newPerSession = +v };
@@ -448,8 +457,8 @@ function stats() {
   app.innerHTML = `<h1>Tilastot</h1>
     <div class="kpis"><div class="kpi"><b>${cnt.known + cnt.strong}</b><span>osattua korttia / ${all}</span></div>
       <div class="kpi"><b>${due}</b><span>kerrattavaa nyt</span></div><div class="kpi"><b>${acc7}%</b><span>oikein 7 pv</span></div><div class="kpi"><b>${streak}</b><span>päivän putki</span></div></div>
-    <div class="panel"><div class="bar">${['strong', 'known', 'learn'].map(s => `<i class="c-${s}" style="width:${pct(cnt[s], all)}%"></i>`).join('')}</div>
-      <div class="legend">${Object.entries(STATUS).map(([k, v]) => `<span><i class="c-${k}"></i>${v} ${cnt[k]}</span>`).join('')}</div>
+    <div class="panel">${barHtml(cnt, all)}
+      ${legendHtml(cnt)}
       <p class="small muted" style="margin:10px 0 0">${syncLine()}</p>
       <p class="small muted" style="margin:10px 0 0">Kortti = sana yhteen suuntaan, eli jokaisella sanalla on kaksi korttia. "Osattu" = seuraava kertaus aikaisintaan 3 päivän päästä, "vahva" = 3 viikon päästä.</p></div>
     <h2>Vastaukset 14 päivää</h2>
