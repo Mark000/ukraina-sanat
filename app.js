@@ -8,7 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
-const APP_VERSION = '2026-11-12';
+const APP_VERSION = '2026-11-12b';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -408,7 +408,9 @@ function flip() {
 }
 // Ennuste: millainen kortti on, jos siihen vastataan arviolla g nyt
 function predict(w, d, g) { return apply(Object.assign(blank(), card(w, d) || {}), g, Date.now()); }
-const ivlText = x => x.lastG === 0 ? '<1 min' : x.ivl < 1 ? Math.round(x.ivl * 24) + ' h' : Math.round(x.ivl) + ' pv';
+// Väli luettavassa muodossa: tunnit, päivät (alle 2 vk), viikot (alle 2 kk), kuukaudet
+const ivlText = x => x.lastG === 0 ? '<1 min' : x.ivl < 1 ? Math.round(x.ivl * 24) + ' h' : x.ivl < 14 ? Math.round(x.ivl) + ' pv'
+  : x.ivl < 60 ? Math.round(x.ivl / 7) + ' vk' : Math.round(x.ivl / 30) + ' kk';
 const dueText = c => { if (!c || !c.n) return ''; const ms = c.due - Date.now(); return ms <= 0 ? ' · kertaus nyt' : ' · seuraava kertaus ' + new Date(c.due).toLocaleString('fi-FI', ms < DAY ? { hour: '2-digit', minute: '2-digit' } : { day: 'numeric', month: 'numeric' }); };
 const nextText = (w, d, g) => { const x = predict(w, d, g); return `Seuraava kertaus ${g === 0 ? 'vielä tässä treenissä' : ivlText(x) + ' päästä'} · ${STATUS[status(x)]}`; };
 function choose(i) {
