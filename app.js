@@ -8,7 +8,7 @@ const LS = { events: 'us.events.v1', settings: 'us.settings.v1' };
 const GIST_DESC = 'ukraina-sanat progress';
 const GIST_FILE = 'progress.json';
 const DAY = 86400000;
-const APP_VERSION = '2026-11-11d';
+const APP_VERSION = '2026-11-12';
 const DIRS = { uf: 'Ukraina → suomi', fu: 'Suomi → ukraina' };
 const MODES = { card: 'Kortit', mc: 'Monivalinta', type: 'Kirjoitus' };
 
@@ -49,6 +49,7 @@ async function loadWords() {
     seen.set(r.uk, w); WORDS.push(w);
   }
   for (const r of rows) { const w = seen.get(r.uk); if (w && !(r.lid in w.pos)) { w.lessons.push(r.lid); w.pos[r.lid] = r.pos; } }
+  LESSONS.unshift({ id: HARD_ID, title: 'Vaikeimmat sanat (päivittyy automaattisesti)', off: true, dynamic: true });
   await loadExamples();
   // Uudet osiot valitaan automaattisesti (paitsi "off"-merkityt), vanhat valinnat säilyvät
   const known = new Set(settings.knownLessons || (settings.lessons ? LESSONS.filter(l => settings.lessons.includes(l.id)).map(l => l.id) : []));
@@ -105,6 +106,28 @@ function rebuild() {
   }
 }
 const card = (w, d) => cards.get(w.uk + '|' + d);
+
+/* ---------- Vaikeimmat sanat (dynaaminen osio) ----------
+ * Kortti on vaikea, jos siihen on vastattu vähintään kahdesti ja se ei ole vahva, ja joko
+ * oikein-% on alle 80 tai se on unohdettu ainakin kerran. Mukaan otetaan HARD_MAX vaikeinta
+ * (huonoin oikein-% ensin). Osio lasketaan uudelleen aina etusivulle tultaessa, joten opitut sanat
+ * putoavat pois itsestään. Kun osio on valittu, sen kortit kysytään heti, vaikka kertausaika ei olisi tullut. */
+const HARD_ID = 'HARD', HARD_MAX = 40;
+let hardKeys = new Set();
+function refreshHard() {
+  const list = [];
+  for (const w of WORDS) for (const d of ['uf', 'fu']) {
+    const c = card(w, d);
+    if (c && c.n >= 2 && status(c) !== 'strong' && (c.ok / c.n < 0.8 || c.lapses >= 1)) list.push({ w, d, acc: c.ok / c.n, lapses: c.lapses });
+  }
+  list.sort((a, b) => a.acc - b.acc || b.lapses - a.lapses);
+  hardKeys = new Set(list.slice(0, HARD_MAX).map(x => x.w.uk + '|' + x.d));
+  for (const w of WORDS) {
+    const hard = hardKeys.has(w.uk + '|uf') || hardKeys.has(w.uk + '|fu'), i = w.lessons.indexOf(HARD_ID);
+    if (hard && i < 0) { w.lessons.push(HARD_ID); w.pos[HARD_ID] = -1; }
+    if (!hard && i >= 0) { w.lessons.splice(i, 1); delete w.pos[HARD_ID]; }
+  }
+}
 function status(c) {
   if (!c || c.n === 0) return 'new';
   if (c.ivl < 3) return 'learn';
@@ -262,9 +285,10 @@ async function grammarView() {
 }
 
 function home() {
+  refreshHard();
   const now = Date.now(), sel = new Set(settings.lessons), dirs = dirsFor(settings.dir);
   let due = 0, fresh = 0;
-  for (const w of WORDS) if (w.lessons.some(id => sel.has(id))) for (const d of dirs) { const c = card(w, d); if (!c || !c.n) fresh++; else if (c.due <= now) due++; }
+  for (const w of WORDS) if (w.lessons.some(id => sel.has(id))) for (const d of dirs) { const c = card(w, d); if (!c || !c.n) fresh++; else if (c.due <= now || (sel.has(HARD_ID) && hardKeys.has(w.uk + '|' + d))) due++; }
   const today = events.filter(e => dayKey(e.t) === dayKey(now)).length;
   app.innerHTML = `
     <h1>Treeni</h1>
@@ -285,7 +309,8 @@ function home() {
       const ws = WORDS.filter(w => w.lessons.includes(l.id)); const cnt = { new: 0, learn: 0, known: 0, strong: 0 };
       for (const w of ws) for (const d of dirs) cnt[status(card(w, d))]++;
       const tot = ws.length * dirs.length;
-      return `<label class="lesson"><input type="checkbox" value="${l.id}" ${sel.has(l.id) ? 'checked' : ''}>
+      if (l.dynamic && !ws.length) return `<div class="lesson muted small" title="Tähän tulevat sanat, joihin olet vastannut vähintään kahdesti ja joiden oikein-% on alle 80 tai jotka olet unohtanut.">${esc(l.title)}: ei vielä vaikeita sanoja</div>`;
+      return `<label class="lesson"${l.dynamic ? ` title="Enintään ${HARD_MAX} korttia, joissa oikein-% on alle 80 tai jotka olet unohtanut (vähintään 2 vastausta, ei vahvoja). Valittuna nämä kysytään heti, vaikka kertausaika ei olisi tullut. Sana putoaa pois, kun se alkaa sujua."` : ''}><input type="checkbox" value="${l.id}" ${sel.has(l.id) ? 'checked' : ''}>
         <span class="name">${esc(l.title)}${barHtml(cnt, tot, ' style="margin-top:6px"')}</span>
         <span class="meta">${ws.length} sanaa</span></label>`;
     }).join('')}</div>
@@ -304,11 +329,15 @@ function home() {
 /* ---------- Treenisessio ---------- */
 let session = null;
 function startSession() {
+  refreshHard();
   const now = Date.now(), sel = new Set(settings.lessons), dirs = dirsFor(settings.dir);
   const due = [], fresh = [];
   for (const w of WORDS) if (w.lessons.some(id => sel.has(id))) for (const d of dirs) {
     const c = card(w, d);
-    if (!c || !c.n) fresh.push({ w, d }); else if (c.due <= now) due.push({ w, d, due: c.due });
+    // Vaikeimmat-osion kortit kysytään heti (lajitellaan ensimmäisiksi), muut kun kertausaika on tullut
+    if (!c || !c.n) fresh.push({ w, d });
+    else if (sel.has(HARD_ID) && hardKeys.has(w.uk + '|' + d)) due.push({ w, d, due: -1 });
+    else if (c.due <= now) due.push({ w, d, due: c.due });
   }
   due.sort((a, b) => a.due - b.due);
   // Uudet sanat valittujen osioiden omassa järjestyksessä (sana, joka on myös aiemmassa osiossa, tulee tämän osion kohdalla)
